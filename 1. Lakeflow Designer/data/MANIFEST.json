@@ -1,0 +1,59 @@
+{
+  "files": {
+    "_facilitator/sow_rates_answer_key.json": "f687f4ba4a64d5df8682d429659e0d97",
+    "_facilitator/sow_terms_answer_key.json": "0d471a1e464b5b7b8bf54fd06e22f723",
+    "contracts/CR-26-005-01.pdf": "0ec4f011336473cbc5962f45dd75622b",
+    "contracts/SOW-26-001.pdf": "b00b17a00cf07cd010181756385de608",
+    "contracts/SOW-26-002.pdf": "b68fdf981233f71790a52c33c2720502",
+    "contracts/SOW-26-003.pdf": "d96e4acc42c3a29a5c9b8172594006b6",
+    "contracts/SOW-26-004.pdf": "837b7339d1f703b55c9247b26160e837",
+    "contracts/SOW-26-005.pdf": "5521bfcdc692fc41fea35fe99c0e8495",
+    "contracts/SOW-26-006.pdf": "e14ca4983cfb279be9c10220f091a5b6",
+    "contracts/SOW-26-007.pdf": "ad558265c36343ffdf6f852481e575a4",
+    "contracts/SOW-26-008.pdf": "ad02a1b9d19d5577906653a0e8074af8",
+    "contracts/SOW-26-009.pdf": "e4258f0153f308f1444548f296fb8e75",
+    "contracts/SOW-26-010.pdf": "072ccd13d9edba64eea1c61029376e12",
+    "contracts/SOW-26-011.pdf": "d24dcafd7d7f3480f761d120db9661ca",
+    "contracts/SOW-26-012.pdf": "6d1b1c793c31afd744d109c8dee28ad8",
+    "contracts/SOW-26-013.pdf": "ea5f49b2a29d5e8927613a3f1d286d27",
+    "contracts/SOW-26-014.pdf": "1286022f7764bf33fd804edbd78e90ed",
+    "contracts/SOW-26-015.pdf": "d64c9664dc18bbc2f57e6f5090149917",
+    "contracts/SOW-26-016.pdf": "14ffb0b4126fca653f44c35661875c1f",
+    "designer_demo/sow_extraction_demo.designer.ipynb.json": "839835c909934394b68d8715aa6fce01",
+    "expenses/expenses_2026_08.json": "2a8f85acaef155afb26b31687b83c974",
+    "expenses/expenses_2026_09.json": "7f10a71d790176b7ea026a87532b63e6",
+    "expenses/expenses_2026_10.json": "69536e565d6ee60b65eb3348dc0620b7",
+    "new_month/timesheets_2026_11.csv": "ca6aec2c6893b48a7c20252241d4ec17",
+    "reference/fx_rates_monthly.csv": "83e8897fa9ed1825ea3829f30ee88461",
+    "reference/grade_rate_card.csv": "0ebc830b2df059f61a8381ed5c98737b",
+    "tables/clients.jsonl": "48c464366671d365a3ea48ee011c1379",
+    "tables/employees.jsonl": "6943ed94f3d1866474f71a37d31ac994",
+    "tables/engagement_assignments.jsonl": "0890a8a5bcca4f491cb6a30ea024150c",
+    "tables/engagements.jsonl": "3abbd683524a0631061501c26e875fcf",
+    "timesheets/timesheets_2026_08.csv": "a38256fd31b738b472e19bf854359c79",
+    "timesheets/timesheets_2026_09.csv": "f27db9ecd00bf0693ea909b1c147f3d0",
+    "timesheets/timesheets_2026_10.csv": "1bedc349e0b3b5cb58af7ec35b9bffc3"
+  },
+  "tables": {
+    "employees": {
+      "ddl": "employee_id STRING, full_name STRING, first_name STRING, last_name STRING, email STRING, grade STRING, grade_level INT, practice STRING, office STRING, manager_id STRING, hire_date DATE, employment_type STRING, annual_utilisation_target DOUBLE, is_active BOOLEAN",
+      "comment": "HR master data. One row per employee. manager_id is the line manager (self-join to employee_id). Utilisation target is billable hours / available hours.",
+      "rows": 60
+    },
+    "clients": {
+      "ddl": "client_id STRING, client_name STRING, industry STRING, city STRING, country STRING, billing_currency STRING, client_tier STRING, relationship_partner_id STRING, client_since DATE",
+      "comment": "CRM client master. relationship_partner_id joins to employees.employee_id.",
+      "rows": 12
+    },
+    "engagements": {
+      "ddl": "engagement_code STRING, engagement_name STRING, engagement_type STRING, client_id STRING, practice STRING, billing_type STRING, engagement_partner_id STRING, engagement_manager_id STRING, start_date DATE, end_date DATE, status STRING, sow_reference STRING",
+      "comment": "Engagement (project) master: client engagements plus internal non-chargeable time codes (INT-*). Fees and agreed day rates are only in the Statement of Work PDFs.",
+      "rows": 20
+    },
+    "engagement_assignments": {
+      "ddl": "assignment_id STRING, engagement_code STRING, employee_id STRING, role STRING, allocation_pct DOUBLE, assigned_from DATE, assigned_to DATE",
+      "comment": "Resourcing: which employees are staffed on which engagement, their role and planned allocation (0-1).",
+      "rows": 88
+    }
+  }
+}

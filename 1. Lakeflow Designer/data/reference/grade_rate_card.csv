@@ -1,0 +1,9 @@
+grade,grade_level,standard_day_rate_gbp,cost_day_rate_gbp,effective_from
+Partner,8,2400,1100,2026-04-01
+Director,7,1950,850,2026-04-01
+Senior Manager,6,1600,650,2026-04-01
+Manager,5,1300,520,2026-04-01
+Assistant Manager,4,1050,400,2026-04-01
+Senior Consultant,3,850,320,2026-04-01
+Consultant,2,650,250,2026-04-01
+Analyst,1,480,190,2026-04-01

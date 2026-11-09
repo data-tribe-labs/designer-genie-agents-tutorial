@@ -1,0 +1,2447 @@
+timesheet_id,employee_id,engagement_code,work_date,hours,activity,billable,approval_status,comments
+TS0000111,EMP1001,ENG-26-001,01/10/2026,1.0,Review,Y,Approved,Draft deliverable
+TS0000112,EMP1001,ENG-26-013,01/10/2026,2.0,Controls Testing,Y,Approved,Client workshop
+TS0000113,EMP1001,INT-BD,01/10/2026,4.5,Business Development,N,Approved,Client workshop
+TS0000271,EMP1002,eng-26-003,01/10/2026,0.5,Testing,Y,Approved,Travel to client site
+TS0000272,EMP1002,ENG-26-011,01/10/2026,0.5,Testing,Y,Approved,Team catch-up
+TS0000273,EMP1002,INT-BD,01/10/2026,6.5,Business Development,N,Approved,Client workshop
+TS0000447,EMP1003,ENG-26-014,01/10/2026,0.5,Management Meetings,Y,Approved,
+TS0000448,EMP1003,INT-BD,01/10/2026,7.0,Business Development,N,Approved,Travel to client site
+TS0000584,EMP1004,ENG-26-002,01/10/2026,0.5,Interviews,Y,Approved,Draft deliverable
+TS0000585,EMP1004,ENG-26-010,01/10/2026,0.5,Analysis,Y,Approved,
+TS0000586,EMP1004,INT-BD,01/10/2026,6.5,Business Development,N,Approved,
+TS0000725,EMP1005,ENG-26-015,01/10/2026,0.5,Review,Y,Approved,
+TS0000726,EMP1005,INT-BD,01/10/2026,7.0,Business Development,N,Approved,Travel to client site
+TS0000831,EMP1006,ENG-26-007,01/10/2026,0.5,Fieldwork,Y,Approved,
+TS0000832,EMP1006,INT-ADM,01/10/2026,7.0,Internal Administration,N,Approved,
+TS0000959,EMP1007,ENG-26-006  ,01/10/2026,1.0,Requirements,Y,Approved,Team catch-up
+TS0000960,EMP1007,INT-ADM,01/10/2026,6.5,Internal Administration,N,Approved,Draft deliverable
+TS0001080,EMP1008,INT-LVE,01/10/2026,7.5,Annual Leave,N,Submitted,Annual leave
+TS0001205,EMP1009,ENG-26-005,01/10/2026,0.5,Scoping,Y,Approved,
+TS0001206,EMP1009,INT-ADM,01/10/2026,7.0,Internal Administration,N,Approved,Draft deliverable
+TS0001322,EMP1010,ENG-26-012,01/10/2026,1.0,Data Gathering,Y,Approved,
+TS0001323,EMP1010,INT-ADM,01/10/2026,6.5,Internal Administration,N,Approved,Review points cleared
+TS0001444,EMP1011,ENG-26-001,01/10/2026,3.5,Review,Y,Approved,Team catch-up
+TS0001445,EMP1011,int-adm,01/10/2026,4.0,Internal Administration,N,Approved,Team catch-up
+TS0001570,EMP1012,ENG-26-003,01/10/2026,4.0,Workshops,y,Approved,
+TS0001571,EMP1012,INT-ADM,01/10/2026,3.5,Internal Administration,N,Approved,
+TS0001690,EMP1013,INT-BD,01/10/2026,7.5,Business Development,n,Approved,Travel to client site
+TS0001792,EMP1014,ENG-26-002,01/10/2026,3.5,Reporting,Y,Approved,
+TS0001793,EMP1014,INT-ADM,01/10/2026,4.0,Internal Administration,N,Approved,Team catch-up
+TS0001919,EMP1015,INT-BD,01/10/2026,7.5,Business Development,N,Approved,
+TS0002005,EMP1016,ENG-26-007,01/10/2026,2.0,Planning,Y,Rejected,Review points cleared
+TS0002006,EMP1016,INT-ADM,01/10/2026,5.5,Internal Administration,N,Rejected,Team catch-up
+TS0002131,EMP1017,ENG-26-006,01/10/2026,3.5,PMO,Y,Approved,Client workshop
+TS0002132,EMP1017,INT-BD,01/10/2026,4.0,Business Development,N,Approved,Review points cleared
+TS0002235,EMP1018,eng-26-009,01/10/2026,3.5,Report Drafting,Y,Approved,Review points cleared
+TS0002236,EMP1018,INT-ADM,01/10/2026,4.0,Internal Administration,N,Approved,Review points cleared
+TS0002347,EMP1019,ENG-26-013,01/10/2026,3.5,Reporting,Y,Approved,
+TS0002348,EMP1019,INT-ADM,01/10/2026,4.0,Internal Administration,N,Approved,Travel to client site
+TS0002444,EMP1020,INT-LVE,01/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0002565,EMP1021,ENG-26-014,01/10/2026,2.5,Management Meetings,Y,Approved,Travel to client site
+TS0002566,EMP1021,INT-TRN,01/10/2026,5.0,Training & CPD,N,Approved,
+TS0002673,EMP1022,ENG-26-005,01/10/2026,2.5,Analysis,Y,Approved,Review points cleared
+TS0002674,EMP1022,INT-TRN,01/10/2026,5.0,Training & CPD,N,Approved,
+TS0002791,EMP1023,ENG-26-012,01/10/2026,2.5,Technical Research,Y,Approved,
+TS0002792,EMP1023,int-trn,01/10/2026,5.0,Training & CPD,N,Approved,
+TS0002872,EMP1024,INT-TRN,01/10/2026,7.5,Training & CPD,N,Approved,Client workshop
+TS0002936,EMP1025,INT-ADM,01/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0003019,EMP1026,INT-TRN,01/10/2026,7.5,Training & CPD,N,Approved,Draft deliverable
+TS0003111,EMP1027,ENG-26-010,01/10/2026,5.5,Analysis,Y,Approved,Team catch-up
+TS0003112,EMP1027,int-adm,01/10/2026,2.0,Internal Administration,N,Approved,
+TS0003187,EMP1028,ENG-26-015,01/10/2026,3.0,Technical Research,Y,Approved,Review points cleared
+TS0003188,EMP1028,INT-TRN,01/10/2026,4.5,Training & CPD,N,Approved,Travel to client site
+TS0003308,EMP1029,ENG-26-001,01/10/2026,6.0,Fieldwork,Y,Approved,
+TS0003309,EMP1029,INT-ADM,01/10/2026,1.5,Internal Administration,N,Approved,Client workshop
+TS0003435,EMP1030,ENG-26-006,01/10/2026,3.5,Testing,Y,Approved,
+TS0003436,EMP1030,ENG-26-011,01/10/2026,4.0,Requirements,Y,Approved,
+TS0003578,EMP1031,ENG-26-009  ,01/10/2026,3.5,Analysis,N,Approved,Non-chargeable rework
+TS0003579,EMP1031,ENG-26-014,01/10/2026,3.0,Report Drafting,Y,Approved,Client workshop
+TS0003580,EMP1031,int-adm,01/10/2026,1.0,Internal Administration,N,Approved,
+TS0003712,EMP1032,ENG-26-005,01/10/2026,5.0,Reporting,Y,Approved,
+TS0003713,EMP1032,ENG-26-010,01/10/2026,2.0,Controls Testing,Y,Approved,
+TS0003714,EMP1032,INT-TRN,01/10/2026,0.5,Training & CPD,N,Approved,Team catch-up
+TS0003844,EMP1033,INT-LVE,01/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0003962,EMP1034,ENG-26-007,01/10/2026,4.0,Fieldwork,Y,Approved,Client workshop
+TS0003963,EMP1034,ENG-26-013,01/10/2026,3.5,Fieldwork,Y,Approved,
+TS0004065,EMP1035,ENG-26-003,01/10/2026,7.5,Reporting,Y,Approved,Draft deliverable
+TS0004179,EMP1036,eng-26-015,01/10/2026,2.5,Client Meeting,Y,Approved,
+TS0004180,EMP1036,INT-ADM,01/10/2026,5.0,Internal Administration,N,Approved,
+TS0004313,EMP1037,ENG-26-001,01/10/2026,6.0,Review,Y,Approved,
+TS0004314,EMP1037,ENG-26-013,01/10/2026,4.0,Controls Testing,Y,Approved,Review points cleared
+TS0004446,EMP1038,ENG-26-003,01/10/2026,6.5,PMO,Y,Rejected,
+TS0004447,EMP1038,ENG-26-015,01/10/2026,3.5,Technical Research,Y,Rejected,Client workshop
+TS0004570,EMP1039,INT-ADM,01/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0004703,EMP1040,ENG-26-002,01/10/2026,7.0,Scoping,N,Approved,Non-chargeable rework
+TS0004704,EMP1040,ENG-26-010,01/10/2026,2.0,Controls Testing,Y,Approved,
+TS0004837,EMP1041,eng-26-012,01/10/2026,4.0,Review,Y,Approved,
+TS0004838,EMP1041,INT-TRN,01/10/2026,3.5,Training & CPD,N,Approved,Team catch-up
+TS0004956,EMP1042,ENG-26-010,01/10/2026,4.0,Interviews,Y,Approved,
+TS0004957,EMP1042,ENG-26-013,01/10/2026,5.5,Controls Testing,Y,Approved,Travel to client site
+TS0005089,EMP1043,ENG-26-006,01/10/2026,7.0,Reporting,Y,Approved,
+TS0005090,EMP1043,ENG-26-011,01/10/2026,4.0,Testing,Y,Approved,
+TS0005195,EMP1044,ENG-26-009,01/10/2026,4.5,Report Drafting,Y,Approved,Draft deliverable
+TS0005196,EMP1044,INT-TRN,01/10/2026,3.0,Training & CPD,N,Approved,Review points cleared
+TS0005334,EMP1045,ENG-26-002,01/10/2026,6.5,Controls Testing,Y,Approved,
+TS0005335,EMP1045,ENG-26-005,01/10/2026,1.5,Controls Testing,Y,Approved,Client workshop
+TS0005470,EMP1046,ENG-26-012,01/10/2026,1.5,Computation,Y,Approved,Team catch-up
+TS0005471,EMP1046,INT-ADM,01/10/2026,6.0,Internal Administration,N,Approved,
+TS0005569,EMP1047,ENG-26-007,01/10/2026,4.5,Fieldwork,Y,Approved,Travel to client site
+TS0005570,EMP1047,INT-ADM,01/10/2026,3.0,Internal Administration,N,Approved,Team catch-up
+TS0005685,EMP1048,ENG-26-006,01/10/2026,5.0,Workshops,Y,Approved,Client workshop
+TS0005686,EMP1048,INT-TRN,01/10/2026,2.5,Training & CPD,N,Approved,Review points cleared
+TS0005825,EMP1049,ENG-26-009,01/10/2026,2.0,Analysis,y,Approved,Client workshop
+TS0005826,EMP1049,ENG-26-014,01/10/2026,4.5,Report Drafting,Y,Approved,
+TS0005827,EMP1049,INT-ADM,01/10/2026,1.0,Internal Administration,N,Approved,Review points cleared
+TS0005927,EMP1050,ENG-26-005,01/10/2026,7.0,Interviews,Y,Approved,Review points cleared
+TS0005928,EMP1050,INT-ADM,01/10/2026,0.5,Internal Administration,N,Approved,Review points cleared
+TS0006013,EMP1051,INT-ADM,01/10/2026,7.5,Internal Administration,N,Approved,
+TS0006095,EMP1052,ENG-26-001,01/10/2026,9.0,Review,Y,Approved,Client workshop
+TS0006211,EMP1053,ENG-26-003,01/10/2026,3.0,Reporting,Y,Approved,Draft deliverable
+TS0006212,EMP1053,ENG-26-011  ,01/10/2026,4.0,Reporting,Y,Approved,
+TS0006213,EMP1053,INT-ADM,01/10/2026,0.5,Internal Administration,n,Approved,
+TS0006357,EMP1054,ENG-26-014,01/10/2026,3.5,Management Meetings,Y,Approved,Team catch-up
+TS0006358,EMP1054,INT-ADM,01/10/2026,4.0,Internal Administration,N,Approved,
+TS0006460,EMP1055,ENG-26-002,01/10/2026,6.0,Controls Testing,Y,Approved,
+TS0006461,EMP1055,INT-ADM,01/10/2026,1.5,Internal Administration,N,Approved,Travel to client site
+TS0006558,EMP1056,ENG-26-007,01/10/2026,3.0,Fieldwork,Y,Approved,Client workshop
+TS0006559,EMP1056,ENG-26-015,01/10/2026,5.0,Client Meeting,Y,Approved,
+TS0006688,EMP1057,ENG-26-006  ,01/10/2026,6.5,Reporting,Y,Approved,
+TS0006689,EMP1057,INT-ADM,01/10/2026,1.0,Internal Administration,N,Approved,Team catch-up
+TS0006824,EMP1058,ENG-26-014,01/10/2026,3.0,Management Meetings,Y,Approved,
+TS0006825,EMP1058,ENG-26-015,01/10/2026,4.0,Computation,Y,Approved,Travel to client site
+TS0006826,EMP1058,INT-TRN,01/10/2026,0.5,Training & CPD,N,Approved,Review points cleared
+TS0006926,EMP1059,ENG-26-005,01/10/2026,8.5,Reporting,Y,Approved,Travel to client site
+TS0007042,EMP1060,ENG-26-012,01/10/2026,1.5,Computation,Y,Approved,
+TS0007043,EMP1060,INT-TRN,01/10/2026,6.0,Training & CPD,N,Approved,Team catch-up
+TS0000114,EMP1001,ENG-26-001,02/10/2026,1.0,Planning,Y,Approved,Travel to client site
+TS0000115,EMP1001,ENG-26-013,02/10/2026,1.5,Controls Testing,Y,Approved,Team catch-up
+TS0000116,EMP1001,INT-ADM,02/10/2026,5.0,Internal Administration,N,Approved,Team catch-up
+TS0000274,EMP1002,ENG-26-003  ,02/10/2026,0.5,Testing,Y,Approved,Travel to client site
+TS0000275,EMP1002,ENG-26-011,02/10/2026,1.0,Reporting,Y,Approved,Draft deliverable
+TS0000276,EMP1002,INT-BD,02/10/2026,6.0,Business Development,N,Approved,Team catch-up
+TS0000449,EMP1003,ENG-26-014,02/10/2026,0.5,Review,N,Approved,Non-chargeable rework
+TS0000450,EMP1003,INT-ADM,02/10/2026,7.0,Internal Administration,N,Approved,Client workshop
+TS0000587,EMP1004,ENG-26-002,02/10/2026,0.5,Analysis,Y,Approved,
+TS0000588,EMP1004,ENG-26-010,02/10/2026,0.5,Controls Testing,y,Approved,Client workshop
+TS0000589,EMP1004,INT-BD,02/10/2026,6.5,Business Development,N,Approved,
+TS0000727,EMP1005,ENG-26-015,02/10/2026,0.5,Data Gathering,Y,Approved,
+TS0000728,EMP1005,INT-BD,02/10/2026,7.0,Business Development,N,Approved,Client workshop
+TS0000833,EMP1006,ENG-26-007,02/10/2026,0.5,Controls Testing,Y,Approved,Review points cleared
+TS0000834,EMP1006,INT-BD,02/10/2026,7.0,Business Development,N,Approved,Client workshop
+TS0000961,EMP1007,ENG-26-006,02/10/2026,0.5,Workshops,Y,Approved,Travel to client site
+TS0000962,EMP1007,INT-BD,02/10/2026,7.0,Business Development,N,Approved,
+TS0001081,EMP1008,ENG-26-009,02/10/2026,2.5,Report Drafting,Y,Approved,
+TS0001082,EMP1008,INT-BD,02/10/2026,5.0,Business Development,N,Approved,Travel to client site
+TS0001207,EMP1009,ENG-26-005,02/10/2026,0.5,Scoping,Y,Approved,
+TS0001208,EMP1009,INT-BD,02/10/2026,7.0,Business Development,N,Approved,Draft deliverable
+TS0001324,EMP1010,ENG-26-012,02/10/2026,0.5,Review,Y,Approved,Travel to client site
+TS0001325,EMP1010,INT-BD,02/10/2026,7.0,Business Development,N,Approved,Client workshop
+TS0001446,EMP1011,ENG-26-001,02/10/2026,3.0,Controls Testing,Y,Approved,Client workshop
+TS0001447,EMP1011,INT-ADM,02/10/2026,4.5,Internal Administration,N,Approved,
+TS0001572,EMP1012,ENG-26-003,02/10/2026,3.0,PMO,Y,Approved,
+TS0001573,EMP1012,INT-BD,02/10/2026,4.5,Business Development,N,Approved,
+TS0001691,EMP1013,INT-BD,02/10/2026,7.5,Business Development,N,Approved,Client workshop
+TS0001794,EMP1014,ENG-26-002,02/10/2026,2.5,Controls Testing,Y,Approved,
+TS0001795,EMP1014,INT-BD,02/10/2026,5.0,Business Development,N,Approved,Team catch-up
+TS0001920,EMP1015,INT-ADM,02/10/2026,7.5,Internal Administration,N,Approved,
+TS0002007,EMP1016,ENG-26-007,02/10/2026,3.5,Review,Y,Approved,
+TS0002008,EMP1016,INT-BD,02/10/2026,4.0,Business Development,N,Approved,
+TS0002133,EMP1017,ENG-26-006,02/10/2026,2.5,Workshops,Y,Approved,
+TS0002134,EMP1017,INT-BD,02/10/2026,5.0,Business Development,N,Approved,
+TS0002237,EMP1018,ENG-26-009,02/10/2026,3.0,Analysis,Y,Approved,
+TS0002238,EMP1018,INT-BD,02/10/2026,4.5,Business Development,N,Approved,
+TS0002349,EMP1019,ENG-26-013,02/10/2026,3.0,Review,Y,Approved,
+TS0002350,EMP1019,INT-ADM,02/10/2026,4.5,Internal Administration,N,Approved,
+TS0002445,EMP1020,ENG-26-011,02/10/2026,3.0,PMO,Y,Approved,Client workshop
+TS0002446,EMP1020,INT-ADM,02/10/2026,4.5,Internal Administration,N,Approved,
+TS0002567,EMP1021,ENG-26-014,02/10/2026,3.0,Review,Y,Approved,Client workshop
+TS0002568,EMP1021,INT-TRN,02/10/2026,4.5,Training & CPD,N,Approved,Team catch-up
+TS0002675,EMP1022,ENG-26-005,02/10/2026,3.5,Reporting,Y,Approved,
+TS0002676,EMP1022,INT-ADM,02/10/2026,4.0,Internal Administration,N,Approved,Client workshop
+TS0002793,EMP1023,ENG-26-012,02/10/2026,3.5,Client Meeting,Y,Approved,
+TS0002794,EMP1023,INT-ADM,02/10/2026,4.0,Internal Administration,N,Approved,Travel to client site
+TS0002873,EMP1024,INT-ADM,02/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0002937,EMP1025,INT-TRN,02/10/2026,7.5,Training & CPD,N,Approved,Client workshop
+TS0003020,EMP1026,INT-ADM,02/10/2026,7.5,Internal Administration,N,Approved,
+TS0003113,EMP1027,ENG-26-010,02/10/2026,3.0,Controls Testing,Y,Approved,Client workshop
+TS0003114,EMP1027,INT-ADM,02/10/2026,4.5,Internal Administration,N,Approved,
+TS0003189,EMP1028,ENG-26-015,02/10/2026,3.0,Review,Y,Approved,Client workshop
+TS0003190,EMP1028,INT-TRN,02/10/2026,4.5,Training & CPD,N,Approved,Review points cleared
+TS0003310,EMP1029,ENG-26-001,02/10/2026,6.5,Planning,Y,Approved,Client workshop
+TS0003311,EMP1029,INT-TRN,02/10/2026,1.0,Training & CPD,N,Approved,Travel to client site
+TS0003437,EMP1030,ENG-26-006,02/10/2026,3.5,Requirements,Y,Approved,
+TS0003438,EMP1030,ENG-26-011,02/10/2026,3.5,PMO,Y,Approved,Draft deliverable
+TS0003439,EMP1030,INT-ADM,02/10/2026,0.5,Internal Administration,N,Approved,Team catch-up
+TS0003581,EMP1031,ENG-26-009,02/10/2026,4.5,Report Drafting,Y,Approved,Travel to client site
+TS0003582,EMP1031,ENG-26-014,02/10/2026,3.5,Management Meetings,Y,Approved,
+TS0003715,EMP1032,ENG-26-005,02/10/2026,7.5,Analysis,Y,Approved,Team catch-up
+TS0003716,EMP1032,ENG-26-010,02/10/2026,1.5,Reporting,Y,Approved,
+TS0003845,EMP1033,ENG-26-010,02/10/2026,13.0,Scoping,Y,Approved,Review points cleared
+TS0003846,EMP1033,ENG-26-012,02/10/2026,3.0,Computation,Y,Approved,
+TS0003847,EMP1033,INT-TRN,02/10/2026,0.5,Training & CPD,N,Approved,
+TS0003964,EMP1034,ENG-26-007,02/10/2026,3.0,Review,Y,Approved,Team catch-up
+TS0003965,EMP1034,ENG-26-013,02/10/2026,3.5,Reporting,Y,Approved,Client workshop
+TS0003966,EMP1034,INT-ADM,02/10/2026,1.0,Internal Administration,N,Approved,
+TS0004066,EMP1035,ENG-26-003,02/10/2026,8.0,Reporting,Y,Approved,Draft deliverable
+TS0004181,EMP1036,ENG-26-015,02/10/2026,3.0,Review,Y,Approved,
+TS0004182,EMP1036,INT-TRN,02/10/2026,4.5,Training & CPD,N,Approved,Client workshop
+TS0004315,EMP1037,ENG-26-001,02/10/2026,4.5,Review,Y,Approved,
+TS0004316,EMP1037,ENG-26-013,02/10/2026,4.5,Substantive Testing,Y,Approved,Review points cleared
+TS0004448,EMP1038,ENG-26-003,02/10/2026,5.0,Reporting,Y,Approved,Client workshop
+TS0004449,EMP1038,ENG-26-015,02/10/2026,3.5,Computation,Y,Approved,Team catch-up
+TS0004571,EMP1039,INT-ADM,02/10/2026,7.5,Internal Administration,N,Approved,
+TS0004705,EMP1040,ENG-26-002,02/10/2026,6.5,Analysis,Y,Approved,
+TS0004706,EMP1040,ENG-26-010,02/10/2026,3.0,Controls Testing,Y,Approved,Travel to client site
+TS0004839,EMP1041,ENG-26-012,02/10/2026,3.5,Technical Research,Y,Approved,
+TS0004840,EMP1041,INT-ADM,02/10/2026,4.0,Internal Administration,N,Approved,Client workshop
+TS0004958,EMP1042,ENG-26-010,02/10/2026,4.0,Scoping,Y,Approved,Client workshop
+TS0004959,EMP1042,ENG-26-013,02/10/2026,3.0,Review,Y,Approved,
+TS0004960,EMP1042,INT-TRN,02/10/2026,0.5,Training & CPD,N,Approved,Review points cleared
+TS0005091,EMP1043,ENG-26-006,02/10/2026,3.0,Reporting,Y,Approved,Travel to client site
+TS0005092,EMP1043,ENG-26-011,02/10/2026,4.0,Workshops,Y,Approved,Travel to client site
+TS0005093,EMP1043,INT-ADM,02/10/2026,0.5,Internal Administration,N,Approved,
+TS0005197,EMP1044,INT-LVE,02/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0005336,EMP1045,ENG-26-002,02/10/2026,7.0,Analysis,Y,Approved,
+TS0005337,EMP1045,ENG-26-005,02/10/2026,1.5,Analysis,Y,Approved,
+TS0005472,EMP1046,ENG-26-012,02/10/2026,1.5,Technical Research,Y,Approved,
+TS0005473,EMP1046,INT-ADM,02/10/2026,6.0,Internal Administration,N,Approved,
+TS0005571,EMP1047,ENG-26-007,02/10/2026,7.5,Controls Testing,Y,Approved,Team catch-up
+TS0005687,EMP1048,ENG-26-006,02/10/2026,5.5,Testing,Y,Approved,
+TS0005688,EMP1048,INT-ADM,02/10/2026,2.0,Internal Administration,N,Approved,
+TS0005828,EMP1049,ENG-26-009,02/10/2026,4.5,Management Meetings,Y,Approved,
+TS0005829,EMP1049,ENG-26-014,02/10/2026,4.0,Review,Y,Approved,Review points cleared
+TS0005929,EMP1050,ENG-26-005,02/10/2026,7.5,Reporting,Y,Approved,Travel to client site
+TS0006014,EMP1051,INT-ADM,02/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0006096,EMP1052,ENG-26-001,02/10/2026,7.5,Controls Testing,Y,Approved,Travel to client site
+TS0006214,EMP1053,ENG-26-003,02/10/2026,3.0,Workshops,Y,Approved,
+TS0006215,EMP1053,ENG-26-011,02/10/2026,4.0,Solution Design,Y,Approved,Team catch-up
+TS0006216,EMP1053,INT-ADM,02/10/2026,0.5,Internal Administration,N,Approved,
+TS0006359,EMP1054,ENG-26-014,02/10/2026,4.0,Analysis,Y,Approved,Team catch-up
+TS0006360,EMP1054,INT-ADM,02/10/2026,3.5,Internal Administration,N,Approved,Client workshop
+TS0006462,EMP1055,ENG-26-002,02/10/2026,9.0,Controls Testing,Y,Approved,Client workshop
+TS0006560,EMP1056,ENG-26-007,02/10/2026,2.5,Planning,Y,Approved,
+TS0006561,EMP1056,ENG-26-015,02/10/2026,3.5,Technical Research,N,Approved,Non-chargeable rework
+TS0006562,EMP1056,INT-TRN,02/10/2026,1.5,Training & CPD,N,Approved,Travel to client site
+TS0006690,EMP1057,ENG-26-006,02/10/2026,7.0,Workshops,Y,Approved,Draft deliverable
+TS0006691,EMP1057,INT-TRN,02/10/2026,0.5,Training & CPD,N,Approved,Team catch-up
+TS0006827,EMP1058,ENG-26-014,02/10/2026,3.0,Data Room Review,Y,Approved,Review points cleared
+TS0006828,EMP1058,ENG-26-015,02/10/2026,2.5,Technical Research,Y,Approved,Client workshop
+TS0006829,EMP1058,INT-ADM,02/10/2026,2.0,Internal Administration,N,Approved,Draft deliverable
+TS0006927,EMP1059,ENG-26-005,02/10/2026,7.0,Scoping,Y,Approved,
+TS0006928,EMP1059,INT-TRN,02/10/2026,0.5,Training & CPD,N,Approved,
+TS0007044,EMP1060,ENG-26-012,02/10/2026,1.5,Review,Y,Approved,
+TS0007045,EMP1060,INT-TRN,02/10/2026,6.0,Training & CPD,N,Approved,
+TS0000117,EMP1001,ENG-26-001,05/10/2026,0.5,Planning,Y,Approved,
+TS0000118,EMP1001,ENG-26-013,05/10/2026,1.5,Reporting,Y,Approved,
+TS0000119,EMP1001,INT-ADM,05/10/2026,5.5,Internal Administration,N,Approved,
+TS0000277,EMP1002,ENG-26-003  ,05/10/2026,1.0,Reporting,Y,Approved,Team catch-up
+TS0000278,EMP1002,ENG-26-011,05/10/2026,0.5,PMO,Y,Approved,Travel to client site
+TS0000279,EMP1002,INT-BD,05/10/2026,6.0,Business Development,N,Approved,
+TS0000451,EMP1003,INT-BD,05/10/2026,7.5,Business Development,N,Approved,
+TS0000590,EMP1004,ENG-26-002,05/10/2026,1.0,Analysis,Y,Approved,
+TS0000591,EMP1004,ENG-26-010,05/10/2026,0.5,Interviews,Y,Approved,
+TS0000592,EMP1004,INT-ADM,05/10/2026,6.0,Internal Administration,N,Approved,Draft deliverable
+TS0000729,EMP1005,ENG-26-015,05/10/2026,0.5,Review,Y,Approved,
+TS0000730,EMP1005,INT-ADM,05/10/2026,7.0,Internal Administration,N,Approved,Team catch-up
+TS0000835,EMP1006,ENG-26-007,05/10/2026,0.5,Review,Y,Approved,Draft deliverable
+TS0000836,EMP1006,INT-ADM,05/10/2026,7.0,Internal Administration,N,Approved,Draft deliverable
+TS0000963,EMP1007,ENG-26-006,05/10/2026,0.5,Solution Design,Y,Approved,Client workshop
+TS0000964,EMP1007,ENG-26-016,05/10/2026,1.0,Requirements,Y,Approved,
+TS0000965,EMP1007,INT-ADM,05/10/2026,6.0,Internal Administration,N,Approved,Team catch-up
+TS0001083,EMP1008,ENG-26-009,05/10/2026,0.5,Report Drafting,Y,Approved,
+TS0001084,EMP1008,INT-BD,05/10/2026,7.0,Business Development,N,Approved,Travel to client site
+TS0001209,EMP1009,ENG-26-005,05/10/2026,0.5,Analysis,Y,Approved,Travel to client site
+TS0001210,EMP1009,INT-BD,05/10/2026,7.0,Business Development,N,Approved,Draft deliverable
+TS0001326,EMP1010,ENG-26-012,05/10/2026,1.0,Review,Y,Approved,Review points cleared
+TS0001327,EMP1010,INT-BD,05/10/2026,6.5,Business Development,n,Approved,
+TS0001448,EMP1011,ENG-26-001,05/10/2026,2.5,Planning,Y,Approved,Travel to client site
+TS0001449,EMP1011,INT-BD,05/10/2026,5.0,Business Development,N,Approved,Review points cleared
+TS0001574,EMP1012,ENG-26-003,05/10/2026,2.5,Testing,Y,Approved,Draft deliverable
+TS0001575,EMP1012,INT-BD,05/10/2026,5.0,Business Development,N,Approved,
+TS0001692,EMP1013,INT-ADM,05/10/2026,7.5,Internal Administration,N,Approved,
+TS0001796,EMP1014,ENG-26-002,05/10/2026,2.5,Analysis,Y,Approved,
+TS0001797,EMP1014,INT-ADM,05/10/2026,5.0,Internal Administration,N,Approved,
+TS0001921,EMP1015,INT-ADM,05/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0002009,EMP1016,ENG-26-007,05/10/2026,2.5,Fieldwork,Y,Approved,Team catch-up
+TS0002010,EMP1016,INT-BD,05/10/2026,5.0,Business Development,N,Approved,Travel to client site
+TS0002135,EMP1017,ENG-26-006,05/10/2026,3.0,Solution Design,Y,Approved,
+TS0002136,EMP1017,INT-ADM,05/10/2026,4.5,Internal Administration,N,Approved,Client workshop
+TS0002239,EMP1018,ENG-26-009,05/10/2026,2.0,Management Meetings,Y,Rejected,
+TS0002240,EMP1018,INT-BD,05/10/2026,5.5,Business Development,N,Rejected,
+TS0002351,EMP1019,ENG-26-013,05/10/2026,3.0,Controls Testing,Y,Approved,Team catch-up
+TS0002352,EMP1019,INT-TRN,05/10/2026,4.5,Training & CPD,N,Approved,Review points cleared
+TS0002447,EMP1020,ENG-26-011,05/10/2026,3.0,Requirements,N,Approved,Non-chargeable rework
+TS0002448,EMP1020,INT-ADM,05/10/2026,4.5,Internal Administration,N,Approved,Review points cleared
+TS0002569,EMP1021,INT-TRN,05/10/2026,7.5,Training & CPD,N,Approved,
+TS0002677,EMP1022,ENG-26-005,05/10/2026,2.5,Analysis,Y,Approved,Draft deliverable
+TS0002678,EMP1022,INT-ADM,05/10/2026,5.0,Internal Administration,N,Approved,
+TS0002795,EMP1023,ENG-26-012,05/10/2026,2.5,Technical Research,Y,Approved,Team catch-up
+TS0002796,EMP1023,INT-ADM,05/10/2026,5.0,Internal Administration,N,Approved,Review points cleared
+TS0002874,EMP1024,INT-ADM,05/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0002938,EMP1025,ENG-26-016  ,05/10/2026,2.5,Solution Design,Y,Approved,Travel to client site
+TS0002939,EMP1025,INT-ADM,05/10/2026,5.0,Internal Administration,N,Approved,
+TS0003021,EMP1026,INT-TRN,05/10/2026,7.5,Training & CPD,N,Approved,
+TS0003115,EMP1027,ENG-26-010,05/10/2026,3.0,Scoping,Y,Approved,
+TS0003116,EMP1027,INT-ADM,05/10/2026,4.5,Internal Administration,N,Approved,
+TS0003191,EMP1028,ENG-26-015,05/10/2026,1.5,Computation,Y,Approved,Client workshop
+TS0003192,EMP1028,INT-ADM,05/10/2026,6.0,Internal Administration,N,Approved,
+TS0003312,EMP1029,ENG-26-001,05/10/2026,6.5,Fieldwork,Y,Approved,Draft deliverable
+TS0003313,EMP1029,INT-TRN,05/10/2026,1.0,Training & CPD,n,Approved,
+TS0003440,EMP1030,ENG-26-006,05/10/2026,3.5,Testing,Y,Approved,Draft deliverable
+TS0003441,EMP1030,ENG-26-011  ,05/10/2026,3.0,Solution Design,Y,Approved,Draft deliverable
+TS0003442,EMP1030,INT-ADM,05/10/2026,1.0,Internal Administration,N,Approved,Review points cleared
+TS0003583,EMP1031,ENG-26-009  ,05/10/2026,6.0,Analysis,Y,Approved,Travel to client site
+TS0003584,EMP1031,INT-ADM,05/10/2026,1.5,Internal Administration,N,Approved,
+TS0003717,EMP1032,ENG-26-005,05/10/2026,4.5,Interviews,Y,Approved,Travel to client site
+TS0003718,EMP1032,ENG-26-010,05/10/2026,1.5,Scoping,Y,Approved,
+TS0003719,EMP1032,INT-TRN,05/10/2026,1.5,Training & CPD,N,Approved,
+TS0003848,EMP1033,ENG-26-010,05/10/2026,4.0,Reporting,y,Approved,Client workshop
+TS0003849,EMP1033,ENG-26-012,05/10/2026,2.5,Review,Y,Approved,Travel to client site
+TS0003850,EMP1033,INT-TRN,05/10/2026,1.0,Training & CPD,N,Approved,Client workshop
+TS0003967,EMP1034,INT-LVE,05/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0004067,EMP1035,ENG-26-003,05/10/2026,6.5,Workshops,Y,Approved,Team catch-up
+TS0004068,EMP1035,INT-ADM,05/10/2026,1.0,Internal Administration,N,Approved,Client workshop
+TS0004183,EMP1036,ENG-26-015,05/10/2026,2.5,Review,Y,Approved,Review points cleared
+TS0004184,EMP1036,INT-ADM,05/10/2026,5.0,Internal Administration,N,Approved,
+TS0004317,EMP1037,ENG-26-001,05/10/2026,3.5,Planning,Y,Approved,
+TS0004318,EMP1037,ENG-26-013,05/10/2026,3.0,Reporting,Y,Approved,
+TS0004319,EMP1037,INT-TRN,05/10/2026,1.0,Training & CPD,N,Approved,Draft deliverable
+TS0004450,EMP1038,ENG-26-003,05/10/2026,3.0,Workshops,Y,Approved,Client workshop
+TS0004451,EMP1038,ENG-26-015,05/10/2026,2.5,Client Meeting,Y,Approved,Travel to client site
+TS0004452,EMP1038,INT-ADM,05/10/2026,2.0,Internal Administration,N,Approved,
+TS0004572,EMP1039,ENG-26-016,05/10/2026,7.0,Requirements,Y,Approved,Team catch-up
+TS0004573,EMP1039,INT-ADM,05/10/2026,0.5,Internal Administration,N,Approved,Team catch-up
+TS0004707,EMP1040,ENG-26-002,05/10/2026,4.5,Controls Testing,Y,Approved,Client workshop
+TS0004708,EMP1040,ENG-26-010,05/10/2026,1.0,Controls Testing,Y,Approved,
+TS0004709,EMP1040,INT-ADM,05/10/2026,2.0,Internal Administration,N,Approved,Team catch-up
+TS0004841,EMP1041,ENG-26-012,05/10/2026,4.0,Client Meeting,Y,Approved,
+TS0004842,EMP1041,INT-ADM,05/10/2026,3.5,Internal Administration,N,Approved,Travel to client site
+TS0004961,EMP1042,ENG-26-010,05/10/2026,3.5,Reporting,Y,Approved,
+TS0004962,EMP1042,ENG-26-013,05/10/2026,4.0,Fieldwork,y,Approved,
+TS0005094,EMP1043,ENG-26-006,05/10/2026,4.0,Reporting,Y,Approved,Draft deliverable
+TS0005095,EMP1043,ENG-26-011,05/10/2026,3.5,Workshops,y,Approved,
+TS0005198,EMP1044,ENG-26-009,05/10/2026,4.0,Report Drafting,Y,Approved,
+TS0005199,EMP1044,INT-ADM,05/10/2026,3.5,Internal Administration,N,Approved,Review points cleared
+TS0005338,EMP1045,ENG-26-002,05/10/2026,7.0,Interviews,Y,Approved,
+TS0005339,EMP1045,ENG-26-005,05/10/2026,1.5,Reporting,Y,Approved,Review points cleared
+TS0005474,EMP1046,ENG-26-012,05/10/2026,1.5,Review,Y,Approved,Team catch-up
+TS0005475,EMP1046,INT-ADM,05/10/2026,6.0,Internal Administration,N,Approved,
+TS0005572,EMP1047,ENG-26-007,05/10/2026,4.5,Planning,Y,Approved,Draft deliverable
+TS0005573,EMP1047,INT-TRN,05/10/2026,3.0,Training & CPD,N,Approved,Review points cleared
+TS0005689,EMP1048,ENG-26-006,05/10/2026,6.5,Reporting,Y,Approved,
+TS0005690,EMP1048,ENG-26-016,05/10/2026,1.0,Testing,Y,Approved,
+TS0005830,EMP1049,INT-LVE  ,05/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0005930,EMP1050,ENG-26-005,05/10/2026,8.0,Analysis,Y,Approved,Team catch-up
+TS0006015,EMP1051,int-trn,05/10/2026,7.5,Training & CPD,N,Approved,Team catch-up
+TS0006097,EMP1052,ENG-26-001  ,05/10/2026,7.5,Reporting,Y,Approved,Travel to client site
+TS0006217,EMP1053,ENG-26-003,05/10/2026,4.0,Solution Design,Y,Approved,
+TS0006218,EMP1053,ENG-26-011,05/10/2026,5.5,Reporting,Y,Approved,Client workshop
+TS0006361,EMP1054,ENG-26-016,05/10/2026,4.0,Testing,Y,Approved,
+TS0006362,EMP1054,INT-ADM,05/10/2026,3.5,Internal Administration,N,Approved,
+TS0006463,EMP1055,INT-LVE,05/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0006563,EMP1056,ENG-26-007,05/10/2026,3.0,Review,Y,Approved,
+TS0006564,EMP1056,ENG-26-015,05/10/2026,3.5,Review,Y,Approved,Team catch-up
+TS0006565,EMP1056,INT-ADM,05/10/2026,1.0,Internal Administration,N,Approved,Review points cleared
+TS0006692,EMP1057,ENG-26-006,05/10/2026,9.5,Reporting,Y,Approved,
+TS0006693,EMP1057,ENG-26-016,05/10/2026,1.5,Testing,Y,Approved,Draft deliverable
+TS0006830,EMP1058,ENG-26-015,05/10/2026,2.5,Review,Y,Approved,Team catch-up
+TS0006831,EMP1058,INT-ADM,05/10/2026,5.0,Internal Administration,N,Approved,Team catch-up
+TS0006929,EMP1059,ENG-26-005,05/10/2026,9.0,Reporting,Y,Approved,
+TS0007046,EMP1060,ENG-26-012,05/10/2026,1.5,Computation,Y,Approved,Client workshop
+TS0007047,EMP1060,INT-ADM,05/10/2026,6.0,Internal Administration,n,Approved,Draft deliverable
+TS0000120,EMP1001,ENG-26-001,06/10/2026,1.0,Fieldwork,Y,Approved,
+TS0000121,EMP1001,ENG-26-013,06/10/2026,3.5,Planning,Y,Approved,
+TS0000122,EMP1001,INT-ADM,06/10/2026,3.0,Internal Administration,N,Approved,
+TS0000280,EMP1002,ENG-26-003,06/10/2026,0.5,Workshops,Y,Approved,Review points cleared
+TS0000281,EMP1002,ENG-26-011,06/10/2026,1.0,PMO,Y,Approved,
+TS0000282,EMP1002,INT-BD,06/10/2026,6.0,Business Development,N,Approved,
+TS0000452,EMP1003,INT-BD,06/10/2026,7.5,Business Development,N,Approved,Review points cleared
+TS0000593,EMP1004,ENG-26-002,06/10/2026,0.5,Analysis,Y,Approved,
+TS0000594,EMP1004,ENG-26-010,06/10/2026,0.5,Interviews,y,Approved,
+TS0000595,EMP1004,INT-ADM,06/10/2026,6.5,Internal Administration,N,Approved,
+TS0000731,EMP1005,eng-26-015,06/10/2026,1.0,Review,Y,Approved,Review points cleared
+TS0000732,EMP1005,INT-ADM,06/10/2026,6.5,Internal Administration,n,Approved,
+TS0000837,EMP1006,ENG-26-007,06/10/2026,0.5,Planning,Y,Approved,Team catch-up
+TS0000838,EMP1006,INT-ADM,06/10/2026,7.0,Internal Administration,N,Approved,
+TS0000966,EMP1007,ENG-26-006,06/10/2026,2.0,Requirements,Y,Approved,Client workshop
+TS0000967,EMP1007,ENG-26-016,06/10/2026,1.0,Testing,Y,Approved,
+TS0000968,EMP1007,INT-BD,06/10/2026,4.5,Business Development,N,Approved,Draft deliverable
+TS0001085,EMP1008,ENG-26-009,06/10/2026,0.5,Data Room Review,Y,Approved,
+TS0001086,EMP1008,INT-ADM,06/10/2026,7.0,Internal Administration,N,Approved,
+TS0001211,EMP1009,ENG-26-005,06/10/2026,1.0,Controls Testing,Y,Approved,
+TS0001212,EMP1009,int-bd,06/10/2026,6.5,Business Development,N,Approved,Review points cleared
+TS0001328,EMP1010,ENG-26-012,06/10/2026,0.5,Computation,Y,Approved,
+TS0001329,EMP1010,INT-ADM,06/10/2026,7.0,Internal Administration,N,Approved,
+TS0001450,EMP1011,ENG-26-001,06/10/2026,3.0,Controls Testing,Y,Approved,Review points cleared
+TS0001451,EMP1011,INT-ADM,06/10/2026,4.5,Internal Administration,N,Approved,Team catch-up
+TS0001576,EMP1012,ENG-26-003,06/10/2026,3.5,Reporting,Y,Approved,Review points cleared
+TS0001577,EMP1012,INT-BD,06/10/2026,4.0,Business Development,N,Approved,Team catch-up
+TS0001693,EMP1013,INT-ADM,06/10/2026,7.5,Internal Administration,N,Approved,
+TS0001798,EMP1014,ENG-26-002,06/10/2026,3.0,Controls Testing,Y,Approved,Travel to client site
+TS0001799,EMP1014,INT-BD,06/10/2026,4.5,Business Development,N,Approved,
+TS0001922,EMP1015,INT-BD,06/10/2026,7.5,Business Development,N,Approved,Draft deliverable
+TS0002011,EMP1016,ENG-26-007,06/10/2026,2.0,Controls Testing,Y,Approved,Travel to client site
+TS0002012,EMP1016,INT-BD,06/10/2026,5.5,Business Development,N,Approved,
+TS0002137,EMP1017,ENG-26-006  ,06/10/2026,3.5,Workshops,Y,Approved,
+TS0002138,EMP1017,INT-ADM,06/10/2026,4.0,Internal Administration,N,Approved,
+TS0002241,EMP1018,ENG-26-009,06/10/2026,3.0,Review,Y,Approved,Draft deliverable
+TS0002242,EMP1018,INT-ADM,06/10/2026,4.5,Internal Administration,N,Approved,
+TS0002353,EMP1019,ENG-26-013,06/10/2026,3.0,Fieldwork,Y,Approved,Team catch-up
+TS0002354,EMP1019,INT-ADM,06/10/2026,4.5,Internal Administration,N,Approved,Team catch-up
+TS0002449,EMP1020,ENG-26-011,06/10/2026,3.5,Solution Design,Y,Approved,
+TS0002450,EMP1020,INT-TRN,06/10/2026,4.0,Training & CPD,N,Approved,Draft deliverable
+TS0002570,EMP1021,INT-TRN,06/10/2026,7.5,Training & CPD,N,Approved,Draft deliverable
+TS0002679,EMP1022,ENG-26-005,06/10/2026,2.5,Controls Testing,Y,Approved,Review points cleared
+TS0002680,EMP1022,INT-ADM  ,06/10/2026,5.0,Internal Administration,N,Approved,Team catch-up
+TS0002797,EMP1023,ENG-26-012,06/10/2026,3.5,Review,Y,Approved,Team catch-up
+TS0002798,EMP1023,INT-ADM,06/10/2026,4.0,Internal Administration,N,Approved,
+TS0002875,EMP1024,INT-ADM,06/10/2026,7.5,Internal Administration,N,Approved,
+TS0002940,EMP1025,ENG-26-016,06/10/2026,3.0,Workshops,Y,Approved,Draft deliverable
+TS0002941,EMP1025,INT-TRN,06/10/2026,4.5,Training & CPD,N,Approved,
+TS0003022,EMP1026,INT-ADM,06/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0003117,EMP1027,ENG-26-010,06/10/2026,3.5,Scoping,Y,Approved,Team catch-up
+TS0003118,EMP1027,INT-ADM,06/10/2026,4.0,Internal Administration,N,Approved,
+TS0003193,EMP1028,ENG-26-015,06/10/2026,3.0,Computation,Y,Approved,Draft deliverable
+TS0003194,EMP1028,INT-ADM,06/10/2026,4.5,Internal Administration,N,Approved,Review points cleared
+TS0003314,EMP1029,ENG-26-001,06/10/2026,5.5,Fieldwork,Y,Submitted,
+TS0003315,EMP1029,INT-ADM,06/10/2026,2.0,Internal Administration,N,Submitted,
+TS0003443,EMP1030,INT-LVE,06/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0007096,EMP1030,ENG-26-013,06/10/2026,2.0,Reporting,Y,Approved,
+TS0003585,EMP1031,ENG-26-009,06/10/2026,6.0,Review,Y,Approved,Travel to client site
+TS0003586,EMP1031,INT-TRN,06/10/2026,1.5,Training & CPD,N,Approved,Draft deliverable
+TS0003720,EMP1032,INT-LVE,06/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0003851,EMP1033,ENG-26-010,06/10/2026,4.5,Scoping,Y,Approved,Review points cleared
+TS0003852,EMP1033,ENG-26-012,06/10/2026,3.0,Client Meeting,Y,Approved,Team catch-up
+TS0003968,EMP1034,ENG-26-007,06/10/2026,3.5,Planning,Y,Approved,Draft deliverable
+TS0003969,EMP1034,ENG-26-013  ,06/10/2026,4.5,Fieldwork,Y,Approved,
+TS0004069,EMP1035,ENG-26-003,06/10/2026,6.5,Workshops,Y,Approved,
+TS0004070,EMP1035,INT-ADM,06/10/2026,1.0,Internal Administration,N,Approved,Travel to client site
+TS0004185,EMP1036,ENG-26-015,06/10/2026,3.0,Client Meeting,Y,Approved,
+TS0004186,EMP1036,INT-ADM,06/10/2026,4.5,Internal Administration,N,Approved,Travel to client site
+TS0004320,EMP1037,ENG-26-001,06/10/2026,4.0,Planning,Y,Approved,
+TS0004321,EMP1037,ENG-26-013,06/10/2026,5.5,Review,Y,Approved,Team catch-up
+TS0004453,EMP1038,ENG-26-003,06/10/2026,5.0,Reporting,Y,Rejected,Client workshop
+TS0004454,EMP1038,ENG-26-015,06/10/2026,3.5,Data Gathering,Y,Rejected,Review points cleared
+TS0004574,EMP1039,ENG-26-016,06/10/2026,5.5,Workshops,Y,Approved,
+TS0004575,EMP1039,INT-ADM,06/10/2026,2.0,Internal Administration,n,Approved,
+TS0004710,EMP1040,ENG-26-002,06/10/2026,6.0,Reporting,Y,Approved,
+TS0004711,EMP1040,ENG-26-010,06/10/2026,1.5,Reporting,Y,Approved,Client workshop
+TS0004843,EMP1041,ENG-26-012,06/10/2026,4.5,Computation,Y,Approved,Client workshop
+TS0004844,EMP1041,INT-TRN,06/10/2026,3.0,Training & CPD,N,Approved,Client workshop
+TS0004963,EMP1042,ENG-26-010,06/10/2026,4.0,Scoping,Y,Approved,
+TS0004964,EMP1042,eng-26-013,06/10/2026,2.5,Planning,Y,Approved,
+TS0004965,EMP1042,INT-TRN,06/10/2026,1.0,Training & CPD,N,Approved,Draft deliverable
+TS0005096,EMP1043,ENG-26-006,06/10/2026,6.0,Testing,Y,Approved,
+TS0005097,EMP1043,ENG-26-011,06/10/2026,3.5,PMO,Y,Approved,Travel to client site
+TS0005200,EMP1044,eng-26-009,06/10/2026,3.5,Analysis,Y,Approved,
+TS0005201,EMP1044,INT-ADM,06/10/2026,4.0,Internal Administration,N,Approved,
+TS0005340,EMP1045,ENG-26-002,06/10/2026,6.0,Controls Testing,Y,Approved,
+TS0005341,EMP1045,ENG-26-005,06/10/2026,2.0,Interviews,N,Approved,Non-chargeable rework
+TS0005476,EMP1046,ENG-26-012  ,06/10/2026,1.5,Computation,Y,Approved,
+TS0005477,EMP1046,INT-TRN,06/10/2026,6.0,Training & CPD,N,Approved,
+TS0005574,EMP1047,ENG-26-007,06/10/2026,7.0,Reporting,Y,Approved,
+TS0005575,EMP1047,INT-ADM,06/10/2026,0.5,Internal Administration,N,Approved,
+TS0005691,EMP1048,ENG-26-006,06/10/2026,6.0,Workshops,Y,Approved,Draft deliverable
+TS0005692,EMP1048,ENG-26-016,06/10/2026,1.5,Reporting,Y,Approved,Client workshop
+TS0005831,EMP1049,ENG-26-009,06/10/2026,3.0,Analysis,Y,Approved,
+TS0005832,EMP1049,INT-ADM,06/10/2026,4.5,Internal Administration,N,Approved,Client workshop
+TS0005931,EMP1050,INT-LVE,06/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0006016,EMP1051,INT-ADM,06/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0006098,EMP1052,ENG-26-001,06/10/2026,7.5,Substantive Testing,Y,Approved,
+TS0006219,EMP1053,ENG-26-003,06/10/2026,3.5,Reporting,Y,Approved,Draft deliverable
+TS0006220,EMP1053,ENG-26-011,06/10/2026,4.0,Reporting,y,Approved,
+TS0006363,EMP1054,ENG-26-016,06/10/2026,4.5,Solution Design,Y,Approved,
+TS0006364,EMP1054,INT-ADM,06/10/2026,3.0,Internal Administration,N,Approved,
+TS0006464,EMP1055,ENG-26-002,06/10/2026,6.0,Analysis,Y,Approved,Review points cleared
+TS0006465,EMP1055,INT-ADM,06/10/2026,1.5,Internal Administration,N,Approved,
+TS0006566,EMP1056,ENG-26-007,06/10/2026,4.0,Controls Testing,Y,Approved,Review points cleared
+TS0006567,EMP1056,ENG-26-015,06/10/2026,3.5,Data Gathering,Y,Approved,Travel to client site
+TS0006694,EMP1057,ENG-26-006  ,06/10/2026,6.0,Solution Design,Y,Approved,
+TS0006695,EMP1057,ENG-26-016,06/10/2026,2.0,Solution Design,y,Approved,
+TS0006832,EMP1058,ENG-26-015,06/10/2026,3.5,Data Gathering,y,Approved,Team catch-up
+TS0006833,EMP1058,INT-TRN,06/10/2026,4.0,Training & CPD,N,Approved,Client workshop
+TS0006930,EMP1059,ENG-26-005,06/10/2026,5.5,Analysis,Y,Approved,Draft deliverable
+TS0006931,EMP1059,INT-ADM,06/10/2026,2.0,Internal Administration,N,Approved,Travel to client site
+TS0007048,EMP1060,ENG-26-012,06/10/2026,2.0,Data Gathering,Y,Approved,
+TS0007049,EMP1060,INT-ADM,06/10/2026,5.5,Internal Administration,n,Approved,
+TS0000123,EMP1001,ENG-26-001,07/10/2026,0.5,Substantive Testing,Y,Approved,
+TS0000124,EMP1001,ENG-26-013,07/10/2026,1.0,Planning,Y,Approved,
+TS0000125,EMP1001,INT-BD,07/10/2026,6.0,Business Development,N,Approved,
+TS0000283,EMP1002,ENG-26-003,07/10/2026,4.0,Workshops,Y,Approved,
+TS0000284,EMP1002,ENG-26-011,07/10/2026,1.0,Testing,Y,Approved,Draft deliverable
+TS0000285,EMP1002,INT-ADM,07/10/2026,2.5,Internal Administration,N,Approved,Review points cleared
+TS0000453,EMP1003,INT-BD,07/10/2026,7.5,Business Development,n,Approved,Client workshop
+TS0000596,EMP1004,ENG-26-002,07/10/2026,0.5,Analysis,y,Approved,Draft deliverable
+TS0000597,EMP1004,ENG-26-010,07/10/2026,1.0,Controls Testing,Y,Approved,Client workshop
+TS0000598,EMP1004,INT-BD,07/10/2026,6.0,Business Development,N,Approved,
+TS0000733,EMP1005,ENG-26-015,07/10/2026,0.5,Computation,Y,Approved,Review points cleared
+TS0000734,EMP1005,INT-BD,07/10/2026,7.0,Business Development,N,Approved,
+TS0000839,EMP1006,ENG-26-007,07/10/2026,0.5,Controls Testing,Y,Approved,Travel to client site
+TS0000840,EMP1006,INT-ADM  ,07/10/2026,7.0,Internal Administration,N,Approved,
+TS0000969,EMP1007,ENG-26-006,07/10/2026,0.5,Solution Design,Y,Approved,
+TS0000970,EMP1007,ENG-26-016,07/10/2026,0.5,Testing,Y,Approved,Review points cleared
+TS0000971,EMP1007,INT-ADM,07/10/2026,6.5,Internal Administration,N,Approved,
+TS0001087,EMP1008,ENG-26-009,07/10/2026,0.5,Report Drafting,Y,Approved,
+TS0001088,EMP1008,INT-ADM,07/10/2026,7.0,Internal Administration,N,Approved,
+TS0001213,EMP1009,ENG-26-005,07/10/2026,1.0,Controls Testing,Y,Approved,
+TS0001214,EMP1009,int-bd,07/10/2026,6.5,Business Development,N,Approved,
+TS0001330,EMP1010,ENG-26-012,07/10/2026,3.0,Data Gathering,Y,Approved,Team catch-up
+TS0001331,EMP1010,INT-BD,07/10/2026,4.5,Business Development,N,Approved,
+TS0001452,EMP1011,ENG-26-001,07/10/2026,4.0,Fieldwork,Y,Approved,
+TS0001453,EMP1011,INT-ADM,07/10/2026,3.5,Internal Administration,N,Approved,Team catch-up
+TS0001578,EMP1012,ENG-26-003,07/10/2026,3.0,Reporting,y,Approved,
+TS0001579,EMP1012,INT-BD,07/10/2026,4.5,Business Development,N,Approved,Team catch-up
+TS0001694,EMP1013,INT-BD,07/10/2026,7.5,Business Development,N,Approved,Travel to client site
+TS0001800,EMP1014,ENG-26-002,07/10/2026,3.5,Analysis,N,Approved,Non-chargeable rework
+TS0001801,EMP1014,INT-BD,07/10/2026,4.0,Business Development,N,Approved,
+TS0001923,EMP1015,INT-BD,07/10/2026,7.5,Business Development,N,Approved,
+TS0002013,EMP1016,ENG-26-007,07/10/2026,3.5,Fieldwork,Y,Approved,
+TS0002014,EMP1016,INT-ADM,07/10/2026,4.0,Internal Administration,n,Approved,Travel to client site
+TS0002139,EMP1017,ENG-26-006,07/10/2026,4.0,Testing,Y,Approved,
+TS0002140,EMP1017,INT-BD,07/10/2026,3.5,Business Development,N,Approved,Draft deliverable
+TS0002243,EMP1018,ENG-26-009,07/10/2026,2.5,Report Drafting,Y,Approved,
+TS0002244,EMP1018,INT-BD,07/10/2026,5.0,Business Development,N,Approved,Team catch-up
+TS0002355,EMP1019,ENG-26-013,07/10/2026,3.5,Substantive Testing,N,Approved,Non-chargeable rework
+TS0002356,EMP1019,INT-ADM,07/10/2026,4.0,Internal Administration,N,Approved,
+TS0002451,EMP1020,ENG-26-011,07/10/2026,4.0,Reporting,Y,Approved,Travel to client site
+TS0002452,EMP1020,INT-ADM,07/10/2026,3.5,Internal Administration,N,Approved,
+TS0002571,EMP1021,INT-ADM,07/10/2026,7.5,Internal Administration,N,Approved,Review points cleared
+TS0002681,EMP1022,ENG-26-005,07/10/2026,2.5,Controls Testing,Y,Approved,Draft deliverable
+TS0002682,EMP1022,INT-TRN,07/10/2026,5.0,Training & CPD,N,Approved,
+TS0002799,EMP1023,ENG-26-012,07/10/2026,3.5,Client Meeting,Y,Approved,
+TS0002800,EMP1023,INT-ADM,07/10/2026,4.0,Internal Administration,N,Approved,
+TS0002876,EMP1024,INT-ADM,07/10/2026,7.5,Internal Administration,N,Approved,
+TS0002942,EMP1025,INT-LVE,07/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0003023,EMP1026,INT-TRN,07/10/2026,7.5,Training & CPD,N,Approved,
+TS0003119,EMP1027,INT-LVE,07/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0003195,EMP1028,ENG-26-015,07/10/2026,4.0,Client Meeting,Y,Approved,Draft deliverable
+TS0003196,EMP1028,INT-TRN,07/10/2026,3.5,Training & CPD,n,Approved,
+TS0003316,EMP1029,ENG-26-001,07/10/2026,7.5,Substantive Testing,Y,Approved,
+TS0003444,EMP1030,ENG-26-006,07/10/2026,4.0,PMO,Y,Approved,Draft deliverable
+TS0003445,EMP1030,ENG-26-011,07/10/2026,4.0,PMO,Y,Approved,Review points cleared
+TS0003587,EMP1031,ENG-26-009,07/10/2026,5.5,Review,Y,Approved,Travel to client site
+TS0003588,EMP1031,INT-TRN,07/10/2026,2.0,Training & CPD,N,Approved,
+TS0003721,EMP1032,ENG-26-005,07/10/2026,4.5,Analysis,Y,Approved,
+TS0003722,EMP1032,ENG-26-010,07/10/2026,2.0,Controls Testing,Y,Approved,Draft deliverable
+TS0003723,EMP1032,INT-ADM,07/10/2026,1.0,Internal Administration,N,Approved,Client workshop
+TS0003853,EMP1033,ENG-26-010,07/10/2026,4.5,Reporting,Y,Approved,
+TS0003854,EMP1033,ENG-26-012  ,07/10/2026,3.5,Data Gathering,Y,Approved,Draft deliverable
+TS0003970,EMP1034,ENG-26-007,07/10/2026,3.5,Fieldwork,Y,Approved,
+TS0003971,EMP1034,ENG-26-013,07/10/2026,3.0,Planning,Y,Approved,
+TS0003972,EMP1034,INT-ADM,07/10/2026,1.0,Internal Administration,N,Approved,
+TS0004071,EMP1035,ENG-26-003,07/10/2026,6.5,PMO,Y,Approved,Travel to client site
+TS0004072,EMP1035,INT-TRN,07/10/2026,1.0,Training & CPD,N,Approved,Team catch-up
+TS0004187,EMP1036,ENG-26-015,07/10/2026,3.5,Review,N,Approved,Non-chargeable rework
+TS0004188,EMP1036,INT-TRN,07/10/2026,4.0,Training & CPD,N,Approved,Travel to client site
+TS0004322,EMP1037,ENG-26-001,07/10/2026,5.5,Reporting,Y,Approved,Travel to client site
+TS0004323,EMP1037,ENG-26-013,07/10/2026,4.0,Planning,Y,Approved,Draft deliverable
+TS0004455,EMP1038,ENG-26-003,07/10/2026,3.5,Workshops,N,Approved,Non-chargeable rework
+TS0004456,EMP1038,ENG-26-015,07/10/2026,3.0,Technical Research,Y,Approved,
+TS0004457,EMP1038,INT-ADM,07/10/2026,1.0,Internal Administration,N,Approved,
+TS0004576,EMP1039,ENG-26-016,07/10/2026,7.0,PMO,Y,Approved,
+TS0004577,EMP1039,INT-TRN,07/10/2026,0.5,Training & CPD,N,Approved,
+TS0004712,EMP1040,INT-LVE,07/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0004845,EMP1041,ENG-26-012,07/10/2026,4.0,Review,Y,Approved,Team catch-up
+TS0004846,EMP1041,INT-TRN,07/10/2026,3.5,Training & CPD,N,Approved,
+TS0004966,EMP1042,ENG-26-010,07/10/2026,3.5,Scoping,Y,Approved,Client workshop
+TS0004967,EMP1042,ENG-26-013,07/10/2026,4.5,Controls Testing,Y,Approved,
+TS0005098,EMP1043,ENG-26-006,07/10/2026,4.5,Testing,Y,Approved,Draft deliverable
+TS0005099,EMP1043,ENG-26-011,07/10/2026,1.5,Solution Design,Y,Approved,
+TS0005100,EMP1043,INT-TRN,07/10/2026,1.5,Training & CPD,N,Approved,Team catch-up
+TS0005202,EMP1044,ENG-26-009,07/10/2026,4.0,Review,Y,Approved,Draft deliverable
+TS0005203,EMP1044,INT-TRN,07/10/2026,3.5,Training & CPD,N,Approved,Client workshop
+TS0005342,EMP1045,ENG-26-002,07/10/2026,5.0,Controls Testing,Y,Approved,Client workshop
+TS0005343,EMP1045,ENG-26-005,07/10/2026,1.5,Analysis,Y,Approved,Travel to client site
+TS0005344,EMP1045,INT-ADM,07/10/2026,1.0,Internal Administration,N,Approved,
+TS0005478,EMP1046,ENG-26-012,07/10/2026,1.5,Review,Y,Approved,
+TS0005479,EMP1046,INT-ADM,07/10/2026,6.0,Internal Administration,N,Approved,Review points cleared
+TS0005576,EMP1047,ENG-26-007,07/10/2026,6.5,Planning,Y,Approved,Client workshop
+TS0005577,EMP1047,INT-ADM,07/10/2026,1.0,Internal Administration,N,Approved,Team catch-up
+TS0005693,EMP1048,ENG-26-006,07/10/2026,4.5,Solution Design,Y,Approved,Travel to client site
+TS0005694,EMP1048,ENG-26-016,07/10/2026,2.0,Testing,Y,Approved,
+TS0005695,EMP1048,INT-ADM,07/10/2026,1.0,Internal Administration,N,Approved,
+TS0005833,EMP1049,ENG-26-009,07/10/2026,2.5,Review,Y,Approved,
+TS0005834,EMP1049,INT-ADM  ,07/10/2026,5.0,Internal Administration,N,Approved,
+TS0005932,EMP1050,ENG-26-005,07/10/2026,9.0,Interviews,Y,Approved,Travel to client site
+TS0006017,EMP1051,INT-ADM,07/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0006099,EMP1052,ENG-26-001,07/10/2026,7.5,Review,Y,Approved,
+TS0006221,EMP1053,ENG-26-003,07/10/2026,5.0,PMO,Y,Approved,
+TS0006222,EMP1053,ENG-26-011,07/10/2026,4.0,Testing,Y,Approved,Draft deliverable
+TS0006365,EMP1054,ENG-26-016,07/10/2026,5.0,Requirements,Y,Approved,Draft deliverable
+TS0006366,EMP1054,INT-ADM,07/10/2026,2.5,Internal Administration,N,Approved,
+TS0006466,EMP1055,ENG-26-002,07/10/2026,6.0,Interviews,Y,Approved,Client workshop
+TS0006467,EMP1055,INT-ADM,07/10/2026,1.5,Internal Administration,N,Approved,Travel to client site
+TS0006568,EMP1056,ENG-26-007,07/10/2026,4.0,Substantive Testing,Y,Approved,Draft deliverable
+TS0006569,EMP1056,ENG-26-015,07/10/2026,3.0,Review,Y,Approved,Client workshop
+TS0006570,EMP1056,INT-TRN,07/10/2026,0.5,Training & CPD,N,Approved,Draft deliverable
+TS0006696,EMP1057,ENG-26-006,07/10/2026,6.0,Requirements,Y,Approved,
+TS0006697,EMP1057,ENG-26-016,07/10/2026,1.5,Workshops,Y,Approved,
+TS0006834,EMP1058,ENG-26-015,07/10/2026,4.5,Computation,Y,Submitted,
+TS0006835,EMP1058,INT-ADM,07/10/2026,3.0,Internal Administration,N,Submitted,
+TS0006932,EMP1059,ENG-26-005,07/10/2026,10.0,Interviews,Y,Approved,Client workshop
+TS0007050,EMP1060,ENG-26-012,07/10/2026,1.5,Review,Y,Approved,
+TS0007051,EMP1060,INT-TRN,07/10/2026,6.0,Training & CPD,N,Approved,Client workshop
+TS0000126,EMP1001,ENG-26-001,08/10/2026,0.5,Planning,N,Approved,Non-chargeable rework
+TS0000127,EMP1001,ENG-26-013,08/10/2026,1.0,Substantive Testing,Y,Approved,
+TS0000128,EMP1001,INT-ADM,08/10/2026,6.0,Internal Administration,N,Approved,Team catch-up
+TS0000286,EMP1002,ENG-26-003,08/10/2026,0.5,Workshops,Y,Approved,
+TS0000287,EMP1002,ENG-26-011,08/10/2026,1.0,Testing,Y,Approved,
+TS0000288,EMP1002,INT-BD,08/10/2026,6.0,Business Development,N,Approved,Travel to client site
+TS0000454,EMP1003,INT-BD,08/10/2026,7.5,Business Development,N,Approved,Client workshop
+TS0000599,EMP1004,ENG-26-002,08/10/2026,0.5,Scoping,Y,Approved,
+TS0000600,EMP1004,ENG-26-010,08/10/2026,0.5,Controls Testing,Y,Approved,Client workshop
+TS0000601,EMP1004,INT-BD,08/10/2026,6.5,Business Development,N,Approved,
+TS0000735,EMP1005,ENG-26-015,08/10/2026,0.5,Technical Research,Y,Approved,
+TS0000736,EMP1005,INT-BD,08/10/2026,7.0,Business Development,N,Approved,
+TS0000841,EMP1006,ENG-26-007  ,08/10/2026,0.5,Controls Testing,Y,Approved,
+TS0000842,EMP1006,INT-BD,08/10/2026,7.0,Business Development,N,Approved,Review points cleared
+TS0000972,EMP1007,ENG-26-006,08/10/2026,1.0,PMO,Y,Approved,
+TS0000973,EMP1007,ENG-26-016,08/10/2026,0.5,Workshops,Y,Approved,
+TS0000974,EMP1007,INT-BD,08/10/2026,6.0,Business Development,N,Approved,
+TS0001089,EMP1008,ENG-26-009,08/10/2026,0.5,Data Room Review,Y,Approved,Team catch-up
+TS0001090,EMP1008,INT-ADM,08/10/2026,7.0,Internal Administration,N,Approved,
+TS0001215,EMP1009,ENG-26-005,08/10/2026,2.0,Controls Testing,Y,Approved,
+TS0001216,EMP1009,INT-BD,08/10/2026,5.5,Business Development,N,Approved,Client workshop
+TS0001332,EMP1010,ENG-26-012,08/10/2026,1.0,Review,y,Approved,
+TS0001333,EMP1010,INT-ADM,08/10/2026,6.5,Internal Administration,N,Approved,Draft deliverable
+TS0001454,EMP1011,ENG-26-001,08/10/2026,2.5,Controls Testing,Y,Approved,
+TS0001455,EMP1011,INT-BD,08/10/2026,5.0,Business Development,N,Approved,Draft deliverable
+TS0001580,EMP1012,ENG-26-003,08/10/2026,2.5,PMO,Y,Approved,
+TS0001581,EMP1012,INT-ADM,08/10/2026,5.0,Internal Administration,N,Approved,Review points cleared
+TS0001695,EMP1013,INT-ADM,08/10/2026,7.5,Internal Administration,N,Approved,
+TS0001802,EMP1014,ENG-26-002,08/10/2026,3.5,Controls Testing,Y,Submitted,
+TS0001803,EMP1014,INT-BD,08/10/2026,4.0,Business Development,N,Submitted,Draft deliverable
+TS0001924,EMP1015,INT-ADM,08/10/2026,7.5,Internal Administration,N,Approved,
+TS0002015,EMP1016,ENG-26-007,08/10/2026,3.0,Substantive Testing,Y,Approved,Client workshop
+TS0002016,EMP1016,INT-ADM,08/10/2026,4.5,Internal Administration,N,Approved,Client workshop
+TS0002141,EMP1017,ENG-26-006,08/10/2026,4.0,Testing,Y,Approved,Draft deliverable
+TS0002142,EMP1017,INT-ADM,08/10/2026,3.5,Internal Administration,N,Approved,
+TS0002245,EMP1018,ENG-26-009,08/10/2026,3.0,Data Room Review,Y,Approved,Review points cleared
+TS0002246,EMP1018,INT-BD,08/10/2026,4.5,Business Development,N,Approved,Draft deliverable
+TS0002357,EMP1019,ENG-26-013,08/10/2026,3.5,Planning,Y,Approved,Travel to client site
+TS0002358,EMP1019,INT-TRN,08/10/2026,4.0,Training & CPD,N,Approved,Client workshop
+TS0002453,EMP1020,ENG-26-011,08/10/2026,2.5,PMO,Y,Approved,
+TS0002454,EMP1020,INT-ADM,08/10/2026,5.0,Internal Administration,N,Approved,
+TS0002572,EMP1021,INT-ADM,08/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0002683,EMP1022,ENG-26-005,08/10/2026,3.0,Scoping,Y,Approved,Draft deliverable
+TS0002684,EMP1022,INT-ADM,08/10/2026,4.5,Internal Administration,N,Approved,
+TS0002801,EMP1023,ENG-26-012,08/10/2026,3.0,Technical Research,Y,Approved,Review points cleared
+TS0002802,EMP1023,INT-ADM,08/10/2026,4.5,Internal Administration,n,Approved,Client workshop
+TS0002877,EMP1024,INT-TRN  ,08/10/2026,7.5,Training & CPD,N,Approved,
+TS0002943,EMP1025,ENG-26-016,08/10/2026,1.5,Workshops,Y,Approved,Review points cleared
+TS0002944,EMP1025,INT-ADM,08/10/2026,6.0,Internal Administration,N,Approved,
+TS0003024,EMP1026,INT-LVE,08/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0003120,EMP1027,ENG-26-010,08/10/2026,3.0,Controls Testing,Y,Approved,Team catch-up
+TS0003121,EMP1027,INT-TRN,08/10/2026,4.5,Training & CPD,N,Approved,Client workshop
+TS0003197,EMP1028,ENG-26-015,08/10/2026,2.5,Computation,y,Approved,
+TS0003198,EMP1028,INT-ADM,08/10/2026,5.0,Internal Administration,N,Approved,
+TS0003317,EMP1029,ENG-26-001,08/10/2026,7.0,Controls Testing,Y,Approved,
+TS0003318,EMP1029,INT-TRN,08/10/2026,0.5,Training & CPD,N,Approved,
+TS0003446,EMP1030,ENG-26-006,08/10/2026,6.0,Testing,Y,Approved,Travel to client site
+TS0003447,EMP1030,ENG-26-011,08/10/2026,4.0,Reporting,Y,Approved,
+TS0003589,EMP1031,ENG-26-009,08/10/2026,4.0,Review,Y,Approved,Draft deliverable
+TS0003590,EMP1031,INT-TRN,08/10/2026,3.5,Training & CPD,N,Approved,
+TS0003724,EMP1032,ENG-26-005,08/10/2026,5.5,Reporting,Y,Approved,Travel to client site
+TS0003725,EMP1032,ENG-26-010,08/10/2026,1.0,Analysis,Y,Approved,Review points cleared
+TS0003726,EMP1032,INT-TRN,08/10/2026,1.0,Training & CPD,N,Approved,Review points cleared
+TS0003855,EMP1033,ENG-26-010,08/10/2026,5.0,Analysis,Y,Approved,
+TS0003856,EMP1033,ENG-26-012,08/10/2026,2.0,Computation,Y,Approved,
+TS0003857,EMP1033,INT-ADM,08/10/2026,0.5,Internal Administration,N,Approved,
+TS0003973,EMP1034,ENG-26-007,08/10/2026,4.0,Planning,Y,Approved,
+TS0003974,EMP1034,ENG-26-013,08/10/2026,4.5,Reporting,Y,Approved,Team catch-up
+TS0004073,EMP1035,ENG-26-003,08/10/2026,9.0,PMO,Y,Approved,Client workshop
+TS0004189,EMP1036,ENG-26-015,08/10/2026,3.5,Review,Y,Approved,
+TS0004190,EMP1036,INT-ADM,08/10/2026,4.0,Internal Administration,N,Approved,Team catch-up
+TS0004324,EMP1037,ENG-26-001,08/10/2026,4.5,Controls Testing,Y,Approved,
+TS0004325,EMP1037,ENG-26-013,08/10/2026,3.5,Substantive Testing,Y,Approved,Travel to client site
+TS0004458,EMP1038,ENG-26-003,08/10/2026,4.5,Testing,Y,Approved,Client workshop
+TS0004459,EMP1038,ENG-26-015,08/10/2026,3.0,Technical Research,Y,Approved,Review points cleared
+TS0004578,EMP1039,ENG-26-016,08/10/2026,7.5,Reporting,Y,Approved,Draft deliverable
+TS0004713,EMP1040,ENG-26-002,08/10/2026,8.0,Controls Testing,y,Approved,Review points cleared
+TS0004714,EMP1040,ENG-26-010,08/10/2026,1.5,Controls Testing,Y,Approved,Travel to client site
+TS0004847,EMP1041,eng-26-012,08/10/2026,3.5,Client Meeting,Y,Approved,
+TS0004848,EMP1041,INT-ADM,08/10/2026,4.0,Internal Administration,N,Approved,
+TS0004968,EMP1042,ENG-26-010,08/10/2026,3.0,Analysis,Y,Approved,
+TS0004969,EMP1042,ENG-26-013,08/10/2026,4.0,Review,Y,Approved,Team catch-up
+TS0004970,EMP1042,INT-ADM  ,08/10/2026,0.5,Internal Administration,N,Approved,Team catch-up
+TS0005101,EMP1043,ENG-26-006,08/10/2026,4.0,PMO,Y,Approved,
+TS0005102,EMP1043,ENG-26-011,08/10/2026,3.0,Solution Design,Y,Approved,
+TS0005103,EMP1043,INT-TRN,08/10/2026,0.5,Training & CPD,N,Approved,
+TS0005204,EMP1044,ENG-26-009,08/10/2026,5.5,Report Drafting,Y,Approved,
+TS0005205,EMP1044,INT-TRN,08/10/2026,2.0,Training & CPD,N,Approved,Draft deliverable
+TS0005345,EMP1045,ENG-26-002,08/10/2026,5.5,Scoping,Y,Approved,Travel to client site
+TS0005346,EMP1045,ENG-26-005,08/10/2026,2.0,Scoping,Y,Approved,Team catch-up
+TS0005480,EMP1046,ENG-26-012,08/10/2026,1.5,Data Gathering,Y,Approved,Client workshop
+TS0005481,EMP1046,INT-ADM,08/10/2026,6.0,Internal Administration,N,Approved,
+TS0005578,EMP1047,ENG-26-007,08/10/2026,6.5,Substantive Testing,Y,Approved,Review points cleared
+TS0005579,EMP1047,INT-ADM,08/10/2026,1.0,Internal Administration,N,Approved,
+TS0005696,EMP1048,ENG-26-006,08/10/2026,5.5,Solution Design,Y,Approved,Team catch-up
+TS0005697,EMP1048,ENG-26-016,08/10/2026,1.0,Requirements,Y,Approved,
+TS0005698,EMP1048,INT-ADM,08/10/2026,1.0,Internal Administration,N,Approved,Review points cleared
+TS0005835,EMP1049,ENG-26-009,08/10/2026,5.0,Data Room Review,Y,Approved,
+TS0005836,EMP1049,INT-TRN,08/10/2026,2.5,Training & CPD,N,Approved,
+TS0005933,EMP1050,ENG-26-005,08/10/2026,5.5,Controls Testing,Y,Approved,
+TS0005934,EMP1050,INT-ADM,08/10/2026,2.0,Internal Administration,N,Approved,
+TS0006018,EMP1051,INT-TRN,08/10/2026,7.5,Training & CPD,N,Approved,
+TS0006100,EMP1052,ENG-26-001,08/10/2026,3.5,Fieldwork,Y,Approved,Team catch-up
+TS0006101,EMP1052,INT-ADM  ,08/10/2026,4.0,Internal Administration,N,Approved,Client workshop
+TS0006223,EMP1053,ENG-26-003,08/10/2026,4.0,Solution Design,Y,Approved,
+TS0006224,EMP1053,ENG-26-011,08/10/2026,4.0,Testing,Y,Approved,Team catch-up
+TS0006367,EMP1054,ENG-26-016,08/10/2026,3.0,Requirements,Y,Approved,Draft deliverable
+TS0006368,EMP1054,INT-TRN,08/10/2026,4.5,Training & CPD,N,Approved,Team catch-up
+TS0006468,EMP1055,ENG-26-002,08/10/2026,8.5,Controls Testing,y,Approved,Review points cleared
+TS0006571,EMP1056,ENG-26-007,08/10/2026,4.0,Controls Testing,Y,Approved,Review points cleared
+TS0006572,EMP1056,ENG-26-015,08/10/2026,4.0,Review,Y,Approved,
+TS0006698,EMP1057,ENG-26-006,08/10/2026,6.0,Requirements,Y,Approved,
+TS0006699,EMP1057,ENG-26-016,08/10/2026,1.5,Reporting,y,Approved,Team catch-up
+TS0006836,EMP1058,ENG-26-015,08/10/2026,5.5,Client Meeting,Y,Approved,
+TS0006837,EMP1058,INT-ADM,08/10/2026,2.0,Internal Administration,N,Approved,
+TS0006933,EMP1059,ENG-26-005,08/10/2026,7.5,Interviews,Y,Approved,Draft deliverable
+TS0007052,EMP1060,ENG-26-012,08/10/2026,1.5,Data Gathering,y,Approved,
+TS0007053,EMP1060,INT-ADM,08/10/2026,6.0,Internal Administration,N,Approved,
+TS0000129,EMP1001,ENG-26-001,09/10/2026,0.5,Planning,Y,Approved,
+TS0000130,EMP1001,ENG-26-013,09/10/2026,1.0,Fieldwork,Y,Approved,Team catch-up
+TS0000131,EMP1001,INT-BD,09/10/2026,6.0,Business Development,N,Approved,
+TS0000289,EMP1002,ENG-26-003,09/10/2026,1.0,Workshops,y,Approved,Client workshop
+TS0000290,EMP1002,ENG-26-011,09/10/2026,0.5,Workshops,Y,Approved,
+TS0000291,EMP1002,INT-BD,09/10/2026,6.0,Business Development,N,Approved,Travel to client site
+TS0000455,EMP1003,INT-BD,09/10/2026,7.5,Business Development,N,Approved,
+TS0000602,EMP1004,ENG-26-002,09/10/2026,0.5,Interviews,Y,Approved,
+TS0000603,EMP1004,ENG-26-010,09/10/2026,0.5,Interviews,y,Approved,Review points cleared
+TS0000604,EMP1004,INT-ADM,09/10/2026,6.5,Internal Administration,N,Approved,Travel to client site
+TS0000737,EMP1005,ENG-26-015,09/10/2026,0.5,Client Meeting,Y,Approved,Review points cleared
+TS0000738,EMP1005,INT-ADM,09/10/2026,7.0,Internal Administration,N,Approved,
+TS0000843,EMP1006,ENG-26-007,09/10/2026,1.0,Reporting,Y,Approved,Client workshop
+TS0000844,EMP1006,INT-ADM,09/10/2026,6.5,Internal Administration,N,Approved,Client workshop
+TS0000975,EMP1007,ENG-26-006,09/10/2026,0.5,Reporting,Y,Approved,
+TS0000976,EMP1007,ENG-26-016,09/10/2026,1.0,Reporting,Y,Approved,
+TS0000977,EMP1007,INT-ADM,09/10/2026,6.0,Internal Administration,N,Approved,
+TS0001091,EMP1008,ENG-26-009,09/10/2026,1.0,Report Drafting,Y,Approved,Client workshop
+TS0001092,EMP1008,INT-BD,09/10/2026,6.5,Business Development,N,Approved,
+TS0001217,EMP1009,ENG-26-005,09/10/2026,0.5,Controls Testing,Y,Approved,
+TS0001218,EMP1009,INT-BD,09/10/2026,7.0,Business Development,N,Approved,Draft deliverable
+TS0001334,EMP1010,ENG-26-012,09/10/2026,1.0,Data Gathering,Y,Approved,Team catch-up
+TS0001335,EMP1010,INT-ADM,09/10/2026,6.5,Internal Administration,N,Approved,
+TS0001456,EMP1011,ENG-26-001,09/10/2026,3.0,Substantive Testing,Y,Approved,
+TS0001457,EMP1011,INT-BD,09/10/2026,4.5,Business Development,N,Approved,Draft deliverable
+TS0001582,EMP1012,ENG-26-003,09/10/2026,2.0,Requirements,Y,Approved,
+TS0001583,EMP1012,INT-BD,09/10/2026,5.5,Business Development,N,Approved,Client workshop
+TS0001696,EMP1013,INT-BD,09/10/2026,7.5,Business Development,N,Approved,Travel to client site
+TS0001804,EMP1014,ENG-26-002,09/10/2026,3.0,Interviews,Y,Approved,Draft deliverable
+TS0001805,EMP1014,INT-BD,09/10/2026,4.5,Business Development,N,Approved,
+TS0001925,EMP1015,INT-ADM,09/10/2026,7.5,Internal Administration,n,Approved,Draft deliverable
+TS0002017,EMP1016,ENG-26-007,09/10/2026,2.5,Controls Testing,Y,Approved,
+TS0002018,EMP1016,INT-ADM,09/10/2026,5.0,Internal Administration,N,Approved,
+TS0002143,EMP1017,ENG-26-006,09/10/2026,2.5,Requirements,Y,Approved,Review points cleared
+TS0002144,EMP1017,INT-BD,09/10/2026,5.0,Business Development,N,Approved,Team catch-up
+TS0002247,EMP1018,ENG-26-009,09/10/2026,3.5,Data Room Review,Y,Approved,Team catch-up
+TS0002248,EMP1018,INT-ADM,09/10/2026,4.0,Internal Administration,N,Approved,
+TS0002359,EMP1019,ENG-26-013,09/10/2026,2.5,Controls Testing,Y,Approved,
+TS0002360,EMP1019,INT-ADM,09/10/2026,5.0,Internal Administration,N,Approved,
+TS0002455,EMP1020,ENG-26-011,09/10/2026,3.5,Workshops,Y,Approved,Team catch-up
+TS0002456,EMP1020,INT-TRN,09/10/2026,4.0,Training & CPD,N,Approved,Team catch-up
+TS0002573,EMP1021,INT-TRN,09/10/2026,7.5,Training & CPD,N,Approved,Team catch-up
+TS0002685,EMP1022,ENG-26-005,09/10/2026,2.5,Scoping,Y,Approved,Review points cleared
+TS0002686,EMP1022,INT-TRN,09/10/2026,5.0,Training & CPD,N,Approved,
+TS0002803,EMP1023,ENG-26-012,09/10/2026,3.0,Client Meeting,Y,Approved,Review points cleared
+TS0002804,EMP1023,INT-ADM,09/10/2026,4.5,Internal Administration,N,Approved,
+TS0002878,EMP1024,INT-ADM,09/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0002945,EMP1025,ENG-26-016,09/10/2026,3.0,Reporting,Y,Approved,Travel to client site
+TS0002946,EMP1025,INT-TRN,09/10/2026,4.5,Training & CPD,N,Approved,
+TS0003025,EMP1026,INT-TRN,09/10/2026,7.5,Training & CPD,N,Approved,Travel to client site
+TS0003122,EMP1027,ENG-26-010  ,09/10/2026,3.5,Scoping,Y,Approved,Review points cleared
+TS0003123,EMP1027,INT-ADM,09/10/2026,4.0,Internal Administration,N,Approved,Draft deliverable
+TS0003199,EMP1028,ENG-26-015,09/10/2026,3.0,Data Gathering,Y,Approved,Client workshop
+TS0003200,EMP1028,INT-ADM,09/10/2026,4.5,Internal Administration,N,Approved,Client workshop
+TS0003319,EMP1029,ENG-26-001,09/10/2026,4.5,Fieldwork,Y,Approved,Review points cleared
+TS0003320,EMP1029,INT-TRN,09/10/2026,3.0,Training & CPD,N,Approved,
+TS0003448,EMP1030,eng-26-006,09/10/2026,2.5,Testing,y,Approved,
+TS0003449,EMP1030,ENG-26-011,09/10/2026,4.0,Solution Design,Y,Approved,
+TS0003450,EMP1030,INT-TRN,09/10/2026,1.0,Training & CPD,N,Approved,
+TS0003591,EMP1031,ENG-26-009,09/10/2026,4.5,Data Room Review,Y,Approved,
+TS0003592,EMP1031,INT-ADM,09/10/2026,3.0,Internal Administration,N,Approved,
+TS0003727,EMP1032,ENG-26-005,09/10/2026,4.5,Reporting,Y,Approved,
+TS0003728,EMP1032,ENG-26-010,09/10/2026,1.5,Scoping,Y,Approved,
+TS0003729,EMP1032,INT-ADM  ,09/10/2026,1.5,Internal Administration,N,Approved,Travel to client site
+TS0003858,EMP1033,ENG-26-010,09/10/2026,4.0,Controls Testing,Y,Approved,Draft deliverable
+TS0003859,EMP1033,ENG-26-012,09/10/2026,3.0,Review,Y,Approved,Team catch-up
+TS0003860,EMP1033,INT-ADM,09/10/2026,0.5,Internal Administration,N,Approved,Review points cleared
+TS0003975,EMP1034,ENG-26-007,09/10/2026,5.0,Planning,Y,Approved,Review points cleared
+TS0003976,EMP1034,ENG-26-013,09/10/2026,3.5,Reporting,Y,Approved,Client workshop
+TS0004074,EMP1035,ENG-26-003,09/10/2026,5.0,Requirements,Y,Approved,Client workshop
+TS0004075,EMP1035,INT-ADM,09/10/2026,2.5,Internal Administration,N,Approved,Draft deliverable
+TS0004191,EMP1036,ENG-26-015,09/10/2026,3.0,Client Meeting,Y,Approved,Client workshop
+TS0004192,EMP1036,INT-ADM,09/10/2026,4.5,Internal Administration,N,Approved,Draft deliverable
+TS0004326,EMP1037,ENG-26-001,09/10/2026,3.0,Reporting,Y,Approved,Draft deliverable
+TS0004327,EMP1037,ENG-26-013  ,09/10/2026,3.5,Substantive Testing,Y,Approved,
+TS0004328,EMP1037,INT-ADM,09/10/2026,1.0,Internal Administration,N,Approved,Draft deliverable
+TS0004460,EMP1038,ENG-26-003,09/10/2026,4.5,Requirements,Y,Approved,
+TS0004461,EMP1038,ENG-26-015,09/10/2026,2.5,Review,Y,Approved,
+TS0004462,EMP1038,INT-ADM,09/10/2026,0.5,Internal Administration,n,Approved,Draft deliverable
+TS0004579,EMP1039,ENG-26-016,09/10/2026,6.5,PMO,Y,Approved,
+TS0004580,EMP1039,INT-TRN,09/10/2026,1.0,Training & CPD,n,Approved,Travel to client site
+TS0004715,EMP1040,ENG-26-002,09/10/2026,5.5,Reporting,Y,Approved,Travel to client site
+TS0004716,EMP1040,ENG-26-010,09/10/2026,1.5,Controls Testing,y,Approved,Team catch-up
+TS0004717,EMP1040,INT-ADM,09/10/2026,0.5,Internal Administration,n,Approved,Client workshop
+TS0004849,EMP1041,ENG-26-012,09/10/2026,2.0,Computation,Y,Approved,Draft deliverable
+TS0004850,EMP1041,INT-TRN,09/10/2026,5.5,Training & CPD,N,Approved,Review points cleared
+TS0004971,EMP1042,ENG-26-010,09/10/2026,3.5,Analysis,Y,Approved,
+TS0004972,EMP1042,ENG-26-013,09/10/2026,4.0,Fieldwork,Y,Approved,
+TS0005104,EMP1043,ENG-26-006,09/10/2026,4.5,Reporting,y,Approved,
+TS0005105,EMP1043,ENG-26-011,09/10/2026,3.5,Solution Design,Y,Approved,
+TS0005206,EMP1044,ENG-26-009,09/10/2026,3.0,Management Meetings,Y,Approved,Client workshop
+TS0005207,EMP1044,INT-ADM,09/10/2026,4.5,Internal Administration,N,Approved,Client workshop
+TS0005347,EMP1045,ENG-26-002,09/10/2026,7.0,Scoping,Y,Approved,
+TS0005348,EMP1045,ENG-26-005,09/10/2026,1.5,Controls Testing,Y,Approved,Team catch-up
+TS0005482,EMP1046,ENG-26-012,09/10/2026,2.0,Computation,Y,Approved,
+TS0005483,EMP1046,INT-TRN,09/10/2026,5.5,Training & CPD,N,Approved,
+TS0005580,EMP1047,ENG-26-007,09/10/2026,6.5,Planning,Y,Approved,
+TS0005581,EMP1047,INT-TRN,09/10/2026,1.0,Training & CPD,N,Approved,
+TS0005699,EMP1048,ENG-26-006,09/10/2026,7.5,PMO,Y,Approved,Client workshop
+TS0005700,EMP1048,ENG-26-016,09/10/2026,1.5,Solution Design,Y,Approved,
+TS0005837,EMP1049,ENG-26-009,09/10/2026,3.5,Review,Y,Approved,Team catch-up
+TS0005838,EMP1049,INT-ADM,09/10/2026,4.0,Internal Administration,N,Approved,
+TS0005935,EMP1050,INT-LVE  ,09/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0006019,EMP1051,INT-ADM,09/10/2026,7.5,Internal Administration,N,Approved,Review points cleared
+TS0006102,EMP1052,ENG-26-001,09/10/2026,9.0,Planning,Y,Approved,Draft deliverable
+TS0006225,EMP1053,ENG-26-003,09/10/2026,3.5,Testing,Y,Approved,Client workshop
+TS0006226,EMP1053,ENG-26-011,09/10/2026,4.0,Reporting,Y,Approved,Draft deliverable
+TS0006369,EMP1054,ENG-26-016,09/10/2026,5.0,Workshops,Y,Approved,Draft deliverable
+TS0006370,EMP1054,INT-ADM,09/10/2026,2.5,Internal Administration,N,Approved,Travel to client site
+TS0006469,EMP1055,ENG-26-002,09/10/2026,7.0,Interviews,Y,Approved,
+TS0006470,EMP1055,INT-ADM,09/10/2026,0.5,Internal Administration,N,Approved,Team catch-up
+TS0006573,EMP1056,ENG-26-007,09/10/2026,3.5,Controls Testing,Y,Approved,
+TS0006574,EMP1056,ENG-26-015,09/10/2026,3.5,Client Meeting,Y,Approved,
+TS0006575,EMP1056,INT-TRN,09/10/2026,0.5,Training & CPD,N,Approved,
+TS0006700,EMP1057,ENG-26-006,09/10/2026,6.5,Reporting,y,Approved,Travel to client site
+TS0006701,EMP1057,ENG-26-016,09/10/2026,2.0,Solution Design,Y,Approved,Review points cleared
+TS0006838,EMP1058,ENG-26-015,09/10/2026,3.0,Data Gathering,Y,Approved,
+TS0006839,EMP1058,INT-TRN,09/10/2026,4.5,Training & CPD,N,Approved,
+TS0006934,EMP1059,ENG-26-005,09/10/2026,7.0,Reporting,Y,Approved,Review points cleared
+TS0006935,EMP1059,INT-ADM,09/10/2026,0.5,Internal Administration,N,Approved,Travel to client site
+TS0007054,EMP1060,ENG-26-012,09/10/2026,1.5,Technical Research,Y,Approved,
+TS0007055,EMP1060,INT-ADM,09/10/2026,6.0,Internal Administration,n,Approved,Team catch-up
+TS0007089,EMP1053,ENG-26-003,11/10/2026,3.0,Workshops,Y,Approved,Weekend working to meet deadline
+TS0000132,EMP1001,ENG-26-001,12/10/2026,1.0,Controls Testing,n,Approved,Non-chargeable rework
+TS0000133,EMP1001,ENG-26-013,12/10/2026,0.5,Review,Y,Approved,
+TS0000134,EMP1001,INT-ADM,12/10/2026,6.0,Internal Administration,N,Approved,
+TS0000292,EMP1002,ENG-26-003,12/10/2026,0.5,Solution Design,Y,Approved,Review points cleared
+TS0000293,EMP1002,ENG-26-011,12/10/2026,1.0,Testing,Y,Approved,
+TS0000294,EMP1002,INT-BD,12/10/2026,6.0,Business Development,N,Approved,Client workshop
+TS0000456,EMP1003,INT-LVE,12/10/2026,7.5,Annual Leave,N,Submitted,Annual leave
+TS0000605,EMP1004,ENG-26-002,12/10/2026,0.5,Reporting,Y,Approved,
+TS0000606,EMP1004,INT-ADM  ,12/10/2026,7.0,Internal Administration,N,Approved,Client workshop
+TS0000739,EMP1005,ENG-26-015,12/10/2026,1.0,Computation,Y,Approved,Client workshop
+TS0000740,EMP1005,INT-BD,12/10/2026,6.5,Business Development,N,Approved,Draft deliverable
+TS0000845,EMP1006,ENG-26-007,12/10/2026,0.5,Controls Testing,Y,Approved,
+TS0000846,EMP1006,INT-BD,12/10/2026,7.0,Business Development,N,Approved,
+TS0000978,EMP1007,ENG-26-006,12/10/2026,0.5,Testing,Y,Approved,
+TS0000979,EMP1007,ENG-26-016,12/10/2026,1.0,PMO,y,Approved,Team catch-up
+TS0000980,EMP1007,INT-BD,12/10/2026,6.0,Business Development,N,Approved,Review points cleared
+TS0001093,EMP1008,ENG-26-009,12/10/2026,0.5,Management Meetings,Y,Approved,Draft deliverable
+TS0001094,EMP1008,INT-BD,12/10/2026,7.0,Business Development,n,Approved,Team catch-up
+TS0001219,EMP1009,ENG-26-005,12/10/2026,0.5,Analysis,Y,Approved,Client workshop
+TS0001220,EMP1009,INT-BD,12/10/2026,7.0,Business Development,N,Approved,Travel to client site
+TS0001336,EMP1010,ENG-26-012,12/10/2026,0.5,Review,Y,Approved,Travel to client site
+TS0001337,EMP1010,INT-BD,12/10/2026,7.0,Business Development,n,Approved,
+TS0001458,EMP1011,ENG-26-001,12/10/2026,2.5,Substantive Testing,Y,Approved,Review points cleared
+TS0001459,EMP1011,INT-ADM,12/10/2026,5.0,Internal Administration,N,Approved,
+TS0001584,EMP1012,ENG-26-003,12/10/2026,5.0,PMO,y,Approved,
+TS0001585,EMP1012,INT-BD,12/10/2026,2.5,Business Development,N,Approved,
+TS0001697,EMP1013,INT-ADM,12/10/2026,7.5,Internal Administration,N,Approved,
+TS0001806,EMP1014,ENG-26-002,12/10/2026,2.5,Controls Testing,y,Approved,
+TS0001807,EMP1014,INT-BD,12/10/2026,5.0,Business Development,N,Approved,Review points cleared
+TS0001926,EMP1015,INT-LVE,12/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0002019,EMP1016,ENG-26-007,12/10/2026,3.5,Reporting,y,Approved,
+TS0002020,EMP1016,INT-BD,12/10/2026,4.0,Business Development,N,Approved,Team catch-up
+TS0002145,EMP1017,ENG-26-006,12/10/2026,2.5,PMO,Y,Approved,
+TS0002146,EMP1017,INT-ADM,12/10/2026,5.0,Internal Administration,N,Approved,
+TS0002249,EMP1018,ENG-26-009,12/10/2026,3.0,Management Meetings,Y,Approved,
+TS0002250,EMP1018,INT-BD,12/10/2026,4.5,Business Development,N,Approved,
+TS0002361,EMP1019,ENG-26-013,12/10/2026,3.5,Substantive Testing,Y,Approved,
+TS0002362,EMP1019,INT-ADM,12/10/2026,4.0,Internal Administration,N,Approved,Travel to client site
+TS0002457,EMP1020,ENG-26-011,12/10/2026,3.0,Workshops,Y,Approved,
+TS0002458,EMP1020,INT-ADM,12/10/2026,4.5,Internal Administration,N,Approved,
+TS0002574,EMP1021,INT-ADM,12/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0002687,EMP1022,eng-26-005,12/10/2026,3.0,Interviews,Y,Approved,
+TS0002688,EMP1022,INT-ADM,12/10/2026,4.5,Internal Administration,n,Approved,
+TS0002805,EMP1023,ENG-26-012,12/10/2026,3.5,Review,Y,Approved,Team catch-up
+TS0002806,EMP1023,INT-ADM,12/10/2026,4.0,Internal Administration,N,Approved,
+TS0002879,EMP1024,INT-ADM,12/10/2026,7.5,Internal Administration,N,Approved,
+TS0002947,EMP1025,ENG-26-016,12/10/2026,3.0,Testing,Y,Approved,
+TS0002948,EMP1025,INT-TRN,12/10/2026,4.5,Training & CPD,N,Approved,Draft deliverable
+TS0003026,EMP1026,INT-ADM,12/10/2026,7.5,Internal Administration,N,Approved,
+TS0003124,EMP1027,INT-ADM,12/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0003201,EMP1028,ENG-26-015,12/10/2026,3.0,Data Gathering,Y,Approved,
+TS0003202,EMP1028,INT-TRN,12/10/2026,4.5,Training & CPD,N,Approved,Review points cleared
+TS0003321,EMP1029,ENG-26-001,12/10/2026,9.0,Review,Y,Submitted,Travel to client site
+TS0003451,EMP1030,ENG-26-006,12/10/2026,2.5,Requirements,y,Approved,Draft deliverable
+TS0003452,EMP1030,ENG-26-011,12/10/2026,3.5,PMO,Y,Approved,
+TS0003453,EMP1030,INT-TRN,12/10/2026,1.5,Training & CPD,N,Approved,Draft deliverable
+TS0003593,EMP1031,ENG-26-009,12/10/2026,6.5,Analysis,Y,Approved,Draft deliverable
+TS0003594,EMP1031,INT-TRN,12/10/2026,1.0,Training & CPD,N,Approved,
+TS0003730,EMP1032,ENG-26-005,12/10/2026,5.0,Interviews,Y,Approved,
+TS0003731,EMP1032,INT-ADM,12/10/2026,2.5,Internal Administration,N,Approved,Travel to client site
+TS0003861,EMP1033,ENG-26-012,12/10/2026,3.5,Technical Research,Y,Approved,Travel to client site
+TS0003862,EMP1033,INT-ADM  ,12/10/2026,4.0,Internal Administration,N,Approved,Team catch-up
+TS0003977,EMP1034,ENG-26-007,12/10/2026,3.5,Reporting,Y,Approved,Team catch-up
+TS0003978,EMP1034,ENG-26-013,12/10/2026,2.0,Review,Y,Approved,Draft deliverable
+TS0003979,EMP1034,INT-TRN,12/10/2026,2.0,Training & CPD,N,Approved,Client workshop
+TS0004076,EMP1035,ENG-26-003,12/10/2026,5.5,Requirements,Y,Approved,
+TS0004077,EMP1035,INT-TRN,12/10/2026,2.0,Training & CPD,N,Approved,Draft deliverable
+TS0004193,EMP1036,ENG-26-015,12/10/2026,3.0,Computation,Y,Approved,
+TS0004194,EMP1036,INT-TRN  ,12/10/2026,4.5,Training & CPD,N,Approved,Team catch-up
+TS0004329,EMP1037,ENG-26-001,12/10/2026,4.5,Review,Y,Approved,Travel to client site
+TS0004330,EMP1037,ENG-26-013  ,12/10/2026,4.0,Substantive Testing,Y,Approved,
+TS0004463,EMP1038,ENG-26-003,12/10/2026,5.5,PMO,Y,Approved,Travel to client site
+TS0004464,EMP1038,ENG-26-015,12/10/2026,2.5,Computation,Y,Approved,Review points cleared
+TS0004581,EMP1039,ENG-26-016,12/10/2026,7.0,Workshops,Y,Approved,Draft deliverable
+TS0004582,EMP1039,INT-ADM,12/10/2026,0.5,Internal Administration,N,Approved,
+TS0004718,EMP1040,ENG-26-002,12/10/2026,4.5,Interviews,Y,Approved,Travel to client site
+TS0004719,EMP1040,INT-ADM,12/10/2026,3.0,Internal Administration,N,Approved,Draft deliverable
+TS0004851,EMP1041,ENG-26-012,12/10/2026,3.5,Review,Y,Approved,
+TS0004852,EMP1041,INT-ADM,12/10/2026,4.0,Internal Administration,N,Approved,
+TS0004973,EMP1042,ENG-26-013,12/10/2026,4.5,Fieldwork,Y,Approved,Review points cleared
+TS0004974,EMP1042,INT-TRN,12/10/2026,3.0,Training & CPD,N,Approved,Travel to client site
+TS0005106,EMP1043,ENG-26-006,12/10/2026,4.5,Solution Design,Y,Approved,Client workshop
+TS0005107,EMP1043,ENG-26-011,12/10/2026,3.0,Reporting,Y,Approved,
+TS0005208,EMP1044,ENG-26-009,12/10/2026,3.5,Report Drafting,Y,Approved,Draft deliverable
+TS0005209,EMP1044,INT-ADM,12/10/2026,4.0,Internal Administration,N,Approved,Review points cleared
+TS0005349,EMP1045,ENG-26-002,12/10/2026,6.5,Controls Testing,Y,Approved,
+TS0005350,EMP1045,ENG-26-005  ,12/10/2026,1.5,Interviews,Y,Approved,
+TS0005484,EMP1046,ENG-26-012,12/10/2026,1.5,Client Meeting,Y,Approved,
+TS0005485,EMP1046,INT-ADM,12/10/2026,6.0,Internal Administration,N,Approved,Draft deliverable
+TS0005582,EMP1047,ENG-26-007,12/10/2026,4.0,Controls Testing,Y,Approved,Team catch-up
+TS0005583,EMP1047,INT-ADM,12/10/2026,3.5,Internal Administration,N,Approved,
+TS0005701,EMP1048,ENG-26-006,12/10/2026,5.0,Reporting,Y,Approved,
+TS0005702,EMP1048,ENG-26-016,12/10/2026,1.5,Workshops,Y,Approved,Travel to client site
+TS0005703,EMP1048,INT-ADM,12/10/2026,1.0,Internal Administration,N,Approved,Team catch-up
+TS0005839,EMP1049,ENG-26-009,12/10/2026,4.0,Analysis,y,Approved,
+TS0005840,EMP1049,INT-TRN,12/10/2026,3.5,Training & CPD,N,Approved,
+TS0005936,EMP1050,ENG-26-005,12/10/2026,9.0,Scoping,Y,Approved,Draft deliverable
+TS0006020,EMP1051,INT-ADM,12/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0006103,EMP1052,ENG-26-001,12/10/2026,6.5,Review,Y,Approved,
+TS0006104,EMP1052,INT-ADM,12/10/2026,1.0,Internal Administration,N,Approved,Client workshop
+TS0006227,EMP1053,ENG-26-003,12/10/2026,3.0,Workshops,Y,Approved,
+TS0006228,EMP1053,ENG-26-011,12/10/2026,3.5,Requirements,Y,Approved,
+TS0006229,EMP1053,INT-TRN,12/10/2026,1.0,Training & CPD,N,Approved,Travel to client site
+TS0006371,EMP1054,ENG-26-016,12/10/2026,4.0,Requirements,Y,Submitted,
+TS0006372,EMP1054,INT-ADM,12/10/2026,3.5,Internal Administration,N,Submitted,
+TS0006471,EMP1055,ENG-26-002,12/10/2026,7.5,Reporting,Y,Approved,Client workshop
+TS0006576,EMP1056,ENG-26-007,12/10/2026,3.5,Planning,Y,Approved,
+TS0006577,EMP1056,ENG-26-015,12/10/2026,3.5,Review,N,Approved,Non-chargeable rework
+TS0006578,EMP1056,INT-ADM,12/10/2026,0.5,Internal Administration,N,Approved,Review points cleared
+TS0006702,EMP1057,ENG-26-006,12/10/2026,5.0,Workshops,Y,Approved,
+TS0006703,EMP1057,ENG-26-016,12/10/2026,1.5,Solution Design,Y,Approved,
+TS0006704,EMP1057,INT-ADM,12/10/2026,1.0,Internal Administration,N,Approved,Client workshop
+TS0006840,EMP1058,ENG-26-015,12/10/2026,4.5,Review,Y,Approved,Travel to client site
+TS0006841,EMP1058,INT-ADM,12/10/2026,3.0,Internal Administration,n,Approved,
+TS0006936,EMP1059,ENG-26-005,12/10/2026,8.0,Reporting,Y,Approved,
+TS0007056,EMP1060,ENG-26-012,12/10/2026,1.5,Computation,Y,Approved,Draft deliverable
+TS0007057,EMP1060,INT-ADM,12/10/2026,6.0,Internal Administration,N,Approved,
+TS0000135,EMP1001,ENG-26-001,13/10/2026,0.5,Planning,Y,Approved,
+TS0000136,EMP1001,ENG-26-013,13/10/2026,0.5,Reporting,Y,Approved,
+TS0000137,EMP1001,INT-BD,13/10/2026,6.5,Business Development,N,Approved,Travel to client site
+TS0000295,EMP1002,ENG-26-003,13/10/2026,1.0,Testing,Y,Approved,Review points cleared
+TS0000296,EMP1002,ENG-26-011,13/10/2026,0.5,Requirements,y,Approved,Review points cleared
+TS0000297,EMP1002,INT-ADM,13/10/2026,6.0,Internal Administration,N,Approved,
+TS0000457,EMP1003,INT-ADM,13/10/2026,7.5,Internal Administration,N,Approved,
+TS0000607,EMP1004,ENG-26-002,13/10/2026,1.0,Analysis,Y,Approved,Draft deliverable
+TS0000608,EMP1004,INT-BD,13/10/2026,6.5,Business Development,N,Approved,
+TS0000741,EMP1005,ENG-26-015,13/10/2026,1.0,Client Meeting,Y,Approved,Review points cleared
+TS0000742,EMP1005,INT-ADM,13/10/2026,6.5,Internal Administration,N,Approved,Review points cleared
+TS0000847,EMP1006,ENG-26-007,13/10/2026,0.5,Fieldwork,Y,Approved,Travel to client site
+TS0000848,EMP1006,INT-BD,13/10/2026,7.0,Business Development,n,Approved,Team catch-up
+TS0000981,EMP1007,ENG-26-006,13/10/2026,1.0,Testing,Y,Approved,Draft deliverable
+TS0000982,EMP1007,ENG-26-016,13/10/2026,0.5,Requirements,Y,Approved,Team catch-up
+TS0000983,EMP1007,INT-ADM,13/10/2026,6.0,Internal Administration,N,Approved,
+TS0001095,EMP1008,ENG-26-009,13/10/2026,2.0,Management Meetings,Y,Approved,
+TS0001096,EMP1008,INT-BD,13/10/2026,5.5,Business Development,N,Approved,Review points cleared
+TS0001221,EMP1009,ENG-26-005,13/10/2026,0.5,Controls Testing,Y,Approved,Draft deliverable
+TS0001222,EMP1009,INT-BD,13/10/2026,7.0,Business Development,N,Approved,
+TS0001338,EMP1010,ENG-26-012,13/10/2026,0.5,Client Meeting,Y,Approved,Team catch-up
+TS0001339,EMP1010,INT-ADM,13/10/2026,7.0,Internal Administration,N,Approved,Travel to client site
+TS0001460,EMP1011,ENG-26-001,13/10/2026,3.0,Planning,Y,Approved,
+TS0001461,EMP1011,INT-BD,13/10/2026,4.5,Business Development,N,Approved,Travel to client site
+TS0001586,EMP1012,ENG-26-003,13/10/2026,2.5,Requirements,Y,Approved,
+TS0001587,EMP1012,int-adm,13/10/2026,5.0,Internal Administration,N,Approved,Travel to client site
+TS0001698,EMP1013,INT-ADM,13/10/2026,7.5,Internal Administration,N,Approved,
+TS0001808,EMP1014,ENG-26-002,13/10/2026,2.0,Controls Testing,Y,Approved,
+TS0001809,EMP1014,INT-BD,13/10/2026,5.5,Business Development,N,Approved,
+TS0001927,EMP1015,INT-BD,13/10/2026,7.5,Business Development,N,Approved,Draft deliverable
+TS0002021,EMP1016,INT-LVE,13/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0002147,EMP1017,ENG-26-006,13/10/2026,3.0,Workshops,Y,Approved,
+TS0002148,EMP1017,INT-ADM,13/10/2026,4.5,Internal Administration,N,Approved,
+TS0002251,EMP1018,ENG-26-009,13/10/2026,3.5,Management Meetings,Y,Approved,
+TS0002252,EMP1018,INT-BD,13/10/2026,4.0,Business Development,N,Approved,
+TS0002363,EMP1019,ENG-26-013,13/10/2026,3.5,Review,Y,Approved,
+TS0002364,EMP1019,INT-ADM,13/10/2026,4.0,Internal Administration,N,Approved,Team catch-up
+TS0002459,EMP1020,ENG-26-011,13/10/2026,3.5,Solution Design,Y,Approved,
+TS0002460,EMP1020,INT-ADM,13/10/2026,4.0,Internal Administration,n,Approved,Client workshop
+TS0002575,EMP1021,INT-TRN,13/10/2026,7.5,Training & CPD,N,Approved,
+TS0002689,EMP1022,ENG-26-005,13/10/2026,2.5,Controls Testing,Y,Approved,
+TS0002690,EMP1022,INT-ADM,13/10/2026,5.0,Internal Administration,N,Approved,
+TS0002807,EMP1023,ENG-26-012,13/10/2026,2.5,Data Gathering,Y,Approved,Team catch-up
+TS0002808,EMP1023,INT-ADM,13/10/2026,5.0,Internal Administration,N,Approved,Team catch-up
+TS0002880,EMP1024,INT-ADM,13/10/2026,7.5,Internal Administration,n,Approved,
+TS0002949,EMP1025,ENG-26-016,13/10/2026,3.5,PMO,Y,Approved,
+TS0002950,EMP1025,INT-ADM,13/10/2026,4.0,Internal Administration,N,Approved,Client workshop
+TS0003027,EMP1026,INT-ADM,13/10/2026,7.5,Internal Administration,N,Approved,
+TS0003125,EMP1027,INT-TRN,13/10/2026,7.5,Training & CPD,n,Approved,Review points cleared
+TS0003203,EMP1028,ENG-26-015,13/10/2026,2.5,Data Gathering,Y,Approved,Travel to client site
+TS0003204,EMP1028,INT-ADM,13/10/2026,5.0,Internal Administration,n,Approved,Review points cleared
+TS0003322,EMP1029,ENG-26-001,13/10/2026,5.0,Reporting,Y,Approved,
+TS0003323,EMP1029,INT-ADM,13/10/2026,2.5,Internal Administration,N,Approved,
+TS0003454,EMP1030,ENG-26-006,13/10/2026,5.0,Testing,Y,Approved,Client workshop
+TS0003455,EMP1030,ENG-26-011,13/10/2026,4.5,Workshops,Y,Approved,
+TS0003595,EMP1031,ENG-26-009,13/10/2026,4.5,Data Room Review,Y,Approved,Travel to client site
+TS0003596,EMP1031,INT-ADM,13/10/2026,3.0,Internal Administration,N,Approved,
+TS0003732,EMP1032,ENG-26-005,13/10/2026,6.5,Interviews,Y,Approved,
+TS0003733,EMP1032,INT-ADM,13/10/2026,1.0,Internal Administration,N,Approved,
+TS0003863,EMP1033,ENG-26-012,13/10/2026,2.0,Data Gathering,Y,Approved,
+TS0003864,EMP1033,INT-TRN,13/10/2026,5.5,Training & CPD,N,Approved,
+TS0003980,EMP1034,ENG-26-007,13/10/2026,3.5,Substantive Testing,Y,Approved,
+TS0003981,EMP1034,ENG-26-013,13/10/2026,3.0,Review,Y,Approved,
+TS0003982,EMP1034,int-trn,13/10/2026,1.0,Training & CPD,N,Approved,Review points cleared
+TS0004078,EMP1035,ENG-26-003,13/10/2026,8.0,Testing,Y,Approved,
+TS0004195,EMP1036,INT-LVE,13/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0004331,EMP1037,ENG-26-001,13/10/2026,4.0,Planning,Y,Approved,
+TS0004332,EMP1037,ENG-26-013,13/10/2026,4.0,Controls Testing,Y,Approved,Travel to client site
+TS0004465,EMP1038,ENG-26-003,13/10/2026,4.5,PMO,Y,Approved,
+TS0004466,EMP1038,ENG-26-015,13/10/2026,2.5,Technical Research,Y,Approved,
+TS0004467,EMP1038,INT-ADM,13/10/2026,0.5,Internal Administration,N,Approved,Client workshop
+TS0004583,EMP1039,ENG-26-016,13/10/2026,6.0,Testing,Y,Approved,
+TS0004584,EMP1039,INT-ADM,13/10/2026,1.5,Internal Administration,n,Approved,Client workshop
+TS0004720,EMP1040,INT-LVE,13/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0004853,EMP1041,ENG-26-012,13/10/2026,3.5,Data Gathering,y,Approved,Draft deliverable
+TS0004854,EMP1041,INT-ADM,13/10/2026,4.0,Internal Administration,N,Approved,Travel to client site
+TS0004975,EMP1042,ENG-26-013,13/10/2026,4.0,Fieldwork,Y,Approved,
+TS0004976,EMP1042,INT-ADM,13/10/2026,3.5,Internal Administration,N,Approved,Draft deliverable
+TS0005108,EMP1043,INT-LVE,13/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0005210,EMP1044,ENG-26-009,13/10/2026,4.5,Review,Y,Approved,Travel to client site
+TS0005211,EMP1044,INT-ADM,13/10/2026,3.0,Internal Administration,N,Approved,
+TS0005351,EMP1045,ENG-26-002,13/10/2026,6.5,Analysis,Y,Submitted,
+TS0005352,EMP1045,eng-26-005,13/10/2026,1.0,Interviews,Y,Submitted,
+TS0005486,EMP1046,ENG-26-012  ,13/10/2026,1.5,Data Gathering,y,Approved,Client workshop
+TS0005487,EMP1046,INT-TRN,13/10/2026,6.0,Training & CPD,N,Approved,
+TS0005584,EMP1047,ENG-26-007,13/10/2026,5.0,Planning,Y,Approved,
+TS0005585,EMP1047,INT-ADM,13/10/2026,2.5,Internal Administration,N,Approved,
+TS0005704,EMP1048,ENG-26-006,13/10/2026,6.5,Requirements,Y,Submitted,Team catch-up
+TS0005705,EMP1048,ENG-26-016,13/10/2026,1.5,Testing,Y,Submitted,
+TS0005841,EMP1049,ENG-26-009,13/10/2026,3.5,Data Room Review,Y,Approved,Team catch-up
+TS0005842,EMP1049,INT-ADM,13/10/2026,4.0,Internal Administration,N,Approved,
+TS0005937,EMP1050,ENG-26-005,13/10/2026,7.0,Reporting,Y,Approved,Review points cleared
+TS0005938,EMP1050,INT-ADM  ,13/10/2026,0.5,Internal Administration,N,Approved,
+TS0006021,EMP1051,INT-TRN,13/10/2026,7.5,Training & CPD,N,Approved,Team catch-up
+TS0006105,EMP1052,ENG-26-001,13/10/2026,8.5,Planning,Y,Approved,
+TS0006230,EMP1053,INT-LVE,13/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0006373,EMP1054,ENG-26-016,13/10/2026,5.0,Requirements,N,Submitted,Non-chargeable rework
+TS0006374,EMP1054,INT-ADM,13/10/2026,2.5,Internal Administration,N,Submitted,
+TS0006472,EMP1055,ENG-26-002,13/10/2026,6.5,Controls Testing,Y,Approved,Review points cleared
+TS0006473,EMP1055,INT-TRN,13/10/2026,1.0,Training & CPD,N,Approved,Client workshop
+TS0006579,EMP1056,ENG-26-007,13/10/2026,3.5,Reporting,y,Approved,Review points cleared
+TS0006580,EMP1056,ENG-26-015,13/10/2026,3.0,Data Gathering,y,Approved,Travel to client site
+TS0006581,EMP1056,INT-TRN,13/10/2026,1.0,Training & CPD,N,Approved,
+TS0006705,EMP1057,ENG-26-006,13/10/2026,7.0,Testing,Y,Approved,Travel to client site
+TS0006706,EMP1057,ENG-26-016,13/10/2026,1.0,PMO,Y,Approved,
+TS0006842,EMP1058,ENG-26-015,13/10/2026,3.0,Review,Y,Approved,
+TS0006843,EMP1058,INT-ADM,13/10/2026,4.5,Internal Administration,N,Approved,
+TS0006937,EMP1059,ENG-26-005,13/10/2026,9.0,Reporting,Y,Approved,Travel to client site
+TS0007058,EMP1060,ENG-26-012,13/10/2026,1.5,Technical Research,Y,Approved,Draft deliverable
+TS0007059,EMP1060,INT-ADM,13/10/2026,6.0,Internal Administration,N,Approved,
+TS0000138,EMP1001,ENG-26-001,14/10/2026,14.0,Controls Testing,Y,Approved,Review points cleared
+TS0000139,EMP1001,ENG-26-013,14/10/2026,0.5,Reporting,Y,Approved,Team catch-up
+TS0000140,EMP1001,INT-BD,14/10/2026,6.5,Business Development,N,Approved,Client workshop
+TS0000298,EMP1002,ENG-26-003,14/10/2026,0.5,Requirements,Y,Approved,Client workshop
+TS0000299,EMP1002,ENG-26-011,14/10/2026,0.5,Requirements,Y,Approved,
+TS0000300,EMP1002,INT-ADM,14/10/2026,6.5,Internal Administration,N,Approved,
+TS0000458,EMP1003,INT-BD,14/10/2026,7.5,Business Development,N,Approved,Team catch-up
+TS0000609,EMP1004,INT-LVE,14/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0000743,EMP1005,ENG-26-015,14/10/2026,0.5,Technical Research,Y,Approved,Client workshop
+TS0000744,EMP1005,INT-BD,14/10/2026,7.0,Business Development,N,Approved,Draft deliverable
+TS0000849,EMP1006,ENG-26-007,14/10/2026,0.5,Review,Y,Approved,Review points cleared
+TS0000850,EMP1006,INT-BD,14/10/2026,7.0,Business Development,N,Approved,
+TS0000984,EMP1007,ENG-26-006,14/10/2026,0.5,Testing,Y,Approved,Draft deliverable
+TS0000985,EMP1007,ENG-26-016,14/10/2026,0.5,Solution Design,Y,Approved,Draft deliverable
+TS0000986,EMP1007,INT-BD,14/10/2026,6.5,Business Development,n,Approved,
+TS0001097,EMP1008,ENG-26-009,14/10/2026,1.0,Review,Y,Approved,
+TS0001098,EMP1008,INT-BD,14/10/2026,6.5,Business Development,N,Approved,
+TS0001223,EMP1009,ENG-26-005,14/10/2026,1.0,Interviews,Y,Approved,
+TS0001224,EMP1009,int-bd,14/10/2026,6.5,Business Development,N,Approved,
+TS0001340,EMP1010,ENG-26-012,14/10/2026,1.0,Computation,Y,Approved,Team catch-up
+TS0001341,EMP1010,INT-ADM,14/10/2026,6.5,Internal Administration,N,Approved,
+TS0001462,EMP1011,ENG-26-001,14/10/2026,2.5,Fieldwork,Y,Approved,Client workshop
+TS0001463,EMP1011,INT-ADM,14/10/2026,5.0,Internal Administration,N,Approved,Review points cleared
+TS0001588,EMP1012,ENG-26-003,14/10/2026,3.0,Testing,Y,Approved,Review points cleared
+TS0001589,EMP1012,INT-BD,14/10/2026,4.5,Business Development,N,Approved,
+TS0001699,EMP1013,INT-ADM,14/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0001810,EMP1014,ENG-26-002,14/10/2026,2.0,Analysis,Y,Approved,
+TS0001811,EMP1014,INT-ADM,14/10/2026,5.5,Internal Administration,N,Approved,
+TS0001928,EMP1015,INT-BD,14/10/2026,7.5,Business Development,N,Approved,Client workshop
+TS0002022,EMP1016,ENG-26-007,14/10/2026,4.0,Fieldwork,Y,Approved,Draft deliverable
+TS0002023,EMP1016,INT-ADM,14/10/2026,3.5,Internal Administration,N,Approved,
+TS0002149,EMP1017,ENG-26-006,14/10/2026,3.5,PMO,Y,Approved,
+TS0002150,EMP1017,INT-BD,14/10/2026,4.0,Business Development,n,Approved,
+TS0002253,EMP1018,ENG-26-009,14/10/2026,3.0,Analysis,y,Approved,
+TS0002254,EMP1018,INT-BD,14/10/2026,4.5,Business Development,N,Approved,Client workshop
+TS0002365,EMP1019,ENG-26-013,14/10/2026,3.0,Fieldwork,Y,Approved,
+TS0002366,EMP1019,INT-ADM,14/10/2026,4.5,Internal Administration,N,Approved,
+TS0002461,EMP1020,ENG-26-011,14/10/2026,2.0,PMO,Y,Approved,Travel to client site
+TS0002462,EMP1020,INT-ADM,14/10/2026,5.5,Internal Administration,N,Approved,
+TS0002576,EMP1021,INT-ADM,14/10/2026,7.5,Internal Administration,N,Approved,
+TS0002691,EMP1022,ENG-26-005,14/10/2026,3.0,Interviews,Y,Approved,
+TS0002692,EMP1022,INT-TRN,14/10/2026,4.5,Training & CPD,N,Approved,
+TS0002809,EMP1023,ENG-26-012,14/10/2026,4.0,Data Gathering,Y,Approved,Team catch-up
+TS0002810,EMP1023,INT-ADM,14/10/2026,3.5,Internal Administration,N,Approved,
+TS0002881,EMP1024,INT-ADM,14/10/2026,7.5,Internal Administration,n,Approved,Client workshop
+TS0002951,EMP1025,ENG-26-016,14/10/2026,2.5,Workshops,Y,Approved,Team catch-up
+TS0002952,EMP1025,INT-TRN,14/10/2026,5.0,Training & CPD,N,Approved,Team catch-up
+TS0003028,EMP1026,INT-ADM,14/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0003126,EMP1027,INT-TRN,14/10/2026,7.5,Training & CPD,N,Approved,Review points cleared
+TS0003205,EMP1028,ENG-26-015,14/10/2026,3.5,Technical Research,Y,Approved,Travel to client site
+TS0003206,EMP1028,INT-ADM,14/10/2026,4.0,Internal Administration,N,Approved,Client workshop
+TS0003324,EMP1029,ENG-26-001,14/10/2026,7.0,Review,Y,Approved,Draft deliverable
+TS0003325,EMP1029,INT-ADM,14/10/2026,0.5,Internal Administration,N,Approved,
+TS0003456,EMP1030,ENG-26-006,14/10/2026,4.5,PMO,Y,Approved,Team catch-up
+TS0003457,EMP1030,ENG-26-011,14/10/2026,4.0,Solution Design,Y,Approved,
+TS0007092,EMP1030,ENG-26-009,14/10/2026,2.0,Management Meetings,Y,Approved,
+TS0003597,EMP1031,ENG-26-009,14/10/2026,2.0,Review,Y,Approved,
+TS0003598,EMP1031,INT-ADM,14/10/2026,5.5,Internal Administration,N,Approved,
+TS0003734,EMP1032,eng-26-005,14/10/2026,5.5,Scoping,Y,Approved,
+TS0003735,EMP1032,INT-TRN,14/10/2026,2.0,Training & CPD,N,Approved,Team catch-up
+TS0003865,EMP1033,ENG-26-012,14/10/2026,2.0,Client Meeting,Y,Approved,
+TS0003866,EMP1033,INT-ADM,14/10/2026,5.5,Internal Administration,N,Approved,
+TS0003983,EMP1034,ENG-26-007,14/10/2026,4.0,Controls Testing,Y,Approved,
+TS0003984,EMP1034,ENG-26-013,14/10/2026,3.0,Reporting,Y,Approved,
+TS0003985,EMP1034,INT-ADM,14/10/2026,0.5,Internal Administration,N,Approved,Review points cleared
+TS0004079,EMP1035,ENG-26-003,14/10/2026,8.0,Requirements,y,Approved,Draft deliverable
+TS0004196,EMP1036,ENG-26-015,14/10/2026,1.5,Client Meeting,y,Approved,
+TS0004197,EMP1036,INT-ADM,14/10/2026,6.0,Internal Administration,N,Approved,Review points cleared
+TS0004333,EMP1037,ENG-26-001,14/10/2026,4.5,Controls Testing,y,Approved,
+TS0004334,EMP1037,ENG-26-013,14/10/2026,3.5,Planning,Y,Approved,Draft deliverable
+TS0004468,EMP1038,ENG-26-003,14/10/2026,13.0,Reporting,Y,Approved,
+TS0004469,EMP1038,ENG-26-015,14/10/2026,2.5,Review,y,Approved,
+TS0007101,EMP1038,ENG-26-011,14/10/2026,4.0,Reporting,Y,Approved,
+TS0004585,EMP1039,ENG-26-016,14/10/2026,5.0,Workshops,Y,Approved,Client workshop
+TS0004586,EMP1039,INT-ADM,14/10/2026,2.5,Internal Administration,N,Approved,
+TS0004721,EMP1040,ENG-26-002,14/10/2026,5.0,Scoping,y,Approved,Team catch-up
+TS0004722,EMP1040,INT-TRN,14/10/2026,2.5,Training & CPD,N,Approved,Travel to client site
+TS0004855,EMP1041,ENG-26-012,14/10/2026,4.5,Data Gathering,Y,Approved,Review points cleared
+TS0004856,EMP1041,INT-TRN,14/10/2026,3.0,Training & CPD,N,Approved,Client workshop
+TS0004977,EMP1042,ENG-26-013,14/10/2026,6.0,Review,Y,Approved,
+TS0004978,EMP1042,INT-ADM,14/10/2026,1.5,Internal Administration,N,Approved,Review points cleared
+TS0005109,EMP1043,ENG-26-006  ,14/10/2026,3.0,Solution Design,Y,Approved,
+TS0005110,EMP1043,ENG-26-011,14/10/2026,2.5,Workshops,Y,Approved,Travel to client site
+TS0005111,EMP1043,INT-ADM,14/10/2026,2.0,Internal Administration,N,Approved,Travel to client site
+TS0005212,EMP1044,ENG-26-009,14/10/2026,4.5,Data Room Review,Y,Approved,Team catch-up
+TS0005213,EMP1044,INT-TRN,14/10/2026,3.0,Training & CPD,N,Approved,
+TS0005353,EMP1045,ENG-26-002,14/10/2026,7.0,Analysis,Y,Approved,Review points cleared
+TS0005354,EMP1045,ENG-26-005,14/10/2026,1.5,Interviews,Y,Approved,Travel to client site
+TS0005488,EMP1046,ENG-26-012,14/10/2026,1.5,Data Gathering,Y,Approved,
+TS0005489,EMP1046,INT-TRN,14/10/2026,6.0,Training & CPD,N,Approved,
+TS0005586,EMP1047,ENG-26-007,14/10/2026,5.5,Planning,Y,Approved,Review points cleared
+TS0005587,EMP1047,INT-ADM,14/10/2026,2.0,Internal Administration,N,Approved,Client workshop
+TS0005706,EMP1048,ENG-26-006,14/10/2026,6.0,Workshops,Y,Approved,Review points cleared
+TS0005707,EMP1048,ENG-26-016,14/10/2026,1.5,Reporting,Y,Approved,Review points cleared
+TS0005843,EMP1049,ENG-26-009,14/10/2026,3.5,Analysis,Y,Approved,
+TS0005844,EMP1049,INT-ADM,14/10/2026,4.0,Internal Administration,N,Approved,Team catch-up
+TS0005939,EMP1050,eng-26-005,14/10/2026,5.5,Interviews,Y,Approved,Travel to client site
+TS0005940,EMP1050,INT-ADM,14/10/2026,2.0,Internal Administration,N,Approved,
+TS0006022,EMP1051,INT-ADM,14/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0006106,EMP1052,ENG-26-001,14/10/2026,8.0,Reporting,Y,Approved,
+TS0006231,EMP1053,ENG-26-003,14/10/2026,4.0,Testing,Y,Approved,Team catch-up
+TS0006232,EMP1053,ENG-26-011,14/10/2026,3.5,Testing,Y,Approved,Client workshop
+TS0006375,EMP1054,ENG-26-016,14/10/2026,5.0,Testing,Y,Approved,
+TS0006376,EMP1054,INT-ADM,14/10/2026,2.5,Internal Administration,n,Approved,Review points cleared
+TS0006474,EMP1055,ENG-26-002,14/10/2026,5.5,Controls Testing,Y,Approved,Review points cleared
+TS0006475,EMP1055,INT-TRN  ,14/10/2026,2.0,Training & CPD,N,Approved,
+TS0006582,EMP1056,ENG-26-007,14/10/2026,4.0,Planning,N,Approved,Non-chargeable rework
+TS0006583,EMP1056,ENG-26-015,14/10/2026,3.0,Computation,Y,Approved,Review points cleared
+TS0006584,EMP1056,INT-ADM,14/10/2026,0.5,Internal Administration,N,Approved,
+TS0006707,EMP1057,ENG-26-006  ,14/10/2026,5.5,Solution Design,Y,Approved,Travel to client site
+TS0006708,EMP1057,ENG-26-016,14/10/2026,1.5,Workshops,Y,Approved,
+TS0006709,EMP1057,INT-ADM,14/10/2026,0.5,Internal Administration,N,Approved,Client workshop
+TS0006844,EMP1058,ENG-26-015,14/10/2026,5.0,Review,Y,Approved,
+TS0006845,EMP1058,INT-ADM,14/10/2026,2.5,Internal Administration,N,Approved,Travel to client site
+TS0006938,EMP1059,ENG-26-005,14/10/2026,8.5,Controls Testing,Y,Approved,Review points cleared
+TS0007060,EMP1060,ENG-26-012,14/10/2026,1.0,Technical Research,Y,Approved,Draft deliverable
+TS0007061,EMP1060,INT-ADM,14/10/2026,6.5,Internal Administration,N,Approved,
+TS0000141,EMP1001,ENG-26-001,15/10/2026,0.5,Controls Testing,Y,Approved,
+TS0000142,EMP1001,ENG-26-013,15/10/2026,1.0,Substantive Testing,Y,Approved,Travel to client site
+TS0000143,EMP1001,INT-ADM,15/10/2026,6.0,Internal Administration,N,Approved,Draft deliverable
+TS0000301,EMP1002,eng-26-003,15/10/2026,1.0,PMO,y,Approved,
+TS0000302,EMP1002,ENG-26-011,15/10/2026,0.5,Reporting,Y,Approved,Draft deliverable
+TS0000303,EMP1002,INT-BD,15/10/2026,6.0,Business Development,N,Approved,Client workshop
+TS0000459,EMP1003,INT-BD,15/10/2026,7.5,Business Development,N,Approved,Client workshop
+TS0000610,EMP1004,ENG-26-002,15/10/2026,0.5,Reporting,Y,Approved,
+TS0000611,EMP1004,INT-BD,15/10/2026,7.0,Business Development,N,Approved,Client workshop
+TS0000745,EMP1005,ENG-26-015,15/10/2026,3.0,Review,Y,Approved,
+TS0000746,EMP1005,INT-ADM,15/10/2026,4.5,Internal Administration,N,Approved,
+TS0000851,EMP1006,ENG-26-007  ,15/10/2026,0.5,Substantive Testing,Y,Approved,Draft deliverable
+TS0000852,EMP1006,INT-ADM  ,15/10/2026,7.0,Internal Administration,n,Approved,Client workshop
+TS0000987,EMP1007,ENG-26-006,15/10/2026,2.5,Reporting,Y,Approved,
+TS0000988,EMP1007,ENG-26-016,15/10/2026,1.0,PMO,Y,Approved,Team catch-up
+TS0000989,EMP1007,INT-ADM,15/10/2026,4.0,Internal Administration,N,Approved,
+TS0001099,EMP1008,ENG-26-009,15/10/2026,0.5,Review,Y,Approved,
+TS0001100,EMP1008,INT-BD,15/10/2026,7.0,Business Development,N,Approved,
+TS0001225,EMP1009,ENG-26-005,15/10/2026,1.0,Interviews,Y,Approved,Review points cleared
+TS0001226,EMP1009,INT-ADM,15/10/2026,6.5,Internal Administration,N,Approved,Draft deliverable
+TS0001342,EMP1010,ENG-26-012,15/10/2026,0.5,Client Meeting,Y,Approved,
+TS0001343,EMP1010,INT-ADM,15/10/2026,7.0,Internal Administration,N,Approved,
+TS0001464,EMP1011,ENG-26-001,15/10/2026,2.0,Fieldwork,Y,Approved,Travel to client site
+TS0001465,EMP1011,INT-BD  ,15/10/2026,5.5,Business Development,N,Approved,
+TS0001590,EMP1012,ENG-26-003,15/10/2026,3.0,Reporting,Y,Approved,Draft deliverable
+TS0001591,EMP1012,INT-ADM,15/10/2026,4.5,Internal Administration,N,Approved,Review points cleared
+TS0001700,EMP1013,INT-ADM,15/10/2026,7.5,Internal Administration,N,Approved,
+TS0001812,EMP1014,ENG-26-002,15/10/2026,4.0,Analysis,Y,Approved,
+TS0001813,EMP1014,INT-BD,15/10/2026,3.5,Business Development,N,Approved,Draft deliverable
+TS0001929,EMP1015,INT-ADM,15/10/2026,7.5,Internal Administration,N,Approved,
+TS0002024,EMP1016,ENG-26-007,15/10/2026,2.5,Review,Y,Approved,Review points cleared
+TS0002025,EMP1016,INT-ADM,15/10/2026,5.0,Internal Administration,n,Approved,
+TS0002151,EMP1017,ENG-26-006,15/10/2026,3.0,Testing,Y,Approved,Draft deliverable
+TS0002152,EMP1017,INT-BD,15/10/2026,4.5,Business Development,N,Approved,Team catch-up
+TS0002255,EMP1018,ENG-26-009,15/10/2026,2.5,Management Meetings,Y,Approved,Draft deliverable
+TS0002256,EMP1018,INT-BD,15/10/2026,5.0,Business Development,N,Approved,Review points cleared
+TS0002367,EMP1019,ENG-26-013,15/10/2026,4.5,Substantive Testing,Y,Approved,Travel to client site
+TS0002368,EMP1019,INT-TRN  ,15/10/2026,3.0,Training & CPD,N,Approved,Draft deliverable
+TS0002463,EMP1020,ENG-26-011,15/10/2026,2.5,Workshops,Y,Approved,
+TS0002464,EMP1020,INT-ADM,15/10/2026,5.0,Internal Administration,N,Approved,Client workshop
+TS0002577,EMP1021,INT-ADM,15/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0002693,EMP1022,ENG-26-005,15/10/2026,5.5,Scoping,Y,Approved,
+TS0002694,EMP1022,INT-ADM,15/10/2026,2.0,Internal Administration,N,Approved,
+TS0002811,EMP1023,ENG-26-012  ,15/10/2026,3.5,Data Gathering,Y,Approved,Client workshop
+TS0002812,EMP1023,INT-ADM,15/10/2026,4.0,Internal Administration,N,Approved,Client workshop
+TS0002882,EMP1024,INT-ADM,15/10/2026,7.5,Internal Administration,n,Approved,
+TS0002953,EMP1025,ENG-26-016,15/10/2026,3.5,Workshops,Y,Approved,
+TS0002954,EMP1025,INT-ADM,15/10/2026,4.0,Internal Administration,N,Approved,
+TS0003029,EMP1026,INT-TRN,15/10/2026,7.5,Training & CPD,N,Approved,
+TS0003127,EMP1027,INT-ADM,15/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0003207,EMP1028,ENG-26-015,15/10/2026,3.5,Computation,Y,Approved,Draft deliverable
+TS0003208,EMP1028,INT-ADM,15/10/2026,4.0,Internal Administration,N,Approved,
+TS0003326,EMP1029,ENG-26-001,15/10/2026,6.0,Substantive Testing,Y,Approved,Draft deliverable
+TS0003327,EMP1029,INT-ADM,15/10/2026,1.5,Internal Administration,N,Approved,Client workshop
+TS0003458,EMP1030,ENG-26-006,15/10/2026,3.5,Requirements,Y,Approved,Travel to client site
+TS0003459,EMP1030,ENG-26-011,15/10/2026,3.5,PMO,Y,Approved,Review points cleared
+TS0003460,EMP1030,INT-ADM,15/10/2026,0.5,Internal Administration,N,Approved,
+TS0003599,EMP1031,ENG-26-009,15/10/2026,4.5,Data Room Review,Y,Approved,
+TS0003600,EMP1031,INT-ADM,15/10/2026,3.0,Internal Administration,N,Approved,
+TS0003736,EMP1032,ENG-26-005,15/10/2026,7.0,Interviews,Y,Approved,Travel to client site
+TS0003737,EMP1032,INT-ADM,15/10/2026,0.5,Internal Administration,N,Approved,Team catch-up
+TS0003867,EMP1033,ENG-26-012,15/10/2026,3.5,Review,Y,Approved,
+TS0003868,EMP1033,INT-ADM,15/10/2026,4.0,Internal Administration,N,Approved,
+TS0003986,EMP1034,ENG-26-007,15/10/2026,3.5,Review,Y,Approved,
+TS0003987,EMP1034,ENG-26-013,15/10/2026,4.0,Substantive Testing,Y,Approved,Team catch-up
+TS0004080,EMP1035,ENG-26-003,15/10/2026,7.0,PMO,Y,Approved,
+TS0004081,EMP1035,INT-ADM,15/10/2026,0.5,Internal Administration,N,Approved,
+TS0004198,EMP1036,ENG-26-015,15/10/2026,2.5,Technical Research,y,Approved,
+TS0004199,EMP1036,INT-ADM,15/10/2026,5.0,Internal Administration,N,Approved,Client workshop
+TS0004335,EMP1037,INT-LVE,15/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0004470,EMP1038,ENG-26-003,15/10/2026,5.0,Requirements,Y,Approved,Travel to client site
+TS0004471,EMP1038,ENG-26-015,15/10/2026,3.0,Computation,Y,Approved,
+TS0004587,EMP1039,ENG-26-016  ,15/10/2026,7.0,Requirements,Y,Approved,Team catch-up
+TS0004588,EMP1039,INT-ADM,15/10/2026,0.5,Internal Administration,N,Approved,
+TS0004723,EMP1040,ENG-26-002,15/10/2026,5.5,Reporting,y,Approved,
+TS0004724,EMP1040,INT-ADM,15/10/2026,2.0,Internal Administration,N,Approved,
+TS0004857,EMP1041,INT-LVE,15/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0004979,EMP1042,ENG-26-013,15/10/2026,2.5,Planning,N,Approved,Non-chargeable rework
+TS0004980,EMP1042,INT-TRN,15/10/2026,5.0,Training & CPD,N,Approved,Review points cleared
+TS0005112,EMP1043,ENG-26-006,15/10/2026,4.5,Reporting,Y,Approved,
+TS0005113,EMP1043,ENG-26-011,15/10/2026,3.5,Solution Design,Y,Approved,
+TS0005214,EMP1044,ENG-26-009,15/10/2026,4.0,Analysis,Y,Approved,Travel to client site
+TS0005215,EMP1044,INT-TRN,15/10/2026,3.5,Training & CPD,N,Approved,Draft deliverable
+TS0005355,EMP1045,ENG-26-002,15/10/2026,5.5,Reporting,Y,Approved,Review points cleared
+TS0005356,EMP1045,ENG-26-005,15/10/2026,1.5,Analysis,Y,Approved,Client workshop
+TS0005357,EMP1045,INT-TRN,15/10/2026,0.5,Training & CPD,N,Approved,Review points cleared
+TS0005490,EMP1046,ENG-26-012,15/10/2026,2.0,Computation,Y,Approved,
+TS0005491,EMP1046,INT-TRN,15/10/2026,5.5,Training & CPD,N,Approved,
+TS0005588,EMP1047,ENG-26-007,15/10/2026,7.0,Controls Testing,Y,Approved,
+TS0005589,EMP1047,INT-ADM,15/10/2026,0.5,Internal Administration,N,Approved,
+TS0005708,EMP1048,ENG-26-006,15/10/2026,6.0,Reporting,N,Approved,Non-chargeable rework
+TS0005709,EMP1048,ENG-26-016,15/10/2026,1.5,Solution Design,Y,Approved,
+TS0005845,EMP1049,INT-LVE,15/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0005941,EMP1050,ENG-26-005  ,15/10/2026,7.0,Scoping,Y,Approved,Draft deliverable
+TS0005942,EMP1050,INT-ADM,15/10/2026,0.5,Internal Administration,N,Approved,Review points cleared
+TS0006023,EMP1051,INT-ADM,15/10/2026,7.5,Internal Administration,N,Approved,
+TS0006107,EMP1052,ENG-26-001,15/10/2026,8.0,Review,Y,Approved,Travel to client site
+TS0006233,EMP1053,ENG-26-003,15/10/2026,3.5,Workshops,Y,Approved,Team catch-up
+TS0006234,EMP1053,ENG-26-011,15/10/2026,3.5,Solution Design,Y,Approved,
+TS0006235,EMP1053,INT-ADM,15/10/2026,0.5,Internal Administration,N,Approved,Client workshop
+TS0006377,EMP1054,ENG-26-016,15/10/2026,4.5,Reporting,Y,Approved,Draft deliverable
+TS0006378,EMP1054,INT-ADM,15/10/2026,3.0,Internal Administration,N,Approved,Draft deliverable
+TS0006476,EMP1055,ENG-26-002,15/10/2026,8.0,Controls Testing,Y,Approved,
+TS0006585,EMP1056,ENG-26-007,15/10/2026,3.5,Planning,Y,Approved,
+TS0006586,EMP1056,ENG-26-015,15/10/2026,4.5,Review,Y,Approved,Review points cleared
+TS0006710,EMP1057,ENG-26-006,15/10/2026,6.0,Reporting,Y,Approved,Draft deliverable
+TS0006711,EMP1057,ENG-26-016,15/10/2026,1.0,Testing,Y,Approved,Client workshop
+TS0006712,EMP1057,INT-ADM,15/10/2026,0.5,Internal Administration,N,Approved,Team catch-up
+TS0006846,EMP1058,ENG-26-015,15/10/2026,16.0,Computation,Y,Approved,Client workshop
+TS0006847,EMP1058,INT-ADM,15/10/2026,4.0,Internal Administration,n,Approved,Draft deliverable
+TS0006939,EMP1059,ENG-26-005,15/10/2026,7.5,Controls Testing,Y,Approved,
+TS0007062,EMP1060,eng-26-012,15/10/2026,4.5,Client Meeting,Y,Approved,
+TS0007063,EMP1060,INT-ADM,15/10/2026,3.0,Internal Administration,N,Approved,Travel to client site
+TS0000144,EMP1001,ENG-26-001,16/10/2026,0.5,Substantive Testing,Y,Approved,
+TS0000145,EMP1001,ENG-26-013,16/10/2026,0.5,Fieldwork,Y,Approved,Team catch-up
+TS0000146,EMP1001,INT-BD,16/10/2026,6.5,Business Development,N,Approved,
+TS0000304,EMP1002,ENG-26-003,16/10/2026,1.0,Reporting,Y,Approved,Review points cleared
+TS0000305,EMP1002,ENG-26-011,16/10/2026,0.5,Requirements,Y,Approved,Draft deliverable
+TS0000306,EMP1002,INT-BD,16/10/2026,6.0,Business Development,N,Approved,Client workshop
+TS0000460,EMP1003,INT-BD,16/10/2026,7.5,Business Development,n,Approved,
+TS0000612,EMP1004,ENG-26-002,16/10/2026,1.0,Controls Testing,N,Approved,Non-chargeable rework
+TS0000613,EMP1004,INT-BD,16/10/2026,6.5,Business Development,N,Approved,Client workshop
+TS0000747,EMP1005,ENG-26-015,16/10/2026,1.0,Computation,Y,Approved,Draft deliverable
+TS0000748,EMP1005,INT-BD,16/10/2026,6.5,Business Development,N,Approved,Travel to client site
+TS0000853,EMP1006,ENG-26-007,16/10/2026,1.0,Controls Testing,Y,Approved,Travel to client site
+TS0000854,EMP1006,INT-BD,16/10/2026,6.5,Business Development,N,Approved,
+TS0000990,EMP1007,ENG-26-006,16/10/2026,0.5,Workshops,y,Approved,Travel to client site
+TS0000991,EMP1007,ENG-26-016,16/10/2026,1.0,Testing,Y,Approved,
+TS0000992,EMP1007,INT-BD,16/10/2026,6.0,Business Development,N,Approved,
+TS0001101,EMP1008,ENG-26-009,16/10/2026,1.0,Management Meetings,Y,Approved,Draft deliverable
+TS0001102,EMP1008,INT-BD,16/10/2026,6.5,Business Development,N,Approved,Client workshop
+TS0001227,EMP1009,ENG-26-005,16/10/2026,1.0,Interviews,Y,Approved,
+TS0001228,EMP1009,INT-BD,16/10/2026,6.5,Business Development,N,Approved,Client workshop
+TS0001344,EMP1010,ENG-26-012,16/10/2026,2.0,Client Meeting,Y,Approved,Travel to client site
+TS0001345,EMP1010,INT-BD,16/10/2026,5.5,Business Development,n,Approved,Travel to client site
+TS0001466,EMP1011,ENG-26-001,16/10/2026,3.5,Controls Testing,Y,Approved,
+TS0001467,EMP1011,INT-ADM,16/10/2026,4.0,Internal Administration,N,Approved,Travel to client site
+TS0001592,EMP1012,ENG-26-003,16/10/2026,2.0,Requirements,Y,Approved,
+TS0001593,EMP1012,INT-BD,16/10/2026,5.5,Business Development,N,Approved,
+TS0001701,EMP1013,INT-BD,16/10/2026,7.5,Business Development,N,Approved,
+TS0001814,EMP1014,ENG-26-002,16/10/2026,3.5,Reporting,Y,Approved,Travel to client site
+TS0001815,EMP1014,INT-ADM,16/10/2026,4.0,Internal Administration,N,Approved,
+TS0001930,EMP1015,INT-ADM,16/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0002026,EMP1016,ENG-26-007,16/10/2026,4.0,Reporting,Y,Approved,Team catch-up
+TS0002027,EMP1016,INT-ADM,16/10/2026,3.5,Internal Administration,N,Approved,
+TS0002153,EMP1017,ENG-26-006,16/10/2026,4.5,PMO,Y,Approved,Team catch-up
+TS0002154,EMP1017,INT-BD,16/10/2026,3.0,Business Development,N,Approved,Review points cleared
+TS0002257,EMP1018,ENG-26-009,16/10/2026,2.5,Data Room Review,Y,Approved,Client workshop
+TS0002258,EMP1018,INT-BD,16/10/2026,5.0,Business Development,n,Approved,
+TS0002369,EMP1019,ENG-26-013,16/10/2026,3.0,Fieldwork,Y,Approved,
+TS0002370,EMP1019,INT-ADM,16/10/2026,4.5,Internal Administration,N,Approved,
+TS0002465,EMP1020,ENG-26-011,16/10/2026,2.0,Requirements,Y,Approved,
+TS0002466,EMP1020,INT-ADM,16/10/2026,5.5,Internal Administration,N,Approved,Draft deliverable
+TS0002578,EMP1021,INT-ADM,16/10/2026,7.5,Internal Administration,n,Approved,Review points cleared
+TS0002695,EMP1022,ENG-26-005,16/10/2026,4.0,Analysis,Y,Approved,Review points cleared
+TS0002696,EMP1022,INT-ADM,16/10/2026,3.5,Internal Administration,N,Approved,
+TS0002813,EMP1023,ENG-26-012,16/10/2026,3.0,Data Gathering,Y,Approved,
+TS0002814,EMP1023,INT-TRN,16/10/2026,4.5,Training & CPD,N,Approved,
+TS0002883,EMP1024,INT-ADM,16/10/2026,7.5,Internal Administration,N,Approved,
+TS0002955,EMP1025,ENG-26-016,16/10/2026,2.5,Requirements,Y,Approved,Client workshop
+TS0002956,EMP1025,INT-ADM,16/10/2026,5.0,Internal Administration,N,Approved,Review points cleared
+TS0003030,EMP1026,INT-TRN,16/10/2026,7.5,Training & CPD,N,Approved,Team catch-up
+TS0003128,EMP1027,INT-ADM,16/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0003209,EMP1028,ENG-26-015,16/10/2026,3.0,Technical Research,Y,Approved,Client workshop
+TS0003210,EMP1028,INT-ADM,16/10/2026,4.5,Internal Administration,N,Approved,Client workshop
+TS0003328,EMP1029,ENG-26-001,16/10/2026,5.5,Planning,Y,Submitted,
+TS0003329,EMP1029,INT-TRN,16/10/2026,2.0,Training & CPD,N,Submitted,Draft deliverable
+TS0003461,EMP1030,ENG-26-006,16/10/2026,3.5,Solution Design,Y,Approved,
+TS0003462,EMP1030,ENG-26-011,16/10/2026,4.0,Testing,Y,Approved,
+TS0003601,EMP1031,ENG-26-009,16/10/2026,4.5,Analysis,Y,Approved,Review points cleared
+TS0003602,EMP1031,INT-ADM,16/10/2026,3.0,Internal Administration,N,Approved,
+TS0003738,EMP1032,ENG-26-005,16/10/2026,5.0,Interviews,Y,Approved,
+TS0003739,EMP1032,INT-TRN,16/10/2026,2.5,Training & CPD,n,Approved,Review points cleared
+TS0003869,EMP1033,ENG-26-012,16/10/2026,3.0,Technical Research,Y,Approved,
+TS0003870,EMP1033,INT-ADM,16/10/2026,4.5,Internal Administration,N,Approved,Review points cleared
+TS0003988,EMP1034,ENG-26-007,16/10/2026,5.0,Fieldwork,Y,Approved,Review points cleared
+TS0003989,EMP1034,ENG-26-013,16/10/2026,3.5,Controls Testing,Y,Approved,
+TS0004082,EMP1035,INT-LVE,16/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0004200,EMP1036,ENG-26-015,16/10/2026,2.5,Computation,y,Approved,
+TS0004201,EMP1036,INT-TRN,16/10/2026,5.0,Training & CPD,N,Approved,Review points cleared
+TS0004336,EMP1037,ENG-26-001,16/10/2026,3.5,Reporting,Y,Approved,Client workshop
+TS0004337,EMP1037,ENG-26-013,16/10/2026,4.0,Reporting,Y,Approved,Review points cleared
+TS0004472,EMP1038,ENG-26-003,16/10/2026,4.5,Workshops,Y,Approved,Review points cleared
+TS0004473,EMP1038,ENG-26-015,16/10/2026,2.0,Data Gathering,Y,Approved,
+TS0004474,EMP1038,INT-ADM,16/10/2026,1.0,Internal Administration,N,Approved,Team catch-up
+TS0004589,EMP1039,ENG-26-016,16/10/2026,5.0,PMO,Y,Approved,
+TS0004590,EMP1039,INT-ADM,16/10/2026,2.5,Internal Administration,N,Approved,Travel to client site
+TS0004725,EMP1040,ENG-26-002,16/10/2026,9.0,Analysis,Y,Approved,Client workshop
+TS0004858,EMP1041,ENG-26-012,16/10/2026,3.0,Review,Y,Submitted,Review points cleared
+TS0004859,EMP1041,INT-ADM,16/10/2026,4.5,Internal Administration,N,Submitted,Review points cleared
+TS0004981,EMP1042,ENG-26-013,16/10/2026,4.0,Controls Testing,Y,Approved,Review points cleared
+TS0004982,EMP1042,INT-ADM,16/10/2026,3.5,Internal Administration,n,Approved,Review points cleared
+TS0005114,EMP1043,ENG-26-006,16/10/2026,6.0,Testing,Y,Approved,
+TS0005115,EMP1043,ENG-26-011,16/10/2026,2.5,Requirements,Y,Approved,Client workshop
+TS0005216,EMP1044,ENG-26-009,16/10/2026,5.0,Report Drafting,Y,Approved,
+TS0005217,EMP1044,INT-TRN,16/10/2026,2.5,Training & CPD,N,Approved,Team catch-up
+TS0005358,EMP1045,ENG-26-002,16/10/2026,7.0,Analysis,Y,Approved,
+TS0005359,EMP1045,ENG-26-005,16/10/2026,1.5,Analysis,Y,Approved,Client workshop
+TS0005492,EMP1046,ENG-26-012,16/10/2026,1.5,Data Gathering,Y,Approved,Client workshop
+TS0005493,EMP1046,INT-ADM,16/10/2026,6.0,Internal Administration,N,Approved,
+TS0005590,EMP1047,ENG-26-007,16/10/2026,8.5,Fieldwork,Y,Approved,
+TS0005710,EMP1048,ENG-26-006,16/10/2026,7.5,PMO,y,Approved,Client workshop
+TS0005711,EMP1048,ENG-26-016,16/10/2026,1.5,Reporting,Y,Approved,
+TS0005846,EMP1049,ENG-26-009,16/10/2026,5.0,Analysis,Y,Approved,Travel to client site
+TS0005847,EMP1049,INT-TRN,16/10/2026,2.5,Training & CPD,N,Approved,
+TS0005943,EMP1050,eng-26-005,16/10/2026,7.5,Analysis,Y,Approved,
+TS0006024,EMP1051,INT-TRN,16/10/2026,7.5,Training & CPD,N,Approved,Team catch-up
+TS0006108,EMP1052,ENG-26-001,16/10/2026,6.5,Fieldwork,Y,Approved,
+TS0006109,EMP1052,INT-TRN,16/10/2026,1.0,Training & CPD,N,Approved,
+TS0006236,EMP1053,ENG-26-003,16/10/2026,4.5,Reporting,Y,Approved,
+TS0006237,EMP1053,ENG-26-011  ,16/10/2026,3.0,PMO,Y,Approved,
+TS0006379,EMP1054,ENG-26-016,16/10/2026,4.0,Workshops,Y,Approved,Draft deliverable
+TS0006380,EMP1054,INT-TRN,16/10/2026,3.5,Training & CPD,N,Approved,
+TS0006477,EMP1055,ENG-26-002,16/10/2026,7.5,Interviews,Y,Approved,Client workshop
+TS0006587,EMP1056,ENG-26-007,16/10/2026,4.0,Fieldwork,y,Approved,
+TS0006588,EMP1056,ENG-26-015,16/10/2026,3.0,Data Gathering,Y,Approved,
+TS0006589,EMP1056,INT-TRN,16/10/2026,0.5,Training & CPD,N,Approved,Client workshop
+TS0006713,EMP1057,ENG-26-006,16/10/2026,6.0,Reporting,Y,Approved,Draft deliverable
+TS0006714,EMP1057,ENG-26-016,16/10/2026,1.5,Reporting,Y,Approved,
+TS0006848,EMP1058,ENG-26-015,16/10/2026,7.5,Client Meeting,Y,Approved,Client workshop
+TS0006940,EMP1059,ENG-26-005,16/10/2026,8.0,Interviews,Y,Approved,Draft deliverable
+TS0007064,EMP1060,INT-LVE,16/10/2026,7.5,Annual Leave,n,Approved,Annual leave
+TS0000147,EMP1001,ENG-26-001,19/10/2026,1.0,Review,Y,Approved,
+TS0000148,EMP1001,ENG-26-013,19/10/2026,0.5,Controls Testing,y,Approved,
+TS0000149,EMP1001,INT-BD,19/10/2026,6.0,Business Development,N,Approved,Client workshop
+TS0000307,EMP1002,ENG-26-003,19/10/2026,1.0,Reporting,Y,Approved,Team catch-up
+TS0000308,EMP1002,ENG-26-011,19/10/2026,0.5,PMO,Y,Approved,Draft deliverable
+TS0000309,EMP1002,INT-BD,19/10/2026,6.0,Business Development,N,Approved,
+TS0000461,EMP1003,INT-BD,19/10/2026,7.5,Business Development,N,Approved,
+TS0000614,EMP1004,ENG-26-002,19/10/2026,1.0,Analysis,Y,Approved,Team catch-up
+TS0000615,EMP1004,INT-BD,19/10/2026,6.5,Business Development,N,Approved,Client workshop
+TS0000749,EMP1005,ENG-26-015,19/10/2026,1.0,Data Gathering,Y,Approved,
+TS0000750,EMP1005,INT-BD,19/10/2026,6.5,Business Development,N,Approved,Review points cleared
+TS0000855,EMP1006,ENG-26-007,19/10/2026,1.0,Substantive Testing,Y,Approved,Travel to client site
+TS0000856,EMP1006,INT-ADM,19/10/2026,6.5,Internal Administration,N,Approved,Client workshop
+TS0000993,EMP1007,ENG-26-006,19/10/2026,1.0,Workshops,Y,Approved,Review points cleared
+TS0000994,EMP1007,ENG-26-016,19/10/2026,1.0,Testing,Y,Approved,
+TS0000995,EMP1007,INT-BD,19/10/2026,5.5,Business Development,N,Approved,
+TS0001103,EMP1008,ENG-26-009,19/10/2026,1.0,Analysis,Y,Approved,
+TS0001104,EMP1008,INT-ADM,19/10/2026,6.5,Internal Administration,N,Approved,
+TS0001229,EMP1009,INT-BD,19/10/2026,7.5,Business Development,N,Approved,Draft deliverable
+TS0001346,EMP1010,ENG-26-012,19/10/2026,0.5,Client Meeting,Y,Approved,
+TS0001347,EMP1010,INT-BD,19/10/2026,7.0,Business Development,n,Approved,Travel to client site
+TS0001468,EMP1011,ENG-26-001,19/10/2026,3.0,Fieldwork,Y,Submitted,
+TS0001469,EMP1011,INT-BD,19/10/2026,4.5,Business Development,N,Submitted,Review points cleared
+TS0001594,EMP1012,ENG-26-003,19/10/2026,3.0,Workshops,Y,Approved,
+TS0001595,EMP1012,INT-BD,19/10/2026,4.5,Business Development,N,Approved,
+TS0001702,EMP1013,INT-ADM,19/10/2026,7.5,Internal Administration,N,Approved,
+TS0001816,EMP1014,ENG-26-002,19/10/2026,3.0,Interviews,Y,Approved,Travel to client site
+TS0001817,EMP1014,INT-BD,19/10/2026,4.5,Business Development,N,Approved,
+TS0001931,EMP1015,INT-ADM,19/10/2026,7.5,Internal Administration,N,Approved,
+TS0002028,EMP1016,ENG-26-007,19/10/2026,2.0,Substantive Testing,Y,Approved,Client workshop
+TS0002029,EMP1016,INT-BD,19/10/2026,5.5,Business Development,N,Approved,Review points cleared
+TS0002155,EMP1017,ENG-26-006,19/10/2026,3.5,Solution Design,Y,Approved,
+TS0002156,EMP1017,INT-BD,19/10/2026,4.0,Business Development,N,Approved,Travel to client site
+TS0002259,EMP1018,ENG-26-009  ,19/10/2026,3.0,Report Drafting,Y,Approved,Travel to client site
+TS0002260,EMP1018,INT-BD,19/10/2026,4.5,Business Development,N,Approved,
+TS0002371,EMP1019,ENG-26-013,19/10/2026,2.0,Fieldwork,Y,Approved,Draft deliverable
+TS0002372,EMP1019,INT-TRN,19/10/2026,5.5,Training & CPD,N,Approved,
+TS0002467,EMP1020,ENG-26-011,19/10/2026,3.0,PMO,Y,Approved,Client workshop
+TS0002468,EMP1020,INT-ADM,19/10/2026,4.5,Internal Administration,N,Approved,Review points cleared
+TS0002579,EMP1021,INT-TRN,19/10/2026,7.5,Training & CPD,N,Approved,Client workshop
+TS0002697,EMP1022,INT-ADM,19/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0002815,EMP1023,ENG-26-012,19/10/2026,3.0,Technical Research,Y,Approved,
+TS0002816,EMP1023,INT-TRN,19/10/2026,4.5,Training & CPD,N,Approved,
+TS0002884,EMP1024,INT-ADM,19/10/2026,7.5,Internal Administration,N,Approved,
+TS0002957,EMP1025,ENG-26-016,19/10/2026,2.0,PMO,Y,Approved,Travel to client site
+TS0002958,EMP1025,INT-TRN,19/10/2026,5.5,Training & CPD,N,Approved,
+TS0003031,EMP1026,INT-TRN,19/10/2026,7.5,Training & CPD,N,Approved,
+TS0003129,EMP1027,INT-ADM,19/10/2026,7.5,Internal Administration,N,Approved,
+TS0003211,EMP1028,ENG-26-015,19/10/2026,2.0,Computation,Y,Approved,
+TS0003212,EMP1028,INT-TRN,19/10/2026,5.5,Training & CPD,N,Approved,
+TS0003330,EMP1029,ENG-26-001,19/10/2026,7.0,Fieldwork,Y,Approved,Client workshop
+TS0003331,EMP1029,INT-TRN,19/10/2026,0.5,Training & CPD,N,Approved,
+TS0003463,EMP1030,ENG-26-006,19/10/2026,4.0,Testing,Y,Approved,
+TS0003464,EMP1030,ENG-26-011,19/10/2026,3.5,Workshops,Y,Approved,
+TS0003603,EMP1031,ENG-26-009,19/10/2026,4.5,Data Room Review,Y,Approved,Draft deliverable
+TS0003604,EMP1031,int-adm,19/10/2026,3.0,Internal Administration,N,Approved,Review points cleared
+TS0003740,EMP1032,INT-LVE,19/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0003871,EMP1033,eng-26-012,19/10/2026,3.0,Data Gathering,Y,Approved,Draft deliverable
+TS0003872,EMP1033,INT-TRN,19/10/2026,4.5,Training & CPD,N,Approved,Review points cleared
+TS0003990,EMP1034,ENG-26-007,19/10/2026,3.5,Fieldwork,Y,Approved,
+TS0003991,EMP1034,ENG-26-013,19/10/2026,4.0,Review,y,Approved,Review points cleared
+TS0004083,EMP1035,ENG-26-003,19/10/2026,7.5,Requirements,Y,Approved,Draft deliverable
+TS0004202,EMP1036,ENG-26-015,19/10/2026,2.5,Client Meeting,Y,Approved,
+TS0004203,EMP1036,INT-ADM,19/10/2026,5.0,Internal Administration,N,Approved,Draft deliverable
+TS0004338,EMP1037,ENG-26-001,19/10/2026,4.5,Fieldwork,Y,Approved,
+TS0004339,EMP1037,ENG-26-013,19/10/2026,4.5,Fieldwork,y,Approved,
+TS0004475,EMP1038,ENG-26-003  ,19/10/2026,4.5,PMO,Y,Approved,
+TS0004476,EMP1038,ENG-26-015,19/10/2026,4.0,Technical Research,Y,Approved,
+TS0004591,EMP1039,ENG-26-016,19/10/2026,7.5,Testing,Y,Approved,
+TS0004726,EMP1040,ENG-26-002,19/10/2026,6.0,Analysis,Y,Approved,Team catch-up
+TS0004727,EMP1040,INT-ADM,19/10/2026,1.5,Internal Administration,N,Approved,
+TS0004860,EMP1041,INT-LVE,19/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0004983,EMP1042,ENG-26-013,19/10/2026,3.0,Controls Testing,Y,Approved,
+TS0004984,EMP1042,INT-TRN,19/10/2026,4.5,Training & CPD,N,Approved,
+TS0005116,EMP1043,INT-LVE,19/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0005218,EMP1044,INT-LVE,19/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0005360,EMP1045,ENG-26-002,19/10/2026,5.0,Interviews,Y,Approved,
+TS0005361,EMP1045,INT-ADM,19/10/2026,2.5,Internal Administration,N,Approved,Team catch-up
+TS0005494,EMP1046,ENG-26-012,19/10/2026,1.5,Technical Research,Y,Approved,Review points cleared
+TS0005495,EMP1046,INT-ADM,19/10/2026,6.0,Internal Administration,N,Approved,
+TS0005591,EMP1047,ENG-26-007,19/10/2026,5.0,Reporting,Y,Approved,
+TS0005592,EMP1047,INT-ADM,19/10/2026,2.5,Internal Administration,N,Approved,Travel to client site
+TS0005712,EMP1048,ENG-26-006,19/10/2026,5.0,Testing,Y,Approved,
+TS0005713,EMP1048,ENG-26-016,19/10/2026,1.0,Workshops,Y,Approved,Review points cleared
+TS0005714,EMP1048,INT-ADM,19/10/2026,1.5,Internal Administration,N,Approved,Team catch-up
+TS0005848,EMP1049,ENG-26-009,19/10/2026,2.5,Report Drafting,Y,Approved,Travel to client site
+TS0005849,EMP1049,INT-ADM,19/10/2026,5.0,Internal Administration,N,Approved,Team catch-up
+TS0005944,EMP1050,INT-ADM,19/10/2026,7.5,Internal Administration,N,Rejected,Team catch-up
+TS0006025,EMP1051,INT-TRN,19/10/2026,7.5,Training & CPD,N,Approved,Review points cleared
+TS0006110,EMP1052,ENG-26-001,19/10/2026,8.5,Planning,Y,Approved,
+TS0006238,EMP1053,ENG-26-003,19/10/2026,3.5,Testing,Y,Approved,Client workshop
+TS0006239,EMP1053,ENG-26-011,19/10/2026,3.0,PMO,Y,Approved,
+TS0006240,EMP1053,INT-ADM,19/10/2026,1.0,Internal Administration,N,Approved,Travel to client site
+TS0006381,EMP1054,ENG-26-016,19/10/2026,6.0,PMO,Y,Approved,
+TS0006382,EMP1054,INT-TRN,19/10/2026,1.5,Training & CPD,N,Approved,
+TS0006478,EMP1055,ENG-26-002,19/10/2026,7.0,Scoping,Y,Submitted,Draft deliverable
+TS0006479,EMP1055,INT-ADM,19/10/2026,0.5,Internal Administration,N,Submitted,Client workshop
+TS0006590,EMP1056,ENG-26-007,19/10/2026,5.0,Planning,N,Approved,Non-chargeable rework
+TS0006591,EMP1056,ENG-26-015,19/10/2026,5.0,Computation,Y,Approved,
+TS0006715,EMP1057,ENG-26-006,19/10/2026,5.5,Workshops,Y,Approved,Travel to client site
+TS0006716,EMP1057,ENG-26-016,19/10/2026,2.0,Workshops,Y,Approved,Review points cleared
+TS0006849,EMP1058,ENG-26-015,19/10/2026,4.5,Data Gathering,Y,Approved,Review points cleared
+TS0006850,EMP1058,INT-TRN,19/10/2026,3.0,Training & CPD,N,Approved,Travel to client site
+TS0006941,EMP1059,INT-ADM,19/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0007065,EMP1060,ENG-26-012,19/10/2026,1.5,Review,Y,Approved,Review points cleared
+TS0007066,EMP1060,INT-ADM,19/10/2026,6.0,Internal Administration,N,Approved,Draft deliverable
+TS0000150,EMP1001,ENG-26-001,20/10/2026,1.0,Reporting,Y,Approved,Draft deliverable
+TS0000151,EMP1001,eng-26-013,20/10/2026,1.0,Planning,Y,Approved,
+TS0000152,EMP1001,INT-BD,20/10/2026,5.5,Business Development,N,Approved,Travel to client site
+TS0000310,EMP1002,ENG-26-003,20/10/2026,1.0,Testing,Y,Approved,Draft deliverable
+TS0000311,EMP1002,ENG-26-011,20/10/2026,2.0,Solution Design,Y,Approved,Team catch-up
+TS0000312,EMP1002,INT-ADM,20/10/2026,4.5,Internal Administration,N,Approved,Travel to client site
+TS0000462,EMP1003,INT-BD,20/10/2026,7.5,Business Development,N,Approved,Review points cleared
+TS0000616,EMP1004,ENG-26-002,20/10/2026,0.5,Scoping,Y,Approved,Review points cleared
+TS0000617,EMP1004,INT-BD,20/10/2026,7.0,Business Development,N,Approved,Client workshop
+TS0000751,EMP1005,ENG-26-015,20/10/2026,0.5,Data Gathering,Y,Approved,
+TS0000752,EMP1005,INT-BD,20/10/2026,7.0,Business Development,N,Approved,
+TS0000857,EMP1006,ENG-26-007,20/10/2026,0.5,Review,Y,Approved,
+TS0000858,EMP1006,INT-BD,20/10/2026,7.0,Business Development,N,Approved,
+TS0000996,EMP1007,ENG-26-006,20/10/2026,0.5,Workshops,Y,Approved,
+TS0000997,EMP1007,ENG-26-016,20/10/2026,1.0,Workshops,Y,Approved,Travel to client site
+TS0000998,EMP1007,INT-BD,20/10/2026,6.0,Business Development,N,Approved,Draft deliverable
+TS0001105,EMP1008,ENG-26-009,20/10/2026,2.0,Analysis,Y,Approved,Travel to client site
+TS0001106,EMP1008,INT-BD,20/10/2026,5.5,Business Development,n,Approved,
+TS0001230,EMP1009,INT-ADM,20/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0001348,EMP1010,ENG-26-012,20/10/2026,0.5,Technical Research,N,Approved,Non-chargeable rework
+TS0001349,EMP1010,int-bd,20/10/2026,7.0,Business Development,N,Approved,Team catch-up
+TS0001470,EMP1011,ENG-26-001,20/10/2026,2.0,Fieldwork,Y,Approved,Team catch-up
+TS0001471,EMP1011,INT-BD,20/10/2026,5.5,Business Development,N,Approved,
+TS0001596,EMP1012,ENG-26-003,20/10/2026,3.0,PMO,Y,Approved,Draft deliverable
+TS0001597,EMP1012,INT-ADM,20/10/2026,4.5,Internal Administration,N,Approved,Draft deliverable
+TS0001703,EMP1013,INT-BD,20/10/2026,7.5,Business Development,N,Approved,Travel to client site
+TS0001818,EMP1014,ENG-26-002,20/10/2026,3.5,Interviews,Y,Approved,
+TS0001819,EMP1014,INT-BD,20/10/2026,4.0,Business Development,N,Approved,
+TS0001932,EMP1015,INT-ADM,20/10/2026,7.5,Internal Administration,N,Approved,
+TS0002030,EMP1016,ENG-26-007,20/10/2026,3.0,Substantive Testing,Y,Approved,
+TS0002031,EMP1016,INT-BD  ,20/10/2026,4.5,Business Development,N,Approved,Draft deliverable
+TS0002157,EMP1017,ENG-26-006,20/10/2026,4.0,Testing,Y,Approved,
+TS0002158,EMP1017,INT-BD,20/10/2026,3.5,Business Development,N,Approved,Travel to client site
+TS0002261,EMP1018,ENG-26-009  ,20/10/2026,2.0,Data Room Review,Y,Approved,Draft deliverable
+TS0002262,EMP1018,INT-BD,20/10/2026,5.5,Business Development,N,Approved,Travel to client site
+TS0002373,EMP1019,ENG-26-013,20/10/2026,1.5,Planning,y,Approved,Review points cleared
+TS0002374,EMP1019,INT-TRN,20/10/2026,6.0,Training & CPD,N,Approved,Team catch-up
+TS0002469,EMP1020,ENG-26-011,20/10/2026,2.5,Workshops,Y,Approved,
+TS0002470,EMP1020,INT-ADM,20/10/2026,5.0,Internal Administration,N,Approved,
+TS0002580,EMP1021,INT-ADM,20/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0002698,EMP1022,INT-ADM  ,20/10/2026,7.5,Internal Administration,N,Approved,
+TS0002817,EMP1023,ENG-26-012,20/10/2026,3.0,Client Meeting,Y,Approved,Draft deliverable
+TS0002818,EMP1023,INT-ADM,20/10/2026,4.5,Internal Administration,N,Approved,Review points cleared
+TS0002885,EMP1024,INT-TRN,20/10/2026,7.5,Training & CPD,N,Approved,Review points cleared
+TS0002959,EMP1025,ENG-26-016,20/10/2026,3.0,Requirements,Y,Approved,
+TS0002960,EMP1025,INT-TRN,20/10/2026,4.5,Training & CPD,N,Approved,Client workshop
+TS0003032,EMP1026,INT-ADM,20/10/2026,7.5,Internal Administration,N,Approved,
+TS0003130,EMP1027,INT-TRN,20/10/2026,7.5,Training & CPD,N,Approved,
+TS0003213,EMP1028,ENG-26-015,20/10/2026,3.0,Client Meeting,Y,Approved,Review points cleared
+TS0003214,EMP1028,INT-TRN  ,20/10/2026,4.5,Training & CPD,N,Approved,Review points cleared
+TS0003332,EMP1029,ENG-26-001,20/10/2026,5.0,Substantive Testing,Y,Approved,Draft deliverable
+TS0003333,EMP1029,INT-ADM,20/10/2026,2.5,Internal Administration,N,Approved,
+TS0003465,EMP1030,ENG-26-006,20/10/2026,4.0,Workshops,Y,Approved,Travel to client site
+TS0003466,EMP1030,ENG-26-011,20/10/2026,3.0,Testing,Y,Approved,
+TS0003467,EMP1030,INT-ADM,20/10/2026,0.5,Internal Administration,N,Approved,
+TS0003605,EMP1031,ENG-26-009,20/10/2026,4.5,Management Meetings,Y,Approved,Travel to client site
+TS0003606,EMP1031,INT-TRN,20/10/2026,3.0,Training & CPD,N,Approved,Team catch-up
+TS0003741,EMP1032,INT-ADM,20/10/2026,7.5,Internal Administration,N,Approved,Review points cleared
+TS0003873,EMP1033,ENG-26-012,20/10/2026,3.0,Client Meeting,Y,Approved,
+TS0003874,EMP1033,INT-TRN,20/10/2026,4.5,Training & CPD,N,Approved,Review points cleared
+TS0003992,EMP1034,ENG-26-007,20/10/2026,3.5,Planning,Y,Approved,Travel to client site
+TS0003993,EMP1034,ENG-26-013,20/10/2026,4.0,Review,Y,Approved,
+TS0004084,EMP1035,ENG-26-003,20/10/2026,4.5,PMO,Y,Approved,
+TS0004085,EMP1035,INT-ADM,20/10/2026,3.0,Internal Administration,N,Approved,
+TS0004204,EMP1036,ENG-26-015,20/10/2026,3.0,Data Gathering,Y,Approved,
+TS0004205,EMP1036,INT-ADM  ,20/10/2026,4.5,Internal Administration,n,Approved,Review points cleared
+TS0004340,EMP1037,ENG-26-001,20/10/2026,3.0,Fieldwork,Y,Approved,
+TS0004341,EMP1037,ENG-26-013,20/10/2026,4.5,Reporting,Y,Approved,
+TS0004477,EMP1038,ENG-26-003,20/10/2026,7.0,Reporting,Y,Approved,Draft deliverable
+TS0004478,EMP1038,ENG-26-015,20/10/2026,3.5,Client Meeting,Y,Approved,Client workshop
+TS0004592,EMP1039,ENG-26-016  ,20/10/2026,5.0,Requirements,Y,Approved,Draft deliverable
+TS0004593,EMP1039,INT-ADM,20/10/2026,2.5,Internal Administration,N,Approved,Client workshop
+TS0004728,EMP1040,ENG-26-002,20/10/2026,5.0,Interviews,Y,Approved,Travel to client site
+TS0004729,EMP1040,INT-ADM,20/10/2026,2.5,Internal Administration,N,Approved,Client workshop
+TS0004861,EMP1041,ENG-26-012,20/10/2026,4.0,Computation,y,Approved,
+TS0004862,EMP1041,INT-ADM,20/10/2026,3.5,Internal Administration,N,Approved,Team catch-up
+TS0004985,EMP1042,ENG-26-013,20/10/2026,4.5,Reporting,Y,Approved,Review points cleared
+TS0004986,EMP1042,INT-TRN,20/10/2026,3.0,Training & CPD,N,Approved,Team catch-up
+TS0005117,EMP1043,ENG-26-006,20/10/2026,4.0,Solution Design,Y,Approved,Draft deliverable
+TS0005118,EMP1043,ENG-26-011,20/10/2026,3.5,Testing,N,Approved,Non-chargeable rework
+TS0005219,EMP1044,ENG-26-009,20/10/2026,5.0,Report Drafting,Y,Submitted,
+TS0005220,EMP1044,INT-TRN,20/10/2026,2.5,Training & CPD,N,Submitted,Travel to client site
+TS0005362,EMP1045,ENG-26-002,20/10/2026,8.5,Analysis,Y,Approved,
+TS0005496,EMP1046,ENG-26-012,20/10/2026,3.5,Review,Y,Approved,
+TS0005497,EMP1046,INT-ADM,20/10/2026,4.0,Internal Administration,N,Approved,
+TS0005593,EMP1047,ENG-26-007,20/10/2026,5.5,Controls Testing,Y,Approved,
+TS0005594,EMP1047,INT-ADM,20/10/2026,2.0,Internal Administration,N,Approved,
+TS0005715,EMP1048,ENG-26-006,20/10/2026,7.0,Solution Design,y,Approved,Team catch-up
+TS0005716,EMP1048,ENG-26-016,20/10/2026,1.5,PMO,Y,Approved,Draft deliverable
+TS0005850,EMP1049,ENG-26-009,20/10/2026,3.5,Review,Y,Approved,Travel to client site
+TS0005851,EMP1049,INT-TRN  ,20/10/2026,4.0,Training & CPD,N,Approved,
+TS0005945,EMP1050,INT-ADM,20/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0006026,EMP1051,INT-ADM,20/10/2026,7.5,Internal Administration,N,Submitted,
+TS0006111,EMP1052,ENG-26-001,20/10/2026,8.5,Fieldwork,y,Approved,Draft deliverable
+TS0006241,EMP1053,ENG-26-003,20/10/2026,2.5,Testing,Y,Approved,Team catch-up
+TS0006242,EMP1053,ENG-26-011,20/10/2026,3.0,Solution Design,Y,Approved,Review points cleared
+TS0006243,EMP1053,INT-TRN,20/10/2026,2.0,Training & CPD,N,Approved,
+TS0006383,EMP1054,ENG-26-016,20/10/2026,4.5,Solution Design,Y,Approved,Travel to client site
+TS0006384,EMP1054,INT-ADM,20/10/2026,3.0,Internal Administration,N,Approved,Client workshop
+TS0006480,EMP1055,ENG-26-002,20/10/2026,10.5,Analysis,y,Approved,
+TS0006592,EMP1056,ENG-26-007,20/10/2026,3.5,Reporting,Y,Approved,Client workshop
+TS0006593,EMP1056,ENG-26-015,20/10/2026,3.0,Data Gathering,Y,Approved,
+TS0006594,EMP1056,INT-ADM,20/10/2026,1.0,Internal Administration,N,Approved,Draft deliverable
+TS0006717,EMP1057,ENG-26-006,20/10/2026,6.0,Testing,Y,Approved,
+TS0006718,EMP1057,ENG-26-016,20/10/2026,1.0,Workshops,Y,Approved,Draft deliverable
+TS0006719,EMP1057,INT-ADM,20/10/2026,0.5,Internal Administration,N,Approved,Travel to client site
+TS0006851,EMP1058,ENG-26-015,20/10/2026,3.5,Client Meeting,Y,Approved,
+TS0006852,EMP1058,INT-ADM,20/10/2026,4.0,Internal Administration,N,Approved,
+TS0006942,EMP1059,INT-ADM,20/10/2026,7.5,Internal Administration,N,Approved,
+TS0007067,EMP1060,ENG-26-012,20/10/2026,1.5,Client Meeting,Y,Approved,
+TS0007068,EMP1060,INT-ADM,20/10/2026,6.0,Internal Administration,N,Approved,Client workshop
+TS0000153,EMP1001,ENG-26-001,21/10/2026,0.5,Planning,Y,Approved,
+TS0000154,EMP1001,ENG-26-013,21/10/2026,1.0,Reporting,Y,Approved,
+TS0000155,EMP1001,INT-BD,21/10/2026,6.0,Business Development,N,Approved,Draft deliverable
+TS0000313,EMP1002,INT-LVE,21/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0000463,EMP1003,INT-BD,21/10/2026,7.5,Business Development,N,Approved,Team catch-up
+TS0000618,EMP1004,ENG-26-002,21/10/2026,0.5,Scoping,Y,Approved,Team catch-up
+TS0000619,EMP1004,INT-BD,21/10/2026,7.0,Business Development,n,Approved,Travel to client site
+TS0000753,EMP1005,ENG-26-015,21/10/2026,2.0,Data Gathering,Y,Approved,
+TS0000754,EMP1005,INT-BD  ,21/10/2026,5.5,Business Development,N,Approved,Team catch-up
+TS0000859,EMP1006,ENG-26-007,21/10/2026,1.0,Planning,Y,Approved,Client workshop
+TS0000860,EMP1006,INT-BD  ,21/10/2026,6.5,Business Development,N,Approved,Team catch-up
+TS0000999,EMP1007,ENG-26-006,21/10/2026,0.5,Solution Design,y,Approved,
+TS0001000,EMP1007,ENG-26-016,21/10/2026,1.0,Workshops,Y,Approved,Client workshop
+TS0001001,EMP1007,INT-ADM,21/10/2026,6.0,Internal Administration,N,Approved,Travel to client site
+TS0001107,EMP1008,ENG-26-009,21/10/2026,0.5,Review,Y,Approved,Review points cleared
+TS0001108,EMP1008,INT-BD,21/10/2026,7.0,Business Development,N,Approved,Draft deliverable
+TS0001231,EMP1009,INT-ADM,21/10/2026,7.5,Internal Administration,N,Approved,
+TS0001350,EMP1010,eng-26-012,21/10/2026,0.5,Client Meeting,N,Approved,Non-chargeable rework
+TS0001351,EMP1010,INT-BD,21/10/2026,7.0,Business Development,N,Approved,Draft deliverable
+TS0001472,EMP1011,ENG-26-001,21/10/2026,3.5,Planning,Y,Approved,Review points cleared
+TS0001473,EMP1011,INT-BD,21/10/2026,4.0,Business Development,N,Approved,Travel to client site
+TS0001598,EMP1012,ENG-26-003,21/10/2026,2.0,Reporting,Y,Approved,
+TS0001599,EMP1012,INT-ADM,21/10/2026,5.5,Internal Administration,N,Approved,
+TS0001704,EMP1013,INT-ADM,21/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0001820,EMP1014,ENG-26-002  ,21/10/2026,2.5,Reporting,Y,Approved,
+TS0001821,EMP1014,INT-ADM,21/10/2026,5.0,Internal Administration,N,Approved,
+TS0001933,EMP1015,INT-BD,21/10/2026,7.5,Business Development,N,Approved,
+TS0002032,EMP1016,ENG-26-007,21/10/2026,3.0,Fieldwork,Y,Approved,Travel to client site
+TS0002033,EMP1016,INT-ADM,21/10/2026,4.5,Internal Administration,N,Approved,Review points cleared
+TS0002159,EMP1017,ENG-26-006,21/10/2026,3.0,Solution Design,Y,Approved,Team catch-up
+TS0002160,EMP1017,INT-ADM,21/10/2026,4.5,Internal Administration,N,Approved,Client workshop
+TS0002263,EMP1018,ENG-26-009,21/10/2026,3.5,Analysis,Y,Approved,
+TS0002264,EMP1018,INT-ADM,21/10/2026,4.0,Internal Administration,N,Approved,Travel to client site
+TS0002375,EMP1019,ENG-26-013,21/10/2026,4.0,Controls Testing,Y,Approved,Travel to client site
+TS0002376,EMP1019,INT-ADM,21/10/2026,3.5,Internal Administration,n,Approved,Review points cleared
+TS0002471,EMP1020,ENG-26-011,21/10/2026,2.5,Workshops,Y,Approved,Review points cleared
+TS0002472,EMP1020,INT-ADM,21/10/2026,5.0,Internal Administration,N,Approved,Travel to client site
+TS0002581,EMP1021,INT-ADM,21/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0002699,EMP1022,INT-ADM,21/10/2026,7.5,Internal Administration,N,Approved,
+TS0002819,EMP1023,ENG-26-012,21/10/2026,3.5,Review,Y,Approved,
+TS0002820,EMP1023,INT-TRN,21/10/2026,4.0,Training & CPD,N,Approved,
+TS0002886,EMP1024,INT-TRN,21/10/2026,7.5,Training & CPD,N,Approved,
+TS0002961,EMP1025,ENG-26-016,21/10/2026,2.5,Requirements,N,Approved,Non-chargeable rework
+TS0002962,EMP1025,INT-ADM,21/10/2026,5.0,Internal Administration,N,Approved,
+TS0003033,EMP1026,INT-ADM,21/10/2026,7.5,Internal Administration,N,Approved,Review points cleared
+TS0003131,EMP1027,INT-TRN,21/10/2026,7.5,Training & CPD,N,Approved,
+TS0003215,EMP1028,ENG-26-015,21/10/2026,3.0,Review,Y,Approved,
+TS0003216,EMP1028,INT-ADM,21/10/2026,4.5,Internal Administration,N,Approved,
+TS0003334,EMP1029,ENG-26-001,21/10/2026,6.5,Reporting,Y,Approved,
+TS0003335,EMP1029,INT-TRN,21/10/2026,1.0,Training & CPD,N,Approved,
+TS0003468,EMP1030,ENG-26-006,21/10/2026,4.5,PMO,Y,Approved,
+TS0003469,EMP1030,ENG-26-011,21/10/2026,4.5,Reporting,Y,Approved,Team catch-up
+TS0003607,EMP1031,ENG-26-009,21/10/2026,8.5,Report Drafting,Y,Approved,
+TS0003742,EMP1032,INT-ADM,21/10/2026,7.5,Internal Administration,N,Approved,
+TS0003875,EMP1033,ENG-26-012,21/10/2026,4.0,Client Meeting,Y,Approved,Draft deliverable
+TS0003876,EMP1033,INT-ADM,21/10/2026,3.5,Internal Administration,N,Approved,Team catch-up
+TS0003994,EMP1034,ENG-26-007,21/10/2026,4.0,Reporting,Y,Approved,Team catch-up
+TS0003995,EMP1034,ENG-26-013,21/10/2026,4.5,Review,Y,Approved,Draft deliverable
+TS0004086,EMP1035,ENG-26-003,21/10/2026,7.0,Workshops,y,Approved,
+TS0004087,EMP1035,INT-ADM  ,21/10/2026,0.5,Internal Administration,N,Approved,Client workshop
+TS0004206,EMP1036,ENG-26-015  ,21/10/2026,4.0,Client Meeting,Y,Approved,
+TS0004207,EMP1036,INT-ADM,21/10/2026,3.5,Internal Administration,N,Approved,Team catch-up
+TS0004342,EMP1037,ENG-26-001,21/10/2026,4.5,Review,Y,Approved,
+TS0004343,EMP1037,ENG-26-013,21/10/2026,5.5,Planning,Y,Approved,Draft deliverable
+TS0004479,EMP1038,ENG-26-003,21/10/2026,4.0,PMO,Y,Approved,Travel to client site
+TS0004480,EMP1038,ENG-26-015,21/10/2026,6.5,Technical Research,Y,Approved,
+TS0004594,EMP1039,ENG-26-016,21/10/2026,6.5,Reporting,Y,Approved,Travel to client site
+TS0004595,EMP1039,INT-ADM,21/10/2026,1.0,Internal Administration,N,Approved,Team catch-up
+TS0004730,EMP1040,ENG-26-002,21/10/2026,10.0,Analysis,Y,Approved,
+TS0004863,EMP1041,eng-26-012,21/10/2026,2.5,Review,Y,Approved,
+TS0004864,EMP1041,INT-TRN,21/10/2026,5.0,Training & CPD,n,Approved,
+TS0004987,EMP1042,ENG-26-013,21/10/2026,3.5,Fieldwork,Y,Approved,Review points cleared
+TS0004988,EMP1042,INT-TRN,21/10/2026,4.0,Training & CPD,N,Approved,
+TS0005119,EMP1043,ENG-26-006  ,21/10/2026,6.0,PMO,Y,Approved,Draft deliverable
+TS0005120,EMP1043,ENG-26-011  ,21/10/2026,2.5,Workshops,Y,Approved,Team catch-up
+TS0005221,EMP1044,ENG-26-009,21/10/2026,6.0,Report Drafting,y,Approved,
+TS0005222,EMP1044,INT-ADM,21/10/2026,1.5,Internal Administration,N,Approved,
+TS0005363,EMP1045,ENG-26-002,21/10/2026,6.0,Controls Testing,y,Approved,
+TS0005364,EMP1045,INT-ADM,21/10/2026,1.5,Internal Administration,N,Approved,
+TS0005498,EMP1046,ENG-26-012,21/10/2026,1.5,Computation,Y,Approved,
+TS0005499,EMP1046,INT-ADM,21/10/2026,6.0,Internal Administration,N,Approved,Review points cleared
+TS0005595,EMP1047,ENG-26-007,21/10/2026,7.5,Fieldwork,Y,Approved,Travel to client site
+TS0005717,EMP1048,ENG-26-006,21/10/2026,5.5,Requirements,Y,Approved,Team catch-up
+TS0005718,EMP1048,ENG-26-016,21/10/2026,1.5,PMO,Y,Approved,
+TS0005719,EMP1048,INT-TRN,21/10/2026,0.5,Training & CPD,N,Approved,Draft deliverable
+TS0005852,EMP1049,ENG-26-009,21/10/2026,4.5,Data Room Review,Y,Approved,Review points cleared
+TS0005853,EMP1049,INT-TRN,21/10/2026,3.0,Training & CPD,N,Approved,Draft deliverable
+TS0005946,EMP1050,INT-TRN  ,21/10/2026,7.5,Training & CPD,N,Approved,Travel to client site
+TS0006027,EMP1051,INT-ADM,21/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0006112,EMP1052,ENG-26-001,21/10/2026,8.5,Substantive Testing,Y,Approved,
+TS0006244,EMP1053,ENG-26-003,21/10/2026,3.0,Solution Design,Y,Approved,
+TS0006245,EMP1053,ENG-26-011,21/10/2026,5.0,Solution Design,Y,Approved,
+TS0006385,EMP1054,ENG-26-016  ,21/10/2026,4.5,Workshops,Y,Approved,Travel to client site
+TS0006386,EMP1054,INT-ADM,21/10/2026,3.0,Internal Administration,N,Approved,
+TS0006481,EMP1055,ENG-26-002,21/10/2026,7.5,Interviews,Y,Approved,
+TS0006595,EMP1056,ENG-26-007,21/10/2026,3.5,Reporting,Y,Approved,Draft deliverable
+TS0006596,EMP1056,ENG-26-015,21/10/2026,4.0,Data Gathering,Y,Approved,
+TS0006720,EMP1057,ENG-26-006,21/10/2026,7.0,Testing,y,Approved,
+TS0006721,EMP1057,ENG-26-016,21/10/2026,1.5,Solution Design,Y,Approved,
+TS0006853,EMP1058,ENG-26-015,21/10/2026,4.5,Computation,Y,Submitted,
+TS0006854,EMP1058,INT-ADM,21/10/2026,3.0,Internal Administration,N,Submitted,Travel to client site
+TS0006943,EMP1059,INT-ADM,21/10/2026,7.5,Internal Administration,N,Approved,
+TS0007069,EMP1060,ENG-26-012,21/10/2026,2.0,Computation,Y,Approved,Client workshop
+TS0007070,EMP1060,INT-ADM,21/10/2026,5.5,Internal Administration,N,Approved,
+TS0000156,EMP1001,ENG-26-001,22/10/2026,1.0,Fieldwork,Y,Approved,Review points cleared
+TS0000157,EMP1001,ENG-26-013,22/10/2026,0.5,Planning,Y,Approved,Travel to client site
+TS0000158,EMP1001,INT-ADM,22/10/2026,6.0,Internal Administration,N,Approved,Team catch-up
+TS0000314,EMP1002,INT-LVE,22/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0000464,EMP1003,INT-ADM,22/10/2026,7.5,Internal Administration,N,Approved,
+TS0000620,EMP1004,eng-26-002,22/10/2026,0.5,Scoping,Y,Approved,Review points cleared
+TS0000621,EMP1004,INT-BD,22/10/2026,7.0,Business Development,N,Approved,
+TS0000755,EMP1005,ENG-26-015,22/10/2026,1.0,Data Gathering,Y,Approved,
+TS0000756,EMP1005,INT-BD,22/10/2026,6.5,Business Development,N,Approved,
+TS0000861,EMP1006,ENG-26-007,22/10/2026,0.5,Controls Testing,Y,Approved,Client workshop
+TS0000862,EMP1006,INT-ADM  ,22/10/2026,7.0,Internal Administration,N,Approved,Review points cleared
+TS0001002,EMP1007,ENG-26-006,22/10/2026,0.5,Reporting,Y,Approved,Team catch-up
+TS0001003,EMP1007,ENG-26-016,22/10/2026,1.0,PMO,Y,Approved,Review points cleared
+TS0001004,EMP1007,INT-ADM,22/10/2026,6.0,Internal Administration,N,Approved,
+TS0001109,EMP1008,ENG-26-009,22/10/2026,0.5,Analysis,Y,Approved,
+TS0001110,EMP1008,INT-BD,22/10/2026,7.0,Business Development,n,Approved,
+TS0001232,EMP1009,INT-BD,22/10/2026,7.5,Business Development,N,Approved,
+TS0001352,EMP1010,ENG-26-012,22/10/2026,1.0,Computation,Y,Approved,
+TS0001353,EMP1010,INT-BD,22/10/2026,6.5,Business Development,N,Approved,
+TS0001474,EMP1011,ENG-26-001,22/10/2026,2.5,Controls Testing,Y,Approved,Draft deliverable
+TS0001475,EMP1011,INT-BD,22/10/2026,5.0,Business Development,N,Approved,Client workshop
+TS0001600,EMP1012,ENG-26-003,22/10/2026,3.0,Solution Design,Y,Approved,Client workshop
+TS0001601,EMP1012,INT-ADM,22/10/2026,4.5,Internal Administration,N,Approved,Draft deliverable
+TS0001705,EMP1013,INT-BD,22/10/2026,7.5,Business Development,N,Approved,Client workshop
+TS0001822,EMP1014,ENG-26-002,22/10/2026,3.0,Scoping,Y,Approved,
+TS0001823,EMP1014,INT-BD,22/10/2026,4.5,Business Development,N,Approved,
+TS0001934,EMP1015,INT-ADM,22/10/2026,7.5,Internal Administration,N,Submitted,
+TS0002034,EMP1016,ENG-26-007,22/10/2026,3.0,Controls Testing,Y,Approved,
+TS0002035,EMP1016,INT-ADM,22/10/2026,4.5,Internal Administration,N,Approved,Draft deliverable
+TS0002161,EMP1017,ENG-26-006,22/10/2026,3.0,PMO,N,Approved,Non-chargeable rework
+TS0002162,EMP1017,INT-ADM,22/10/2026,4.5,Internal Administration,N,Approved,
+TS0002265,EMP1018,ENG-26-009,22/10/2026,5.0,Review,Y,Approved,Client workshop
+TS0002266,EMP1018,INT-BD  ,22/10/2026,2.5,Business Development,N,Approved,
+TS0002377,EMP1019,ENG-26-013,22/10/2026,3.5,Review,Y,Approved,
+TS0002378,EMP1019,INT-TRN,22/10/2026,4.0,Training & CPD,N,Approved,
+TS0002473,EMP1020,ENG-26-011,22/10/2026,3.0,Requirements,Y,Approved,Team catch-up
+TS0002474,EMP1020,INT-TRN,22/10/2026,4.5,Training & CPD,N,Approved,
+TS0002582,EMP1021,INT-ADM,22/10/2026,7.5,Internal Administration,N,Approved,
+TS0002700,EMP1022,INT-TRN,22/10/2026,7.5,Training & CPD,N,Approved,Review points cleared
+TS0002821,EMP1023,ENG-26-012,22/10/2026,2.0,Technical Research,Y,Approved,Review points cleared
+TS0002822,EMP1023,INT-ADM,22/10/2026,5.5,Internal Administration,N,Approved,Draft deliverable
+TS0002887,EMP1024,INT-ADM,22/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0002963,EMP1025,ENG-26-016,22/10/2026,6.0,Requirements,N,Approved,Non-chargeable rework
+TS0002964,EMP1025,INT-ADM,22/10/2026,1.5,Internal Administration,N,Approved,Client workshop
+TS0003034,EMP1026,INT-TRN,22/10/2026,7.5,Training & CPD,N,Approved,Draft deliverable
+TS0003132,EMP1027,INT-TRN,22/10/2026,7.5,Training & CPD,N,Approved,Client workshop
+TS0003217,EMP1028,ENG-26-015,22/10/2026,3.0,Technical Research,Y,Approved,Draft deliverable
+TS0003218,EMP1028,INT-ADM,22/10/2026,4.5,Internal Administration,N,Approved,Travel to client site
+TS0003336,EMP1029,ENG-26-001,22/10/2026,5.0,Fieldwork,Y,Approved,Draft deliverable
+TS0003337,EMP1029,INT-ADM,22/10/2026,2.5,Internal Administration,N,Approved,Team catch-up
+TS0003470,EMP1030,ENG-26-006,22/10/2026,4.0,Solution Design,Y,Approved,Team catch-up
+TS0003471,EMP1030,ENG-26-011,22/10/2026,4.0,Requirements,Y,Approved,
+TS0003608,EMP1031,ENG-26-009  ,22/10/2026,5.0,Data Room Review,Y,Approved,Review points cleared
+TS0003609,EMP1031,INT-ADM,22/10/2026,2.5,Internal Administration,N,Approved,Travel to client site
+TS0003743,EMP1032,INT-ADM  ,22/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0003877,EMP1033,ENG-26-012,22/10/2026,3.0,Technical Research,Y,Approved,Client workshop
+TS0003878,EMP1033,INT-ADM,22/10/2026,4.5,Internal Administration,N,Approved,Team catch-up
+TS0003996,EMP1034,ENG-26-007,22/10/2026,3.0,Controls Testing,Y,Approved,
+TS0003997,EMP1034,ENG-26-013,22/10/2026,4.0,Substantive Testing,Y,Approved,
+TS0003998,EMP1034,INT-TRN,22/10/2026,0.5,Training & CPD,N,Approved,Draft deliverable
+TS0004088,EMP1035,ENG-26-003,22/10/2026,6.5,Testing,Y,Approved,
+TS0004089,EMP1035,INT-ADM,22/10/2026,1.0,Internal Administration,N,Approved,Client workshop
+TS0004208,EMP1036,ENG-26-015,22/10/2026,3.5,Review,Y,Approved,
+TS0004209,EMP1036,INT-TRN,22/10/2026,4.0,Training & CPD,N,Approved,
+TS0004344,EMP1037,ENG-26-001,22/10/2026,5.0,Substantive Testing,Y,Approved,Team catch-up
+TS0004345,EMP1037,ENG-26-013,22/10/2026,4.0,Substantive Testing,Y,Approved,
+TS0004481,EMP1038,ENG-26-003,22/10/2026,5.5,Reporting,Y,Approved,Draft deliverable
+TS0004482,EMP1038,ENG-26-015,22/10/2026,3.0,Client Meeting,Y,Approved,
+TS0004596,EMP1039,ENG-26-016,22/10/2026,5.0,PMO,Y,Approved,Draft deliverable
+TS0004597,EMP1039,INT-TRN,22/10/2026,2.5,Training & CPD,N,Approved,
+TS0004731,EMP1040,ENG-26-002,22/10/2026,6.5,Reporting,Y,Approved,Travel to client site
+TS0004732,EMP1040,INT-TRN,22/10/2026,1.0,Training & CPD,N,Approved,
+TS0004865,EMP1041,ENG-26-012,22/10/2026,3.0,Client Meeting,Y,Approved,Travel to client site
+TS0004866,EMP1041,INT-ADM,22/10/2026,4.5,Internal Administration,N,Approved,
+TS0004989,EMP1042,ENG-26-013,22/10/2026,4.0,Review,Y,Approved,Client workshop
+TS0004990,EMP1042,INT-ADM  ,22/10/2026,3.5,Internal Administration,N,Approved,
+TS0005121,EMP1043,ENG-26-006,22/10/2026,6.0,PMO,Y,Approved,Draft deliverable
+TS0005122,EMP1043,eng-26-011,22/10/2026,2.0,PMO,Y,Approved,Review points cleared
+TS0005223,EMP1044,ENG-26-009,22/10/2026,4.0,Review,Y,Approved,Travel to client site
+TS0005224,EMP1044,INT-ADM,22/10/2026,3.5,Internal Administration,N,Approved,Review points cleared
+TS0005365,EMP1045,ENG-26-002,22/10/2026,8.0,Reporting,Y,Approved,Review points cleared
+TS0005500,EMP1046,ENG-26-012,22/10/2026,1.5,Computation,Y,Approved,Team catch-up
+TS0005501,EMP1046,INT-ADM,22/10/2026,6.0,Internal Administration,N,Approved,Client workshop
+TS0005596,EMP1047,ENG-26-007,22/10/2026,9.0,Controls Testing,Y,Approved,Travel to client site
+TS0005720,EMP1048,ENG-26-006,22/10/2026,7.5,Workshops,Y,Approved,Travel to client site
+TS0005721,EMP1048,ENG-26-016,22/10/2026,1.0,Reporting,y,Approved,Travel to client site
+TS0005854,EMP1049,ENG-26-009,22/10/2026,4.0,Data Room Review,Y,Approved,
+TS0005855,EMP1049,INT-ADM,22/10/2026,3.5,Internal Administration,N,Approved,Review points cleared
+TS0005947,EMP1050,INT-ADM,22/10/2026,7.5,Internal Administration,N,Approved,
+TS0006028,EMP1051,INT-TRN,22/10/2026,7.5,Training & CPD,N,Approved,
+TS0006113,EMP1052,ENG-26-001,22/10/2026,11.0,Planning,Y,Approved,Review points cleared
+TS0006246,EMP1053,ENG-26-003,22/10/2026,4.0,Requirements,y,Approved,
+TS0006247,EMP1053,ENG-26-011,22/10/2026,3.0,Requirements,Y,Approved,Team catch-up
+TS0006248,EMP1053,INT-ADM,22/10/2026,0.5,Internal Administration,N,Approved,Review points cleared
+TS0006387,EMP1054,ENG-26-016,22/10/2026,4.5,Reporting,Y,Approved,
+TS0006388,EMP1054,INT-ADM,22/10/2026,3.0,Internal Administration,N,Approved,Travel to client site
+TS0006482,EMP1055,ENG-26-002,22/10/2026,8.0,Scoping,Y,Approved,Travel to client site
+TS0006597,EMP1056,ENG-26-007,22/10/2026,4.5,Reporting,y,Approved,
+TS0006598,EMP1056,ENG-26-015,22/10/2026,4.5,Computation,Y,Approved,
+TS0006722,EMP1057,ENG-26-006,22/10/2026,5.5,Workshops,Y,Approved,Team catch-up
+TS0006723,EMP1057,ENG-26-016,22/10/2026,1.5,Solution Design,Y,Approved,Client workshop
+TS0006724,EMP1057,INT-ADM,22/10/2026,0.5,Internal Administration,N,Approved,Client workshop
+TS0006855,EMP1058,ENG-26-015,22/10/2026,5.5,Client Meeting,Y,Approved,Team catch-up
+TS0006856,EMP1058,INT-TRN,22/10/2026,2.0,Training & CPD,N,Approved,Client workshop
+TS0006944,EMP1059,INT-ADM,22/10/2026,7.5,Internal Administration,N,Approved,
+TS0007071,EMP1060,ENG-26-012,22/10/2026,1.0,Technical Research,Y,Approved,Travel to client site
+TS0007072,EMP1060,INT-ADM,22/10/2026,6.5,Internal Administration,N,Approved,
+TS0000159,EMP1001,ENG-26-001,23/10/2026,1.0,Substantive Testing,Y,Approved,
+TS0000160,EMP1001,ENG-26-013,23/10/2026,1.0,Fieldwork,N,Approved,Non-chargeable rework
+TS0000161,EMP1001,INT-BD,23/10/2026,5.5,Business Development,N,Approved,Team catch-up
+TS0000315,EMP1002,ENG-26-003,23/10/2026,0.5,Requirements,Y,Approved,
+TS0000316,EMP1002,ENG-26-011,23/10/2026,1.0,Solution Design,Y,Approved,Travel to client site
+TS0000317,EMP1002,INT-ADM,23/10/2026,6.0,Internal Administration,N,Approved,
+TS0000465,EMP1003,INT-BD,23/10/2026,7.5,Business Development,N,Approved,Review points cleared
+TS0000622,EMP1004,ENG-26-002,23/10/2026,1.0,Analysis,Y,Approved,
+TS0000623,EMP1004,INT-ADM,23/10/2026,6.5,Internal Administration,N,Approved,
+TS0000757,EMP1005,eng-26-015,23/10/2026,0.5,Computation,y,Approved,
+TS0000758,EMP1005,INT-ADM  ,23/10/2026,7.0,Internal Administration,N,Approved,
+TS0000863,EMP1006,ENG-26-007,23/10/2026,1.0,Review,Y,Approved,Client workshop
+TS0000864,EMP1006,INT-BD,23/10/2026,6.5,Business Development,N,Approved,Review points cleared
+TS0001005,EMP1007,INT-LVE,23/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0001111,EMP1008,ENG-26-009,23/10/2026,0.5,Management Meetings,Y,Approved,
+TS0001112,EMP1008,INT-BD,23/10/2026,7.0,Business Development,N,Approved,
+TS0001233,EMP1009,INT-BD,23/10/2026,7.5,Business Development,N,Approved,Travel to client site
+TS0001354,EMP1010,ENG-26-012,23/10/2026,1.0,Review,Y,Approved,Travel to client site
+TS0001355,EMP1010,INT-ADM,23/10/2026,6.5,Internal Administration,N,Approved,Client workshop
+TS0001476,EMP1011,ENG-26-001  ,23/10/2026,2.0,Planning,y,Approved,
+TS0001477,EMP1011,INT-ADM,23/10/2026,5.5,Internal Administration,N,Approved,
+TS0001602,EMP1012,ENG-26-003,23/10/2026,3.5,Workshops,Y,Approved,Review points cleared
+TS0001603,EMP1012,INT-BD,23/10/2026,4.0,Business Development,N,Approved,
+TS0001706,EMP1013,INT-ADM,23/10/2026,7.5,Internal Administration,N,Approved,
+TS0001824,EMP1014,ENG-26-002,23/10/2026,3.5,Reporting,Y,Approved,
+TS0001825,EMP1014,INT-BD,23/10/2026,4.0,Business Development,N,Approved,Review points cleared
+TS0001935,EMP1015,INT-BD,23/10/2026,7.5,Business Development,N,Approved,Draft deliverable
+TS0002036,EMP1016,ENG-26-007,23/10/2026,2.5,Review,Y,Approved,Client workshop
+TS0002037,EMP1016,INT-ADM,23/10/2026,5.0,Internal Administration,N,Approved,
+TS0002163,EMP1017,ENG-26-006,23/10/2026,2.5,Testing,Y,Approved,Client workshop
+TS0002164,EMP1017,INT-ADM,23/10/2026,5.0,Internal Administration,N,Approved,Draft deliverable
+TS0002267,EMP1018,ENG-26-009,23/10/2026,3.0,Data Room Review,Y,Approved,
+TS0002268,EMP1018,INT-BD,23/10/2026,4.5,Business Development,N,Approved,Client workshop
+TS0002379,EMP1019,ENG-26-013,23/10/2026,3.0,Fieldwork,Y,Approved,Client workshop
+TS0002380,EMP1019,INT-TRN,23/10/2026,4.5,Training & CPD,N,Approved,Team catch-up
+TS0002475,EMP1020,ENG-26-011,23/10/2026,3.0,PMO,Y,Approved,
+TS0002476,EMP1020,INT-TRN,23/10/2026,4.5,Training & CPD,N,Approved,
+TS0002583,EMP1021,INT-TRN,23/10/2026,7.5,Training & CPD,N,Approved,
+TS0002701,EMP1022,INT-ADM,23/10/2026,7.5,Internal Administration,N,Approved,Review points cleared
+TS0002823,EMP1023,ENG-26-012,23/10/2026,3.5,Review,Y,Approved,
+TS0002824,EMP1023,INT-TRN,23/10/2026,4.0,Training & CPD,N,Approved,Review points cleared
+TS0002888,EMP1024,INT-TRN,23/10/2026,7.5,Training & CPD,N,Approved,
+TS0002965,EMP1025,ENG-26-016,23/10/2026,3.5,Requirements,Y,Approved,
+TS0002966,EMP1025,INT-TRN,23/10/2026,4.0,Training & CPD,N,Approved,
+TS0003035,EMP1026,INT-ADM,23/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0003133,EMP1027,INT-ADM,23/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0003219,EMP1028,ENG-26-015,23/10/2026,3.0,Client Meeting,Y,Approved,
+TS0003220,EMP1028,INT-TRN,23/10/2026,4.5,Training & CPD,N,Approved,Travel to client site
+TS0003338,EMP1029,ENG-26-001,23/10/2026,7.5,Controls Testing,Y,Approved,
+TS0003472,EMP1030,eng-26-006,23/10/2026,5.0,Solution Design,Y,Approved,Client workshop
+TS0003473,EMP1030,ENG-26-011,23/10/2026,3.0,Workshops,Y,Approved,
+TS0003610,EMP1031,ENG-26-009,23/10/2026,4.0,Review,y,Approved,
+TS0003611,EMP1031,INT-ADM,23/10/2026,3.5,Internal Administration,N,Approved,Client workshop
+TS0003744,EMP1032,INT-ADM,23/10/2026,7.5,Internal Administration,N,Approved,
+TS0003879,EMP1033,ENG-26-012,23/10/2026,16.0,Review,Y,Approved,
+TS0003880,EMP1033,INT-ADM,23/10/2026,4.5,Internal Administration,N,Approved,
+TS0003999,EMP1034,ENG-26-007,23/10/2026,4.5,Reporting,y,Approved,Draft deliverable
+TS0004000,EMP1034,eng-26-013,23/10/2026,3.5,Substantive Testing,Y,Approved,Draft deliverable
+TS0004090,EMP1035,ENG-26-003,23/10/2026,6.5,Requirements,Y,Approved,Draft deliverable
+TS0004091,EMP1035,INT-ADM,23/10/2026,1.0,Internal Administration,N,Approved,
+TS0004210,EMP1036,ENG-26-015,23/10/2026,2.5,Data Gathering,Y,Approved,Team catch-up
+TS0004211,EMP1036,INT-TRN,23/10/2026,5.0,Training & CPD,N,Approved,
+TS0004346,EMP1037,ENG-26-001,23/10/2026,3.0,Fieldwork,Y,Approved,
+TS0004347,EMP1037,ENG-26-013,23/10/2026,4.0,Reporting,Y,Approved,Review points cleared
+TS0004348,EMP1037,INT-ADM,23/10/2026,0.5,Internal Administration,N,Approved,
+TS0004483,EMP1038,ENG-26-003,23/10/2026,5.0,Solution Design,Y,Approved,
+TS0004484,EMP1038,ENG-26-015,23/10/2026,3.0,Technical Research,Y,Approved,Draft deliverable
+TS0004598,EMP1039,ENG-26-016,23/10/2026,4.5,Requirements,Y,Approved,
+TS0004599,EMP1039,INT-ADM,23/10/2026,3.0,Internal Administration,N,Approved,
+TS0004733,EMP1040,ENG-26-002,23/10/2026,5.0,Interviews,Y,Approved,Travel to client site
+TS0004734,EMP1040,INT-ADM,23/10/2026,2.5,Internal Administration,N,Approved,
+TS0004867,EMP1041,ENG-26-012,23/10/2026,4.0,Technical Research,Y,Approved,
+TS0004868,EMP1041,INT-TRN,23/10/2026,3.5,Training & CPD,N,Approved,Draft deliverable
+TS0004991,EMP1042,ENG-26-013,23/10/2026,4.5,Reporting,Y,Approved,Draft deliverable
+TS0004992,EMP1042,INT-TRN,23/10/2026,3.0,Training & CPD,N,Approved,Client workshop
+TS0005123,EMP1043,ENG-26-006,23/10/2026,4.0,Workshops,y,Approved,Draft deliverable
+TS0005124,EMP1043,ENG-26-011,23/10/2026,6.0,Testing,Y,Approved,
+TS0005225,EMP1044,eng-26-009,23/10/2026,4.0,Analysis,Y,Approved,
+TS0005226,EMP1044,INT-TRN,23/10/2026,3.5,Training & CPD,N,Approved,
+TS0005366,EMP1045,ENG-26-002,23/10/2026,9.5,Reporting,Y,Approved,Draft deliverable
+TS0005502,EMP1046,ENG-26-012,23/10/2026,1.5,Review,Y,Approved,Travel to client site
+TS0005503,EMP1046,int-trn,23/10/2026,6.0,Training & CPD,N,Approved,
+TS0005597,EMP1047,ENG-26-007,23/10/2026,5.0,Planning,Y,Approved,Client workshop
+TS0005598,EMP1047,INT-ADM,23/10/2026,2.5,Internal Administration,N,Approved,
+TS0005722,EMP1048,ENG-26-006,23/10/2026,6.5,Requirements,Y,Rejected,Draft deliverable
+TS0005723,EMP1048,ENG-26-016,23/10/2026,1.5,Workshops,y,Rejected,Team catch-up
+TS0005856,EMP1049,ENG-26-009,23/10/2026,5.0,Report Drafting,Y,Approved,
+TS0005857,EMP1049,INT-TRN,23/10/2026,2.5,Training & CPD,N,Approved,Travel to client site
+TS0005948,EMP1050,INT-ADM  ,23/10/2026,7.5,Internal Administration,N,Approved,Review points cleared
+TS0006029,EMP1051,INT-ADM,23/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0006114,EMP1052,ENG-26-001,23/10/2026,7.5,Controls Testing,Y,Approved,Draft deliverable
+TS0006249,EMP1053,ENG-26-003,23/10/2026,4.0,Workshops,y,Approved,Review points cleared
+TS0006250,EMP1053,ENG-26-011,23/10/2026,2.5,Testing,Y,Approved,Team catch-up
+TS0006251,EMP1053,INT-ADM,23/10/2026,1.0,Internal Administration,N,Approved,Travel to client site
+TS0006389,EMP1054,ENG-26-016,23/10/2026,4.0,Reporting,Y,Rejected,Travel to client site
+TS0006390,EMP1054,INT-TRN,23/10/2026,3.5,Training & CPD,N,Rejected,
+TS0006483,EMP1055,ENG-26-002,23/10/2026,7.5,Analysis,Y,Approved,
+TS0006599,EMP1056,ENG-26-007,23/10/2026,3.5,Fieldwork,Y,Approved,Team catch-up
+TS0006600,EMP1056,ENG-26-015,23/10/2026,5.0,Computation,Y,Approved,Travel to client site
+TS0006725,EMP1057,ENG-26-006,23/10/2026,6.5,Testing,Y,Approved,Travel to client site
+TS0006726,EMP1057,ENG-26-016,23/10/2026,2.0,PMO,Y,Approved,Draft deliverable
+TS0006857,EMP1058,ENG-26-015,23/10/2026,3.0,Client Meeting,Y,Approved,Review points cleared
+TS0006858,EMP1058,INT-ADM,23/10/2026,4.5,Internal Administration,N,Approved,Draft deliverable
+TS0006945,EMP1059,INT-ADM,23/10/2026,7.5,Internal Administration,N,Approved,
+TS0007073,EMP1060,ENG-26-012,23/10/2026,2.0,Client Meeting,Y,Approved,
+TS0007074,EMP1060,INT-ADM,23/10/2026,5.5,Internal Administration,N,Approved,
+TS0007082,EMP1018,ENG-26-009,25/10/2026,5.5,Review,Y,Approved,Weekend working to meet deadline
+TS0000162,EMP1001,ENG-26-001,26/10/2026,0.5,Substantive Testing,Y,Approved,Draft deliverable
+TS0000163,EMP1001,ENG-26-013,26/10/2026,1.0,Planning,Y,Approved,
+TS0000164,EMP1001,int-adm,26/10/2026,6.0,Internal Administration,N,Approved,Draft deliverable
+TS0000318,EMP1002,ENG-26-003,26/10/2026,0.5,Workshops,Y,Approved,Travel to client site
+TS0000319,EMP1002,ENG-26-011,26/10/2026,1.0,Requirements,Y,Approved,
+TS0000320,EMP1002,INT-ADM,26/10/2026,6.0,Internal Administration,N,Approved,
+TS0000466,EMP1003,INT-BD,26/10/2026,7.5,Business Development,N,Submitted,
+TS0000624,EMP1004,ENG-26-002,26/10/2026,0.5,Controls Testing,Y,Submitted,Review points cleared
+TS0000625,EMP1004,int-bd,26/10/2026,7.0,Business Development,n,Submitted,Client workshop
+TS0000759,EMP1005,ENG-26-015,26/10/2026,2.0,Review,Y,Submitted,Client workshop
+TS0000760,EMP1005,INT-BD,26/10/2026,5.5,Business Development,N,Submitted,Review points cleared
+TS0000865,EMP1006,ENG-26-007,26/10/2026,1.0,Review,Y,Approved,Client workshop
+TS0000866,EMP1006,INT-ADM,26/10/2026,6.5,Internal Administration,N,Approved,Review points cleared
+TS0001006,EMP1007,ENG-26-006,26/10/2026,0.5,Solution Design,Y,Approved,
+TS0001007,EMP1007,ENG-26-016,26/10/2026,0.5,Requirements,Y,Approved,Travel to client site
+TS0001008,EMP1007,INT-ADM,26/10/2026,6.5,Internal Administration,N,Approved,
+TS0001113,EMP1008,ENG-26-009,26/10/2026,1.0,Data Room Review,Y,Submitted,Team catch-up
+TS0001114,EMP1008,INT-BD,26/10/2026,6.5,Business Development,N,Submitted,
+TS0001234,EMP1009,INT-ADM,26/10/2026,7.5,Internal Administration,N,Approved,
+TS0001356,EMP1010,INT-ADM,26/10/2026,7.5,Internal Administration,N,Submitted,Review points cleared
+TS0001478,EMP1011,ENG-26-001,26/10/2026,2.0,Planning,Y,Approved,Review points cleared
+TS0001479,EMP1011,INT-ADM,26/10/2026,5.5,Internal Administration,N,Approved,
+TS0001604,EMP1012,ENG-26-003  ,26/10/2026,3.5,Testing,Y,Approved,Travel to client site
+TS0001605,EMP1012,INT-BD,26/10/2026,4.0,Business Development,N,Approved,Client workshop
+TS0001707,EMP1013,INT-ADM,26/10/2026,7.5,Internal Administration,N,Submitted,Draft deliverable
+TS0001826,EMP1014,ENG-26-002,26/10/2026,2.5,Controls Testing,Y,Submitted,
+TS0001827,EMP1014,INT-BD,26/10/2026,5.0,Business Development,N,Submitted,
+TS0001936,EMP1015,INT-BD,26/10/2026,7.5,Business Development,N,Submitted,
+TS0002038,EMP1016,ENG-26-007,26/10/2026,3.5,Review,Y,Submitted,Draft deliverable
+TS0002039,EMP1016,INT-BD,26/10/2026,4.0,Business Development,N,Submitted,
+TS0002165,EMP1017,ENG-26-006,26/10/2026,2.5,Workshops,Y,Approved,Team catch-up
+TS0002166,EMP1017,INT-ADM,26/10/2026,5.0,Internal Administration,N,Approved,Team catch-up
+TS0002269,EMP1018,ENG-26-009,26/10/2026,2.5,Analysis,Y,Approved,Review points cleared
+TS0002270,EMP1018,INT-BD,26/10/2026,5.0,Business Development,N,Approved,Team catch-up
+TS0002381,EMP1019,INT-LVE,26/10/2026,7.5,Annual Leave,N,Submitted,Annual leave
+TS0002477,EMP1020,ENG-26-011,26/10/2026,2.5,Solution Design,Y,Approved,
+TS0002478,EMP1020,INT-ADM,26/10/2026,5.0,Internal Administration,N,Approved,Team catch-up
+TS0002584,EMP1021,int-adm,26/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0002702,EMP1022,INT-ADM,26/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0002825,EMP1023,INT-ADM,26/10/2026,7.5,Internal Administration,N,Submitted,Draft deliverable
+TS0002889,EMP1024,INT-TRN,26/10/2026,7.5,Training & CPD,N,Submitted,
+TS0002967,EMP1025,ENG-26-016,26/10/2026,2.5,Workshops,Y,Submitted,Review points cleared
+TS0002968,EMP1025,INT-TRN,26/10/2026,5.0,Training & CPD,N,Submitted,
+TS0003036,EMP1026,INT-TRN,26/10/2026,7.5,Training & CPD,N,Approved,Client workshop
+TS0003134,EMP1027,INT-TRN,26/10/2026,7.5,Training & CPD,N,Submitted,Team catch-up
+TS0003221,EMP1028,ENG-26-015,26/10/2026,3.5,Computation,N,Submitted,Non-chargeable rework
+TS0003222,EMP1028,INT-ADM,26/10/2026,4.0,Internal Administration,N,Submitted,
+TS0003339,EMP1029,ENG-26-001,26/10/2026,6.5,Reporting,Y,Approved,
+TS0003340,EMP1029,INT-ADM,26/10/2026,1.0,Internal Administration,N,Approved,
+TS0003474,EMP1030,ENG-26-006,26/10/2026,4.5,Workshops,Y,Submitted,Draft deliverable
+TS0003475,EMP1030,ENG-26-011,26/10/2026,4.0,Requirements,Y,Submitted,
+TS0003612,EMP1031,ENG-26-009,26/10/2026,5.5,Management Meetings,Y,Submitted,
+TS0003613,EMP1031,INT-ADM,26/10/2026,2.0,Internal Administration,N,Submitted,
+TS0003745,EMP1032,INT-ADM,26/10/2026,7.5,Internal Administration,N,Approved,
+TS0003881,EMP1033,INT-ADM,26/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0004001,EMP1034,ENG-26-007,26/10/2026,3.5,Substantive Testing,y,Approved,Review points cleared
+TS0004002,EMP1034,ENG-26-013,26/10/2026,4.0,Reporting,Y,Approved,Team catch-up
+TS0004092,EMP1035,ENG-26-003,26/10/2026,7.5,Reporting,Y,Submitted,
+TS0004212,EMP1036,ENG-26-015,26/10/2026,3.5,Technical Research,Y,Approved,
+TS0004213,EMP1036,INT-ADM,26/10/2026,4.0,Internal Administration,N,Approved,Travel to client site
+TS0004349,EMP1037,ENG-26-001,26/10/2026,3.0,Substantive Testing,Y,Approved,Travel to client site
+TS0004350,EMP1037,ENG-26-013,26/10/2026,3.5,Review,Y,Approved,
+TS0004351,EMP1037,INT-ADM,26/10/2026,1.0,Internal Administration,N,Approved,
+TS0004485,EMP1038,ENG-26-003,26/10/2026,3.5,Requirements,Y,Approved,
+TS0004486,EMP1038,eng-26-015,26/10/2026,3.0,Technical Research,Y,Approved,
+TS0004487,EMP1038,INT-TRN,26/10/2026,1.0,Training & CPD,N,Approved,Draft deliverable
+TS0004600,EMP1039,ENG-26-016,26/10/2026,6.5,Workshops,Y,Approved,
+TS0004601,EMP1039,INT-ADM,26/10/2026,1.0,Internal Administration,N,Approved,Review points cleared
+TS0004735,EMP1040,ENG-26-002,26/10/2026,5.5,Reporting,Y,Approved,Travel to client site
+TS0004736,EMP1040,INT-ADM,26/10/2026,2.0,Internal Administration,N,Approved,Client workshop
+TS0004869,EMP1041,INT-TRN,26/10/2026,7.5,Training & CPD,N,Approved,Team catch-up
+TS0004993,EMP1042,ENG-26-013,26/10/2026,4.5,Reporting,Y,Submitted,Client workshop
+TS0004994,EMP1042,INT-TRN,26/10/2026,3.0,Training & CPD,N,Submitted,
+TS0005125,EMP1043,ENG-26-006,26/10/2026,3.0,Testing,Y,Submitted,
+TS0005126,EMP1043,ENG-26-011,26/10/2026,2.5,Testing,Y,Submitted,
+TS0005127,EMP1043,INT-TRN,26/10/2026,2.0,Training & CPD,N,Submitted,Client workshop
+TS0005227,EMP1044,ENG-26-009,26/10/2026,2.5,Analysis,Y,Submitted,
+TS0005228,EMP1044,INT-ADM,26/10/2026,5.0,Internal Administration,n,Submitted,Team catch-up
+TS0005367,EMP1045,INT-LVE,26/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0005504,EMP1046,INT-ADM  ,26/10/2026,7.5,Internal Administration,N,Submitted,
+TS0005599,EMP1047,ENG-26-007,26/10/2026,7.5,Fieldwork,Y,Submitted,
+TS0005724,EMP1048,ENG-26-006,26/10/2026,6.5,Solution Design,Y,Approved,Review points cleared
+TS0005725,EMP1048,ENG-26-016,26/10/2026,3.5,Solution Design,Y,Approved,
+TS0005858,EMP1049,ENG-26-009,26/10/2026,4.5,Report Drafting,Y,Submitted,Client workshop
+TS0005859,EMP1049,INT-ADM,26/10/2026,3.0,Internal Administration,N,Submitted,
+TS0005949,EMP1050,INT-ADM,26/10/2026,7.5,Internal Administration,N,Submitted,Travel to client site
+TS0006030,EMP1051,INT-TRN,26/10/2026,7.5,Training & CPD,N,Approved,
+TS0006115,EMP1052,ENG-26-001,26/10/2026,8.0,Reporting,Y,Approved,Team catch-up
+TS0006252,EMP1053,ENG-26-003,26/10/2026,6.0,Workshops,Y,Approved,Travel to client site
+TS0006253,EMP1053,ENG-26-011,26/10/2026,4.5,Requirements,Y,Approved,
+TS0006391,EMP1054,ENG-26-016,26/10/2026,3.5,Solution Design,Y,Approved,Travel to client site
+TS0006392,EMP1054,INT-ADM,26/10/2026,4.0,Internal Administration,N,Approved,
+TS0006484,EMP1055,ENG-26-002,26/10/2026,9.0,Reporting,Y,Approved,Team catch-up
+TS0006601,EMP1056,ENG-26-007,26/10/2026,3.0,Review,Y,Submitted,Team catch-up
+TS0006602,EMP1056,ENG-26-015,26/10/2026,3.0,Data Gathering,Y,Submitted,Review points cleared
+TS0006603,EMP1056,INT-ADM,26/10/2026,1.5,Internal Administration,n,Submitted,Team catch-up
+TS0006727,EMP1057,ENG-26-006,26/10/2026,5.5,Requirements,Y,Approved,Travel to client site
+TS0006728,EMP1057,ENG-26-016,26/10/2026,1.5,Testing,Y,Approved,
+TS0006729,EMP1057,INT-ADM,26/10/2026,0.5,Internal Administration,N,Approved,
+TS0006859,EMP1058,ENG-26-015  ,26/10/2026,3.5,Computation,Y,Approved,Review points cleared
+TS0006860,EMP1058,INT-TRN,26/10/2026,4.0,Training & CPD,N,Approved,Review points cleared
+TS0006946,EMP1059,INT-ADM,26/10/2026,7.5,Internal Administration,N,Submitted,Draft deliverable
+TS0007075,EMP1060,INT-LVE,26/10/2026,7.5,Annual Leave,N,Submitted,Annual leave
+TS0000165,EMP1001,ENG-26-001,27/10/2026,2.5,Reporting,Y,Submitted,Review points cleared
+TS0000166,EMP1001,ENG-26-013,27/10/2026,0.5,Reporting,Y,Submitted,Review points cleared
+TS0000167,EMP1001,INT-ADM,27/10/2026,4.5,Internal Administration,N,Submitted,Client workshop
+TS0000321,EMP1002,ENG-26-003,27/10/2026,1.0,Reporting,Y,Submitted,Team catch-up
+TS0000322,EMP1002,ENG-26-011,27/10/2026,0.5,PMO,Y,Submitted,
+TS0000323,EMP1002,INT-BD,27/10/2026,6.0,Business Development,N,Submitted,Draft deliverable
+TS0000467,EMP1003,INT-ADM,27/10/2026,7.5,Internal Administration,N,Approved,
+TS0000626,EMP1004,ENG-26-002,27/10/2026,1.0,Reporting,n,Approved,Non-chargeable rework
+TS0000627,EMP1004,INT-ADM,27/10/2026,6.5,Internal Administration,N,Approved,
+TS0000761,EMP1005,ENG-26-015,27/10/2026,0.5,Computation,Y,Submitted,Review points cleared
+TS0000762,EMP1005,INT-BD,27/10/2026,7.0,Business Development,N,Submitted,
+TS0000867,EMP1006,ENG-26-007,27/10/2026,3.5,Review,Y,Submitted,Team catch-up
+TS0000868,EMP1006,INT-BD,27/10/2026,4.0,Business Development,N,Submitted,
+TS0001009,EMP1007,ENG-26-006,27/10/2026,1.0,Reporting,N,Submitted,Non-chargeable rework
+TS0001010,EMP1007,ENG-26-016,27/10/2026,1.0,Solution Design,N,Submitted,Non-chargeable rework
+TS0001011,EMP1007,INT-ADM,27/10/2026,5.5,Internal Administration,N,Submitted,
+TS0001115,EMP1008,ENG-26-009,27/10/2026,0.5,Analysis,Y,Submitted,
+TS0001116,EMP1008,INT-BD,27/10/2026,7.0,Business Development,N,Submitted,Travel to client site
+TS0001235,EMP1009,INT-ADM,27/10/2026,7.5,Internal Administration,N,Approved,
+TS0001357,EMP1010,INT-BD,27/10/2026,7.5,Business Development,N,Approved,Review points cleared
+TS0001480,EMP1011,ENG-26-001,27/10/2026,2.0,Planning,y,Approved,
+TS0001481,EMP1011,INT-BD,27/10/2026,5.5,Business Development,N,Approved,Client workshop
+TS0001606,EMP1012,ENG-26-003,27/10/2026,3.5,Reporting,Y,Submitted,
+TS0001607,EMP1012,INT-ADM,27/10/2026,4.0,Internal Administration,n,Submitted,
+TS0001708,EMP1013,INT-ADM,27/10/2026,7.5,Internal Administration,N,Submitted,Team catch-up
+TS0001828,EMP1014,ENG-26-002,27/10/2026,4.0,Analysis,Y,Approved,Travel to client site
+TS0001829,EMP1014,INT-BD,27/10/2026,3.5,Business Development,N,Approved,
+TS0001937,EMP1015,INT-ADM,27/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0002040,EMP1016,ENG-26-007,27/10/2026,3.5,Substantive Testing,Y,Submitted,
+TS0002041,EMP1016,INT-ADM,27/10/2026,4.0,Internal Administration,N,Submitted,
+TS0002167,EMP1017,ENG-26-006,27/10/2026,2.5,Reporting,Y,Approved,Team catch-up
+TS0002168,EMP1017,INT-BD,27/10/2026,5.0,Business Development,N,Approved,
+TS0002271,EMP1018,ENG-26-009,27/10/2026,3.0,Data Room Review,Y,Approved,Team catch-up
+TS0002272,EMP1018,INT-BD,27/10/2026,4.5,Business Development,N,Approved,
+TS0002382,EMP1019,ENG-26-013,27/10/2026,2.5,Substantive Testing,Y,Submitted,Travel to client site
+TS0002383,EMP1019,INT-TRN,27/10/2026,5.0,Training & CPD,N,Submitted,
+TS0002479,EMP1020,ENG-26-011,27/10/2026,3.0,Testing,Y,Approved,
+TS0002480,EMP1020,INT-ADM,27/10/2026,4.5,Internal Administration,N,Approved,Review points cleared
+TS0002585,EMP1021,INT-TRN,27/10/2026,7.5,Training & CPD,N,Submitted,Draft deliverable
+TS0002703,EMP1022,INT-ADM,27/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0002826,EMP1023,INT-TRN,27/10/2026,7.5,Training & CPD,N,Approved,
+TS0002890,EMP1024,INT-ADM,27/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0002969,EMP1025,ENG-26-016,27/10/2026,3.0,PMO,Y,Approved,Team catch-up
+TS0002970,EMP1025,INT-ADM,27/10/2026,4.5,Internal Administration,N,Approved,
+TS0003037,EMP1026,INT-TRN,27/10/2026,7.5,Training & CPD,n,Submitted,Draft deliverable
+TS0003135,EMP1027,INT-ADM,27/10/2026,7.5,Internal Administration,N,Submitted,Team catch-up
+TS0003223,EMP1028,ENG-26-015,27/10/2026,3.0,Technical Research,Y,Approved,
+TS0003224,EMP1028,INT-TRN,27/10/2026,4.5,Training & CPD,N,Approved,
+TS0003341,EMP1029,ENG-26-001,27/10/2026,6.0,Substantive Testing,N,Submitted,Non-chargeable rework
+TS0003342,EMP1029,INT-ADM,27/10/2026,1.5,Internal Administration,N,Submitted,Team catch-up
+TS0003476,EMP1030,ENG-26-006,27/10/2026,3.0,Requirements,Y,Approved,
+TS0003477,EMP1030,ENG-26-011,27/10/2026,4.5,Testing,Y,Approved,Client workshop
+TS0003614,EMP1031,ENG-26-009,27/10/2026,6.5,Analysis,Y,Approved,
+TS0003615,EMP1031,INT-TRN,27/10/2026,1.0,Training & CPD,N,Approved,Travel to client site
+TS0003746,EMP1032,INT-TRN,27/10/2026,7.5,Training & CPD,N,Approved,
+TS0003882,EMP1033,INT-TRN,27/10/2026,7.5,Training & CPD,N,Submitted,
+TS0004003,EMP1034,ENG-26-007,27/10/2026,3.5,Fieldwork,Y,Approved,
+TS0004004,EMP1034,ENG-26-013,27/10/2026,3.0,Controls Testing,Y,Approved,
+TS0004005,EMP1034,INT-ADM  ,27/10/2026,1.0,Internal Administration,N,Approved,
+TS0004093,EMP1035,ENG-26-003,27/10/2026,3.0,Testing,n,Approved,Non-chargeable rework
+TS0004094,EMP1035,INT-ADM,27/10/2026,4.5,Internal Administration,N,Approved,Team catch-up
+TS0004214,EMP1036,ENG-26-015,27/10/2026,3.0,Data Gathering,Y,Approved,
+TS0004215,EMP1036,INT-TRN,27/10/2026,4.5,Training & CPD,N,Approved,Travel to client site
+TS0004352,EMP1037,eng-26-001,27/10/2026,4.5,Review,Y,Approved,Team catch-up
+TS0004353,EMP1037,ENG-26-013,27/10/2026,3.0,Review,Y,Approved,Team catch-up
+TS0004488,EMP1038,ENG-26-003,27/10/2026,5.5,Workshops,Y,Approved,
+TS0004489,EMP1038,ENG-26-015,27/10/2026,3.0,Data Gathering,Y,Approved,Team catch-up
+TS0004602,EMP1039,ENG-26-016,27/10/2026,6.5,PMO,Y,Submitted,Team catch-up
+TS0004603,EMP1039,INT-TRN,27/10/2026,1.0,Training & CPD,N,Submitted,
+TS0004737,EMP1040,ENG-26-002,27/10/2026,5.5,Analysis,Y,Submitted,
+TS0004738,EMP1040,INT-ADM,27/10/2026,2.0,Internal Administration,N,Submitted,
+TS0004870,EMP1041,INT-ADM,27/10/2026,7.5,Internal Administration,N,Submitted,Team catch-up
+TS0004995,EMP1042,ENG-26-013,27/10/2026,3.5,Planning,Y,Approved,Draft deliverable
+TS0004996,EMP1042,INT-TRN,27/10/2026,4.0,Training & CPD,N,Approved,
+TS0005128,EMP1043,ENG-26-006,27/10/2026,4.0,Solution Design,Y,Submitted,
+TS0005129,EMP1043,ENG-26-011,27/10/2026,2.5,Workshops,Y,Submitted,
+TS0005130,EMP1043,INT-ADM,27/10/2026,1.0,Internal Administration,N,Submitted,Client workshop
+TS0005229,EMP1044,ENG-26-009,27/10/2026,5.0,Report Drafting,Y,Submitted,Client workshop
+TS0005230,EMP1044,INT-ADM,27/10/2026,2.5,Internal Administration,N,Submitted,Draft deliverable
+TS0005368,EMP1045,ENG-26-002,27/10/2026,6.5,Reporting,Y,Submitted,Draft deliverable
+TS0005369,EMP1045,INT-TRN,27/10/2026,1.0,Training & CPD,N,Submitted,
+TS0005505,EMP1046,INT-ADM,27/10/2026,7.5,Internal Administration,N,Submitted,
+TS0005600,EMP1047,ENG-26-007,27/10/2026,6.5,Controls Testing,Y,Approved,Travel to client site
+TS0005601,EMP1047,INT-ADM,27/10/2026,1.0,Internal Administration,N,Approved,Draft deliverable
+TS0005726,EMP1048,ENG-26-006,27/10/2026,5.0,Testing,Y,Approved,Client workshop
+TS0005727,EMP1048,ENG-26-016,27/10/2026,2.0,Solution Design,Y,Approved,
+TS0005728,EMP1048,INT-TRN,27/10/2026,0.5,Training & CPD,n,Approved,Draft deliverable
+TS0005860,EMP1049,eng-26-009,27/10/2026,4.0,Review,Y,Approved,
+TS0005861,EMP1049,int-trn,27/10/2026,3.5,Training & CPD,N,Approved,Team catch-up
+TS0005950,EMP1050,INT-TRN,27/10/2026,7.5,Training & CPD,N,Approved,
+TS0006031,EMP1051,INT-TRN,27/10/2026,7.5,Training & CPD,N,Submitted,Travel to client site
+TS0006116,EMP1052,ENG-26-001,27/10/2026,7.0,Substantive Testing,Y,Submitted,Draft deliverable
+TS0006117,EMP1052,INT-ADM,27/10/2026,0.5,Internal Administration,N,Submitted,
+TS0006254,EMP1053,ENG-26-003,27/10/2026,4.0,Workshops,Y,Submitted,
+TS0006255,EMP1053,ENG-26-011,27/10/2026,4.0,PMO,Y,Submitted,Team catch-up
+TS0006393,EMP1054,ENG-26-016,27/10/2026,4.0,Testing,Y,Approved,Travel to client site
+TS0006394,EMP1054,INT-ADM,27/10/2026,3.5,Internal Administration,N,Approved,Draft deliverable
+TS0006485,EMP1055,ENG-26-002,27/10/2026,7.0,Interviews,Y,Approved,Draft deliverable
+TS0006486,EMP1055,INT-ADM,27/10/2026,0.5,Internal Administration,N,Approved,
+TS0006604,EMP1056,ENG-26-007  ,27/10/2026,3.5,Review,Y,Approved,
+TS0006605,EMP1056,ENG-26-015,27/10/2026,4.0,Technical Research,Y,Approved,Team catch-up
+TS0006730,EMP1057,ENG-26-006,27/10/2026,4.5,Requirements,Y,Submitted,Team catch-up
+TS0006731,EMP1057,ENG-26-016,27/10/2026,1.5,Requirements,Y,Submitted,Team catch-up
+TS0006732,EMP1057,INT-ADM,27/10/2026,1.5,Internal Administration,n,Submitted,
+TS0006861,EMP1058,ENG-26-015,27/10/2026,6.5,Review,Y,Submitted,Draft deliverable
+TS0006862,EMP1058,INT-ADM,27/10/2026,1.0,Internal Administration,N,Submitted,
+TS0006947,EMP1059,INT-ADM,27/10/2026,7.5,Internal Administration,N,Approved,
+TS0007076,EMP1060,INT-ADM,27/10/2026,7.5,Internal Administration,N,Submitted,
+TS0000168,EMP1001,ENG-26-001,28/10/2026,1.0,Review,Y,Submitted,Travel to client site
+TS0000169,EMP1001,ENG-26-013,28/10/2026,1.0,Review,Y,Submitted,
+TS0000170,EMP1001,INT-BD,28/10/2026,5.5,Business Development,N,Submitted,
+TS0000324,EMP1002,ENG-26-003,28/10/2026,0.5,Testing,Y,Submitted,Client workshop
+TS0000325,EMP1002,ENG-26-011,28/10/2026,0.5,Solution Design,Y,Submitted,
+TS0000326,EMP1002,INT-ADM,28/10/2026,6.5,Internal Administration,N,Submitted,Draft deliverable
+TS0000468,EMP1003,INT-ADM,28/10/2026,7.5,Internal Administration,N,Submitted,
+TS0000628,EMP1004,ENG-26-002,28/10/2026,1.5,Interviews,Y,Submitted,Review points cleared
+TS0000629,EMP1004,INT-ADM,28/10/2026,6.0,Internal Administration,N,Submitted,Team catch-up
+TS0000763,EMP1005,ENG-26-015,28/10/2026,0.5,Technical Research,Y,Approved,
+TS0000764,EMP1005,INT-ADM,28/10/2026,7.0,Internal Administration,N,Approved,Review points cleared
+TS0000869,EMP1006,eng-26-007,28/10/2026,0.5,Reporting,Y,Submitted,Draft deliverable
+TS0000870,EMP1006,INT-ADM,28/10/2026,7.0,Internal Administration,n,Submitted,Review points cleared
+TS0001012,EMP1007,ENG-26-006,28/10/2026,1.0,Workshops,Y,Approved,Client workshop
+TS0001013,EMP1007,ENG-26-016,28/10/2026,1.0,Reporting,y,Approved,Draft deliverable
+TS0001014,EMP1007,INT-BD,28/10/2026,5.5,Business Development,N,Approved,
+TS0001117,EMP1008,ENG-26-009,28/10/2026,0.5,Data Room Review,Y,Submitted,Travel to client site
+TS0001118,EMP1008,int-bd,28/10/2026,7.0,Business Development,N,Submitted,
+TS0001236,EMP1009,INT-BD,28/10/2026,7.5,Business Development,N,Submitted,Team catch-up
+TS0001358,EMP1010,INT-BD,28/10/2026,7.5,Business Development,N,Approved,Team catch-up
+TS0001482,EMP1011,ENG-26-001,28/10/2026,2.0,Fieldwork,Y,Approved,Client workshop
+TS0001483,EMP1011,INT-ADM,28/10/2026,5.5,Internal Administration,N,Approved,Client workshop
+TS0001608,EMP1012,ENG-26-003,28/10/2026,2.5,Solution Design,Y,Approved,Review points cleared
+TS0001609,EMP1012,INT-BD,28/10/2026,5.0,Business Development,N,Approved,Travel to client site
+TS0001709,EMP1013,INT-BD,28/10/2026,7.5,Business Development,N,Submitted,Travel to client site
+TS0001830,EMP1014,ENG-26-002,28/10/2026,3.0,Reporting,y,Submitted,Client workshop
+TS0001831,EMP1014,INT-BD,28/10/2026,4.5,Business Development,N,Submitted,Team catch-up
+TS0001938,EMP1015,INT-BD,28/10/2026,7.5,Business Development,n,Approved,Team catch-up
+TS0002042,EMP1016,ENG-26-007,28/10/2026,3.5,Reporting,Y,Approved,Team catch-up
+TS0002043,EMP1016,INT-ADM,28/10/2026,4.0,Internal Administration,N,Approved,Travel to client site
+TS0002169,EMP1017,ENG-26-006,28/10/2026,2.5,Testing,Y,Approved,
+TS0002170,EMP1017,INT-BD,28/10/2026,5.0,Business Development,N,Approved,
+TS0002273,EMP1018,ENG-26-009,28/10/2026,2.5,Data Room Review,Y,Submitted,
+TS0002274,EMP1018,INT-BD,28/10/2026,5.0,Business Development,N,Submitted,Team catch-up
+TS0002384,EMP1019,ENG-26-013,28/10/2026,3.0,Controls Testing,y,Submitted,
+TS0002385,EMP1019,INT-TRN,28/10/2026,4.5,Training & CPD,N,Submitted,
+TS0002481,EMP1020,INT-LVE,28/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0002586,EMP1021,INT-LVE,28/10/2026,7.5,Annual Leave,n,Approved,Annual leave
+TS0002704,EMP1022,INT-ADM,28/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0002827,EMP1023,INT-ADM,28/10/2026,7.5,Internal Administration,N,Submitted,
+TS0002891,EMP1024,INT-TRN,28/10/2026,7.5,Training & CPD,N,Approved,Review points cleared
+TS0002971,EMP1025,ENG-26-016,28/10/2026,3.0,Requirements,Y,Approved,
+TS0002972,EMP1025,INT-ADM,28/10/2026,4.5,Internal Administration,N,Approved,
+TS0003038,EMP1026,INT-ADM  ,28/10/2026,7.5,Internal Administration,N,Submitted,
+TS0003136,EMP1027,INT-ADM,28/10/2026,7.5,Internal Administration,N,Submitted,
+TS0003225,EMP1028,ENG-26-015,28/10/2026,3.0,Client Meeting,Y,Approved,
+TS0003226,EMP1028,INT-TRN  ,28/10/2026,4.5,Training & CPD,N,Approved,Team catch-up
+TS0003343,EMP1029,ENG-26-001,28/10/2026,6.5,Substantive Testing,Y,Approved,Review points cleared
+TS0003344,EMP1029,INT-ADM,28/10/2026,1.0,Internal Administration,N,Approved,
+TS0003478,EMP1030,ENG-26-006,28/10/2026,3.0,Requirements,Y,Submitted,Review points cleared
+TS0003479,EMP1030,ENG-26-011,28/10/2026,2.5,PMO,Y,Submitted,Review points cleared
+TS0003480,EMP1030,INT-ADM,28/10/2026,2.0,Internal Administration,N,Submitted,Review points cleared
+TS0003616,EMP1031,ENG-26-009,28/10/2026,4.5,Analysis,Y,Approved,
+TS0003617,EMP1031,INT-TRN,28/10/2026,3.0,Training & CPD,N,Approved,Review points cleared
+TS0003747,EMP1032,INT-LVE,28/10/2026,7.5,Annual Leave,N,Submitted,Annual leave
+TS0003883,EMP1033,INT-ADM,28/10/2026,7.5,Internal Administration,N,Submitted,Review points cleared
+TS0004006,EMP1034,ENG-26-007  ,28/10/2026,4.0,Planning,Y,Submitted,
+TS0004007,EMP1034,ENG-26-013,28/10/2026,5.0,Fieldwork,Y,Submitted,
+TS0004095,EMP1035,ENG-26-003,28/10/2026,7.0,Requirements,N,Approved,Non-chargeable rework
+TS0004096,EMP1035,INT-TRN,28/10/2026,0.5,Training & CPD,N,Approved,
+TS0004216,EMP1036,ENG-26-015,28/10/2026,2.0,Client Meeting,Y,Approved,
+TS0004217,EMP1036,INT-TRN,28/10/2026,5.5,Training & CPD,N,Approved,
+TS0004354,EMP1037,ENG-26-001,28/10/2026,3.5,Fieldwork,Y,Approved,
+TS0004355,EMP1037,ENG-26-013,28/10/2026,3.5,Fieldwork,Y,Approved,
+TS0004356,EMP1037,INT-ADM,28/10/2026,0.5,Internal Administration,N,Approved,
+TS0004490,EMP1038,ENG-26-003,28/10/2026,5.0,Workshops,Y,Approved,Travel to client site
+TS0004491,EMP1038,ENG-26-015,28/10/2026,3.0,Review,N,Approved,Non-chargeable rework
+TS0004604,EMP1039,ENG-26-016,28/10/2026,5.5,Workshops,Y,Submitted,
+TS0004605,EMP1039,INT-TRN,28/10/2026,2.0,Training & CPD,N,Submitted,Review points cleared
+TS0004739,EMP1040,ENG-26-002,28/10/2026,6.0,Scoping,Y,Submitted,
+TS0004740,EMP1040,INT-TRN,28/10/2026,1.5,Training & CPD,N,Submitted,Travel to client site
+TS0004871,EMP1041,INT-LVE,28/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0004997,EMP1042,ENG-26-013,28/10/2026,3.5,Fieldwork,Y,Approved,
+TS0004998,EMP1042,INT-ADM,28/10/2026,4.0,Internal Administration,n,Approved,
+TS0005131,EMP1043,ENG-26-006,28/10/2026,4.5,Workshops,Y,Approved,
+TS0005132,EMP1043,ENG-26-011,28/10/2026,3.5,Reporting,Y,Approved,Client workshop
+TS0005231,EMP1044,ENG-26-009,28/10/2026,5.0,Data Room Review,y,Submitted,Client workshop
+TS0005232,EMP1044,INT-ADM,28/10/2026,2.5,Internal Administration,N,Submitted,
+TS0005370,EMP1045,ENG-26-002  ,28/10/2026,4.5,Scoping,Y,Approved,Draft deliverable
+TS0005371,EMP1045,INT-TRN  ,28/10/2026,3.0,Training & CPD,N,Approved,
+TS0005506,EMP1046,INT-ADM,28/10/2026,7.5,Internal Administration,N,Submitted,Team catch-up
+TS0005602,EMP1047,ENG-26-007,28/10/2026,6.5,Controls Testing,Y,Approved,Draft deliverable
+TS0005603,EMP1047,INT-ADM,28/10/2026,1.0,Internal Administration,N,Approved,
+TS0005729,EMP1048,ENG-26-006,28/10/2026,3.5,Requirements,Y,Approved,
+TS0005730,EMP1048,ENG-26-016,28/10/2026,1.5,PMO,Y,Approved,Client workshop
+TS0005731,EMP1048,INT-ADM,28/10/2026,2.5,Internal Administration,N,Approved,
+TS0005862,EMP1049,ENG-26-009,28/10/2026,4.5,Data Room Review,y,Submitted,
+TS0005863,EMP1049,INT-ADM,28/10/2026,3.0,Internal Administration,N,Submitted,
+TS0005951,EMP1050,INT-ADM,28/10/2026,7.5,Internal Administration,N,Submitted,Team catch-up
+TS0006032,EMP1051,INT-ADM,28/10/2026,7.5,Internal Administration,N,Approved,Review points cleared
+TS0006118,EMP1052,ENG-26-001,28/10/2026,7.5,Planning,Y,Submitted,
+TS0006256,EMP1053,ENG-26-003,28/10/2026,3.5,Requirements,Y,Approved,
+TS0006257,EMP1053,ENG-26-011,28/10/2026,4.5,Reporting,Y,Approved,Travel to client site
+TS0006395,EMP1054,ENG-26-016,28/10/2026,5.0,Testing,Y,Approved,
+TS0006396,EMP1054,INT-ADM,28/10/2026,2.5,Internal Administration,N,Approved,
+TS0006487,EMP1055,eng-26-002,28/10/2026,7.0,Reporting,Y,Submitted,Client workshop
+TS0006488,EMP1055,INT-ADM,28/10/2026,0.5,Internal Administration,N,Submitted,Client workshop
+TS0006606,EMP1056,ENG-26-007,28/10/2026,6.0,Planning,Y,Submitted,Travel to client site
+TS0006607,EMP1056,ENG-26-015,28/10/2026,4.0,Technical Research,Y,Submitted,Travel to client site
+TS0006733,EMP1057,ENG-26-006,28/10/2026,6.0,Testing,Y,Submitted,
+TS0006734,EMP1057,ENG-26-016,28/10/2026,1.5,Reporting,Y,Submitted,
+TS0006863,EMP1058,ENG-26-015,28/10/2026,3.0,Client Meeting,y,Approved,Travel to client site
+TS0006864,EMP1058,INT-ADM,28/10/2026,4.5,Internal Administration,N,Approved,
+TS0006948,EMP1059,INT-ADM,28/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0007077,EMP1060,INT-TRN,28/10/2026,7.5,Training & CPD,N,Submitted,
+TS0000171,EMP1001,ENG-26-001,29/10/2026,1.0,Fieldwork,N,Submitted,Non-chargeable rework
+TS0000172,EMP1001,ENG-26-013,29/10/2026,1.0,Fieldwork,Y,Submitted,
+TS0000173,EMP1001,INT-BD,29/10/2026,5.5,Business Development,N,Submitted,Draft deliverable
+TS0000327,EMP1002,ENG-26-003  ,29/10/2026,1.0,PMO,Y,Approved,
+TS0000328,EMP1002,ENG-26-011,29/10/2026,0.5,PMO,Y,Approved,
+TS0000329,EMP1002,INT-ADM,29/10/2026,6.0,Internal Administration,N,Approved,
+TS0000469,EMP1003,INT-ADM,29/10/2026,7.5,Internal Administration,N,Submitted,
+TS0000630,EMP1004,ENG-26-002,29/10/2026,1.0,Interviews,y,Submitted,
+TS0000631,EMP1004,INT-BD,29/10/2026,6.5,Business Development,N,Submitted,
+TS0000765,EMP1005,ENG-26-015,29/10/2026,0.5,Data Gathering,Y,Approved,Team catch-up
+TS0000766,EMP1005,INT-BD,29/10/2026,7.0,Business Development,N,Approved,Draft deliverable
+TS0000871,EMP1006,ENG-26-007,29/10/2026,1.0,Fieldwork,Y,Approved,Draft deliverable
+TS0000872,EMP1006,INT-ADM,29/10/2026,6.5,Internal Administration,N,Approved,Travel to client site
+TS0001015,EMP1007,ENG-26-006,29/10/2026,0.5,Solution Design,Y,Submitted,Travel to client site
+TS0001016,EMP1007,ENG-26-016,29/10/2026,1.0,Solution Design,Y,Submitted,Review points cleared
+TS0001017,EMP1007,INT-ADM,29/10/2026,6.0,Internal Administration,N,Submitted,Team catch-up
+TS0001119,EMP1008,ENG-26-009,29/10/2026,0.5,Report Drafting,Y,Approved,Travel to client site
+TS0001120,EMP1008,INT-BD,29/10/2026,7.0,Business Development,N,Approved,
+TS0001237,EMP1009,INT-BD,29/10/2026,7.5,Business Development,N,Submitted,Team catch-up
+TS0001359,EMP1010,INT-BD,29/10/2026,7.5,Business Development,N,Approved,Team catch-up
+TS0001484,EMP1011,ENG-26-001,29/10/2026,3.0,Planning,Y,Submitted,
+TS0001485,EMP1011,INT-BD,29/10/2026,4.5,Business Development,N,Submitted,
+TS0001610,EMP1012,ENG-26-003,29/10/2026,2.5,Workshops,Y,Approved,Client workshop
+TS0001611,EMP1012,INT-BD,29/10/2026,5.0,Business Development,N,Approved,Draft deliverable
+TS0001710,EMP1013,INT-BD,29/10/2026,7.5,Business Development,N,Submitted,
+TS0001832,EMP1014,ENG-26-002,29/10/2026,2.5,Analysis,Y,Submitted,
+TS0001833,EMP1014,INT-BD,29/10/2026,5.0,Business Development,N,Submitted,Draft deliverable
+TS0001939,EMP1015,INT-ADM  ,29/10/2026,7.5,Internal Administration,N,Approved,
+TS0002044,EMP1016,ENG-26-007,29/10/2026,4.0,Reporting,Y,Submitted,Team catch-up
+TS0002045,EMP1016,INT-BD,29/10/2026,3.5,Business Development,N,Submitted,
+TS0002171,EMP1017,ENG-26-006  ,29/10/2026,6.0,Requirements,N,Submitted,Non-chargeable rework
+TS0002172,EMP1017,INT-BD,29/10/2026,1.5,Business Development,N,Submitted,
+TS0002275,EMP1018,ENG-26-009,29/10/2026,3.5,Data Room Review,Y,Approved,Team catch-up
+TS0002276,EMP1018,INT-ADM,29/10/2026,4.0,Internal Administration,N,Approved,
+TS0002386,EMP1019,ENG-26-013,29/10/2026,2.5,Substantive Testing,Y,Approved,Review points cleared
+TS0002387,EMP1019,INT-TRN,29/10/2026,5.0,Training & CPD,N,Approved,Client workshop
+TS0002482,EMP1020,ENG-26-011,29/10/2026,3.5,Requirements,Y,Submitted,
+TS0002483,EMP1020,INT-ADM  ,29/10/2026,4.0,Internal Administration,N,Submitted,
+TS0002587,EMP1021,INT-ADM,29/10/2026,7.5,Internal Administration,N,Approved,
+TS0002705,EMP1022,INT-ADM,29/10/2026,7.5,Internal Administration,n,Approved,Travel to client site
+TS0002828,EMP1023,INT-ADM,29/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0002892,EMP1024,INT-TRN,29/10/2026,7.5,Training & CPD,N,Approved,
+TS0002973,EMP1025,ENG-26-016,29/10/2026,5.0,Requirements,Y,Approved,
+TS0002974,EMP1025,INT-ADM,29/10/2026,2.5,Internal Administration,N,Approved,
+TS0003039,EMP1026,INT-ADM,29/10/2026,7.5,Internal Administration,N,Approved,Team catch-up
+TS0003137,EMP1027,INT-ADM,29/10/2026,7.5,Internal Administration,N,Approved,Review points cleared
+TS0003227,EMP1028,ENG-26-015,29/10/2026,3.0,Review,Y,Approved,Draft deliverable
+TS0003228,EMP1028,INT-ADM,29/10/2026,4.5,Internal Administration,N,Approved,Team catch-up
+TS0003345,EMP1029,ENG-26-001,29/10/2026,5.5,Reporting,Y,Approved,
+TS0003346,EMP1029,INT-ADM,29/10/2026,2.0,Internal Administration,n,Approved,
+TS0003481,EMP1030,ENG-26-006,29/10/2026,3.0,Testing,Y,Approved,
+TS0003482,EMP1030,ENG-26-011,29/10/2026,4.5,Reporting,Y,Approved,Travel to client site
+TS0003618,EMP1031,ENG-26-009,29/10/2026,6.0,Report Drafting,Y,Approved,Travel to client site
+TS0003619,EMP1031,INT-TRN,29/10/2026,1.5,Training & CPD,N,Approved,
+TS0003748,EMP1032,INT-LVE,29/10/2026,7.5,Annual Leave,n,Submitted,Annual leave
+TS0003884,EMP1033,INT-ADM,29/10/2026,7.5,Internal Administration,N,Approved,
+TS0004008,EMP1034,ENG-26-007,29/10/2026,4.0,Fieldwork,Y,Submitted,Team catch-up
+TS0004009,EMP1034,ENG-26-013,29/10/2026,5.0,Planning,Y,Submitted,Travel to client site
+TS0004097,EMP1035,ENG-26-003,29/10/2026,8.5,Testing,Y,Submitted,Travel to client site
+TS0004218,EMP1036,ENG-26-015,29/10/2026,2.5,Data Gathering,Y,Approved,
+TS0004219,EMP1036,INT-TRN,29/10/2026,5.0,Training & CPD,N,Approved,
+TS0004357,EMP1037,ENG-26-001,29/10/2026,3.5,Substantive Testing,Y,Approved,
+TS0004358,EMP1037,ENG-26-013,29/10/2026,4.0,Fieldwork,Y,Approved,Review points cleared
+TS0004492,EMP1038,ENG-26-003,29/10/2026,4.5,Testing,Y,Approved,Travel to client site
+TS0004493,EMP1038,ENG-26-015,29/10/2026,3.5,Data Gathering,Y,Approved,Client workshop
+TS0004606,EMP1039,ENG-26-016,29/10/2026,4.0,Testing,Y,Submitted,
+TS0004607,EMP1039,INT-ADM,29/10/2026,3.5,Internal Administration,n,Submitted,Review points cleared
+TS0004741,EMP1040,ENG-26-002,29/10/2026,6.0,Analysis,Y,Submitted,
+TS0004742,EMP1040,INT-ADM,29/10/2026,1.5,Internal Administration,N,Submitted,Draft deliverable
+TS0004872,EMP1041,INT-ADM,29/10/2026,7.5,Internal Administration,N,Approved,Client workshop
+TS0004999,EMP1042,ENG-26-013,29/10/2026,4.0,Review,Y,Submitted,
+TS0005000,EMP1042,INT-TRN,29/10/2026,3.5,Training & CPD,n,Submitted,Draft deliverable
+TS0005133,EMP1043,ENG-26-006,29/10/2026,5.5,Reporting,Y,Submitted,Review points cleared
+TS0005134,EMP1043,ENG-26-011,29/10/2026,3.0,PMO,Y,Submitted,
+TS0005233,EMP1044,ENG-26-009,29/10/2026,7.5,Analysis,Y,Submitted,
+TS0005372,EMP1045,ENG-26-002,29/10/2026,5.0,Controls Testing,Y,Submitted,
+TS0005373,EMP1045,INT-ADM,29/10/2026,2.5,Internal Administration,N,Submitted,
+TS0005507,EMP1046,INT-ADM,29/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0005604,EMP1047,ENG-26-007,29/10/2026,6.5,Fieldwork,Y,Approved,
+TS0005605,EMP1047,INT-ADM,29/10/2026,1.0,Internal Administration,N,Approved,Client workshop
+TS0005732,EMP1048,ENG-26-006,29/10/2026,5.0,Solution Design,Y,Approved,Travel to client site
+TS0005733,EMP1048,ENG-26-016,29/10/2026,1.5,Solution Design,Y,Approved,Travel to client site
+TS0005734,EMP1048,INT-TRN,29/10/2026,1.0,Training & CPD,N,Approved,Team catch-up
+TS0005864,EMP1049,ENG-26-009,29/10/2026,3.5,Report Drafting,Y,Submitted,
+TS0005865,EMP1049,INT-ADM,29/10/2026,4.0,Internal Administration,N,Submitted,Travel to client site
+TS0005952,EMP1050,INT-TRN,29/10/2026,7.5,Training & CPD,N,Submitted,Team catch-up
+TS0006033,EMP1051,INT-TRN,29/10/2026,7.5,Training & CPD,N,Submitted,
+TS0006119,EMP1052,ENG-26-001,29/10/2026,8.0,Planning,Y,Approved,Review points cleared
+TS0006258,EMP1053,ENG-26-003,29/10/2026,4.0,PMO,Y,Submitted,
+TS0006259,EMP1053,ENG-26-011,29/10/2026,3.0,Solution Design,Y,Submitted,
+TS0006260,EMP1053,INT-TRN,29/10/2026,0.5,Training & CPD,N,Submitted,Draft deliverable
+TS0006397,EMP1054,ENG-26-016,29/10/2026,3.0,Requirements,Y,Approved,
+TS0006398,EMP1054,INT-ADM,29/10/2026,4.5,Internal Administration,N,Approved,Draft deliverable
+TS0006489,EMP1055,ENG-26-002,29/10/2026,5.0,Controls Testing,Y,Approved,
+TS0006490,EMP1055,INT-TRN,29/10/2026,2.5,Training & CPD,N,Approved,Draft deliverable
+TS0006608,EMP1056,ENG-26-007,29/10/2026,3.5,Substantive Testing,Y,Submitted,
+TS0006609,EMP1056,ENG-26-015,29/10/2026,4.0,Data Gathering,Y,Submitted,Review points cleared
+TS0006735,EMP1057,ENG-26-006,29/10/2026,5.5,PMO,Y,Approved,Travel to client site
+TS0006736,EMP1057,ENG-26-016,29/10/2026,2.0,Requirements,Y,Approved,Client workshop
+TS0006865,EMP1058,ENG-26-015,29/10/2026,4.0,Computation,Y,Approved,
+TS0006866,EMP1058,INT-TRN,29/10/2026,3.5,Training & CPD,N,Approved,Review points cleared
+TS0006949,EMP1059,INT-ADM,29/10/2026,7.5,Internal Administration,N,Approved,
+TS0007078,EMP1060,int-adm,29/10/2026,7.5,Internal Administration,N,Approved,Travel to client site
+TS0000174,EMP1001,ENG-26-001,30/10/2026,0.5,Controls Testing,Y,Approved,
+TS0000175,EMP1001,ENG-26-013,30/10/2026,1.0,Fieldwork,y,Approved,Client workshop
+TS0000176,EMP1001,INT-BD,30/10/2026,6.0,Business Development,n,Approved,Travel to client site
+TS0000330,EMP1002,ENG-26-003,30/10/2026,1.0,Reporting,Y,Approved,
+TS0000331,EMP1002,ENG-26-011,30/10/2026,1.0,Requirements,Y,Approved,Team catch-up
+TS0000332,EMP1002,INT-BD,30/10/2026,5.5,Business Development,N,Approved,Travel to client site
+TS0000470,EMP1003,INT-BD,30/10/2026,7.5,Business Development,N,Approved,Draft deliverable
+TS0000632,EMP1004,ENG-26-002,30/10/2026,1.0,Analysis,Y,Submitted,Travel to client site
+TS0000633,EMP1004,INT-BD,30/10/2026,6.5,Business Development,N,Submitted,Team catch-up
+TS0000767,EMP1005,ENG-26-015,30/10/2026,0.5,Client Meeting,Y,Approved,
+TS0000768,EMP1005,INT-BD,30/10/2026,7.0,Business Development,N,Approved,Review points cleared
+TS0000873,EMP1006,ENG-26-007,30/10/2026,1.0,Planning,Y,Approved,
+TS0000874,EMP1006,INT-ADM  ,30/10/2026,6.5,Internal Administration,N,Approved,
+TS0001018,EMP1007,ENG-26-006,30/10/2026,1.0,Solution Design,Y,Approved,Draft deliverable
+TS0001019,EMP1007,ENG-26-016,30/10/2026,0.5,Workshops,Y,Approved,Draft deliverable
+TS0001020,EMP1007,INT-BD,30/10/2026,6.0,Business Development,N,Approved,
+TS0001121,EMP1008,ENG-26-009,30/10/2026,0.5,Analysis,y,Approved,Review points cleared
+TS0001122,EMP1008,INT-BD,30/10/2026,7.0,Business Development,N,Approved,Draft deliverable
+TS0001238,EMP1009,INT-ADM,30/10/2026,7.5,Internal Administration,N,Approved,Review points cleared
+TS0001360,EMP1010,INT-BD,30/10/2026,7.5,Business Development,N,Approved,
+TS0001486,EMP1011,ENG-26-001,30/10/2026,3.5,Reporting,Y,Approved,
+TS0001487,EMP1011,INT-ADM,30/10/2026,4.0,Internal Administration,N,Approved,Draft deliverable
+TS0001612,EMP1012,ENG-26-003,30/10/2026,3.0,Testing,Y,Submitted,Team catch-up
+TS0001613,EMP1012,INT-ADM,30/10/2026,4.5,Internal Administration,N,Submitted,Draft deliverable
+TS0001711,EMP1013,INT-ADM,30/10/2026,7.5,Internal Administration,N,Submitted,Review points cleared
+TS0001834,EMP1014,ENG-26-002,30/10/2026,3.5,Analysis,Y,Approved,
+TS0001835,EMP1014,INT-BD,30/10/2026,4.0,Business Development,N,Approved,Client workshop
+TS0001940,EMP1015,INT-ADM,30/10/2026,7.5,Internal Administration,N,Approved,Review points cleared
+TS0002046,EMP1016,ENG-26-007,30/10/2026,4.0,Review,Y,Approved,
+TS0002047,EMP1016,INT-BD,30/10/2026,3.5,Business Development,N,Approved,Review points cleared
+TS0002173,EMP1017,ENG-26-006,30/10/2026,3.5,Solution Design,Y,Approved,Team catch-up
+TS0002174,EMP1017,INT-BD,30/10/2026,4.0,Business Development,N,Approved,
+TS0002277,EMP1018,eng-26-009,30/10/2026,5.0,Management Meetings,Y,Approved,Team catch-up
+TS0002278,EMP1018,INT-BD,30/10/2026,2.5,Business Development,N,Approved,
+TS0002388,EMP1019,ENG-26-013  ,30/10/2026,4.5,Fieldwork,Y,Submitted,Review points cleared
+TS0002389,EMP1019,INT-ADM,30/10/2026,3.0,Internal Administration,N,Submitted,Travel to client site
+TS0002484,EMP1020,ENG-26-011,30/10/2026,2.0,Workshops,Y,Submitted,
+TS0002485,EMP1020,int-trn,30/10/2026,5.5,Training & CPD,N,Submitted,Team catch-up
+TS0002588,EMP1021,INT-ADM,30/10/2026,7.5,Internal Administration,N,Submitted,
+TS0002706,EMP1022,INT-ADM,30/10/2026,7.5,Internal Administration,N,Approved,
+TS0002829,EMP1023,INT-ADM,30/10/2026,7.5,Internal Administration,N,Submitted,Team catch-up
+TS0002893,EMP1024,INT-ADM,30/10/2026,7.5,Internal Administration,N,Approved,
+TS0002975,EMP1025,ENG-26-016,30/10/2026,3.0,Workshops,Y,Submitted,Review points cleared
+TS0002976,EMP1025,INT-TRN,30/10/2026,4.5,Training & CPD,n,Submitted,
+TS0003040,EMP1026,INT-ADM,30/10/2026,7.5,Internal Administration,N,Approved,
+TS0003138,EMP1027,int-trn,30/10/2026,7.5,Training & CPD,N,Submitted,
+TS0003229,EMP1028,ENG-26-015,30/10/2026,3.0,Data Gathering,Y,Approved,
+TS0003230,EMP1028,INT-ADM,30/10/2026,4.5,Internal Administration,N,Approved,Draft deliverable
+TS0003347,EMP1029,ENG-26-001,30/10/2026,8.5,Fieldwork,Y,Submitted,Client workshop
+TS0003483,EMP1030,ENG-26-006,30/10/2026,2.5,PMO,Y,Submitted,Client workshop
+TS0003484,EMP1030,ENG-26-011,30/10/2026,4.5,PMO,Y,Submitted,
+TS0003485,EMP1030,INT-ADM,30/10/2026,0.5,Internal Administration,N,Submitted,Team catch-up
+TS0003620,EMP1031,ENG-26-009,30/10/2026,4.5,Management Meetings,Y,Submitted,
+TS0003621,EMP1031,INT-TRN,30/10/2026,3.0,Training & CPD,N,Submitted,
+TS0003749,EMP1032,INT-TRN,30/10/2026,7.5,Training & CPD,N,Submitted,Review points cleared
+TS0003885,EMP1033,INT-ADM,30/10/2026,7.5,Internal Administration,N,Submitted,
+TS0004010,EMP1034,eng-26-007,30/10/2026,4.0,Controls Testing,Y,Approved,Review points cleared
+TS0004011,EMP1034,ENG-26-013,30/10/2026,3.5,Controls Testing,y,Approved,
+TS0004098,EMP1035,ENG-26-003,30/10/2026,7.0,Reporting,Y,Approved,
+TS0004099,EMP1035,INT-ADM,30/10/2026,0.5,Internal Administration,N,Approved,
+TS0004220,EMP1036,eng-26-015,30/10/2026,2.5,Client Meeting,Y,Submitted,Client workshop
+TS0004221,EMP1036,INT-ADM,30/10/2026,5.0,Internal Administration,N,Submitted,
+TS0004359,EMP1037,ENG-26-001  ,30/10/2026,4.0,Reporting,Y,Approved,
+TS0004360,EMP1037,ENG-26-013,30/10/2026,4.0,Controls Testing,Y,Approved,Travel to client site
+TS0004494,EMP1038,ENG-26-003,30/10/2026,5.0,Requirements,Y,Approved,Review points cleared
+TS0004495,EMP1038,ENG-26-015,30/10/2026,3.0,Client Meeting,Y,Approved,
+TS0004608,EMP1039,ENG-26-016,30/10/2026,6.5,PMO,Y,Approved,Team catch-up
+TS0004609,EMP1039,INT-ADM,30/10/2026,1.0,Internal Administration,N,Approved,
+TS0004743,EMP1040,ENG-26-002,30/10/2026,6.0,Analysis,Y,Approved,
+TS0004744,EMP1040,INT-ADM,30/10/2026,1.5,Internal Administration,N,Approved,Team catch-up
+TS0004873,EMP1041,INT-ADM,30/10/2026,7.5,Internal Administration,N,Submitted,Review points cleared
+TS0005001,EMP1042,ENG-26-013,30/10/2026,3.5,Reporting,Y,Approved,
+TS0005002,EMP1042,INT-TRN,30/10/2026,4.0,Training & CPD,N,Approved,
+TS0005135,EMP1043,ENG-26-006,30/10/2026,6.0,Reporting,Y,Approved,Client workshop
+TS0005136,EMP1043,ENG-26-011,30/10/2026,3.0,Reporting,Y,Approved,Team catch-up
+TS0005234,EMP1044,ENG-26-009,30/10/2026,4.5,Analysis,Y,Approved,Review points cleared
+TS0005235,EMP1044,INT-ADM,30/10/2026,3.0,Internal Administration,N,Approved,
+TS0005374,EMP1045,ENG-26-002,30/10/2026,6.5,Reporting,Y,Approved,
+TS0005375,EMP1045,INT-ADM,30/10/2026,1.0,Internal Administration,N,Approved,
+TS0005508,EMP1046,INT-TRN,30/10/2026,7.5,Training & CPD,N,Approved,Review points cleared
+TS0005606,EMP1047,ENG-26-007,30/10/2026,5.5,Planning,Y,Submitted,
+TS0005607,EMP1047,INT-TRN,30/10/2026,2.0,Training & CPD,N,Submitted,Draft deliverable
+TS0005735,EMP1048,ENG-26-006,30/10/2026,9.0,PMO,Y,Submitted,
+TS0005736,EMP1048,ENG-26-016,30/10/2026,1.0,Requirements,Y,Submitted,Client workshop
+TS0005866,EMP1049,ENG-26-009,30/10/2026,4.5,Data Room Review,Y,Approved,Travel to client site
+TS0005867,EMP1049,INT-TRN,30/10/2026,3.0,Training & CPD,N,Approved,
+TS0005953,EMP1050,INT-TRN,30/10/2026,7.5,Training & CPD,N,Submitted,
+TS0006034,EMP1051,INT-ADM,30/10/2026,7.5,Internal Administration,N,Approved,Draft deliverable
+TS0006120,EMP1052,ENG-26-001,30/10/2026,8.0,Controls Testing,Y,Approved,Travel to client site
+TS0006261,EMP1053,ENG-26-003,30/10/2026,4.0,Workshops,y,Approved,Review points cleared
+TS0006262,EMP1053,ENG-26-011,30/10/2026,4.5,Testing,Y,Approved,Review points cleared
+TS0006399,EMP1054,ENG-26-016,30/10/2026,5.0,Reporting,Y,Approved,
+TS0006400,EMP1054,INT-ADM,30/10/2026,2.5,Internal Administration,N,Approved,Team catch-up
+TS0006491,EMP1055,ENG-26-002,30/10/2026,5.0,Controls Testing,Y,Approved,Travel to client site
+TS0006492,EMP1055,INT-ADM,30/10/2026,2.5,Internal Administration,N,Approved,
+TS0006610,EMP1056,ENG-26-007,30/10/2026,3.5,Review,Y,Submitted,Draft deliverable
+TS0006611,EMP1056,ENG-26-015,30/10/2026,3.5,Technical Research,y,Submitted,
+TS0006612,EMP1056,INT-ADM,30/10/2026,0.5,Internal Administration,N,Submitted,Team catch-up
+TS0006737,EMP1057,INT-LVE,30/10/2026,7.5,Annual Leave,N,Submitted,Annual leave
+TS0006867,EMP1058,INT-LVE,30/10/2026,7.5,Annual Leave,N,Approved,Annual leave
+TS0006950,EMP1059,INT-TRN,30/10/2026,7.5,Training & CPD,N,Submitted,Client workshop
+TS0007079,EMP1060,INT-ADM,30/10/2026,7.5,Internal Administration,N,Submitted,

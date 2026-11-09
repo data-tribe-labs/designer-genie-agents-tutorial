@@ -1,0 +1,88 @@
+{"assignment_id": "ASG-0001", "engagement_code": "ENG-26-001", "employee_id": "EMP1001", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-07-01", "assigned_to": "2026-11-30"}
+{"assignment_id": "ASG-0002", "engagement_code": "ENG-26-001", "employee_id": "EMP1011", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-07-01", "assigned_to": "2026-11-30"}
+{"assignment_id": "ASG-0003", "engagement_code": "ENG-26-001", "employee_id": "EMP1037", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-07-01", "assigned_to": "2026-11-30"}
+{"assignment_id": "ASG-0004", "engagement_code": "ENG-26-001", "employee_id": "EMP1052", "role": "Team Member", "allocation_pct": 1.0, "assigned_from": "2026-07-01", "assigned_to": "2026-11-30"}
+{"assignment_id": "ASG-0005", "engagement_code": "ENG-26-001", "employee_id": "EMP1029", "role": "In-charge", "allocation_pct": 0.8, "assigned_from": "2026-07-01", "assigned_to": "2026-11-30"}
+{"assignment_id": "ASG-0006", "engagement_code": "ENG-26-002", "employee_id": "EMP1004", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-04-01", "assigned_to": "2027-03-31"}
+{"assignment_id": "ASG-0007", "engagement_code": "ENG-26-002", "employee_id": "EMP1014", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-04-01", "assigned_to": "2027-03-31"}
+{"assignment_id": "ASG-0008", "engagement_code": "ENG-26-002", "employee_id": "EMP1045", "role": "Team Member", "allocation_pct": 0.8, "assigned_from": "2026-04-01", "assigned_to": "2027-03-31"}
+{"assignment_id": "ASG-0009", "engagement_code": "ENG-26-002", "employee_id": "EMP1040", "role": "Team Member", "allocation_pct": 0.8, "assigned_from": "2026-04-01", "assigned_to": "2027-03-31"}
+{"assignment_id": "ASG-0010", "engagement_code": "ENG-26-002", "employee_id": "EMP1055", "role": "Team Member", "allocation_pct": 1.0, "assigned_from": "2026-04-01", "assigned_to": "2027-03-31"}
+{"assignment_id": "ASG-0011", "engagement_code": "ENG-26-003", "employee_id": "EMP1002", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-08-03", "assigned_to": "2026-10-30"}
+{"assignment_id": "ASG-0012", "engagement_code": "ENG-26-003", "employee_id": "EMP1012", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-08-03", "assigned_to": "2026-10-30"}
+{"assignment_id": "ASG-0013", "engagement_code": "ENG-26-003", "employee_id": "EMP1053", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-08-03", "assigned_to": "2026-10-30"}
+{"assignment_id": "ASG-0014", "engagement_code": "ENG-26-003", "employee_id": "EMP1038", "role": "Team Member", "allocation_pct": 0.6, "assigned_from": "2026-08-03", "assigned_to": "2026-10-30"}
+{"assignment_id": "ASG-0015", "engagement_code": "ENG-26-003", "employee_id": "EMP1035", "role": "In-charge", "allocation_pct": 1.0, "assigned_from": "2026-08-03", "assigned_to": "2026-10-30"}
+{"assignment_id": "ASG-0016", "engagement_code": "ENG-26-004", "employee_id": "EMP1003", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-08-10", "assigned_to": "2026-09-25"}
+{"assignment_id": "ASG-0017", "engagement_code": "ENG-26-004", "employee_id": "EMP1013", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-08-10", "assigned_to": "2026-09-25"}
+{"assignment_id": "ASG-0018", "engagement_code": "ENG-26-004", "employee_id": "EMP1039", "role": "Team Member", "allocation_pct": 0.6, "assigned_from": "2026-08-10", "assigned_to": "2026-09-25"}
+{"assignment_id": "ASG-0019", "engagement_code": "ENG-26-004", "employee_id": "EMP1054", "role": "Team Member", "allocation_pct": 0.6, "assigned_from": "2026-08-10", "assigned_to": "2026-09-25"}
+{"assignment_id": "ASG-0020", "engagement_code": "ENG-26-004", "employee_id": "EMP1036", "role": "In-charge", "allocation_pct": 0.6, "assigned_from": "2026-08-10", "assigned_to": "2026-09-25"}
+{"assignment_id": "ASG-0021", "engagement_code": "ENG-26-005", "employee_id": "EMP1009", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-07-06", "assigned_to": "2026-10-16"}
+{"assignment_id": "ASG-0022", "engagement_code": "ENG-26-005", "employee_id": "EMP1022", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-07-06", "assigned_to": "2026-10-16"}
+{"assignment_id": "ASG-0023", "engagement_code": "ENG-26-005", "employee_id": "EMP1032", "role": "In-charge", "allocation_pct": 0.8, "assigned_from": "2026-07-06", "assigned_to": "2026-10-16"}
+{"assignment_id": "ASG-0024", "engagement_code": "ENG-26-005", "employee_id": "EMP1059", "role": "Team Member", "allocation_pct": 1.0, "assigned_from": "2026-07-06", "assigned_to": "2026-10-16"}
+{"assignment_id": "ASG-0025", "engagement_code": "ENG-26-005", "employee_id": "EMP1050", "role": "Team Member", "allocation_pct": 1.0, "assigned_from": "2026-07-06", "assigned_to": "2026-10-16"}
+{"assignment_id": "ASG-0026", "engagement_code": "ENG-26-005", "employee_id": "EMP1045", "role": "Team Member", "allocation_pct": 0.2, "assigned_from": "2026-07-06", "assigned_to": "2026-10-16"}
+{"assignment_id": "ASG-0027", "engagement_code": "ENG-26-006", "employee_id": "EMP1007", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-06-01", "assigned_to": "2026-12-18"}
+{"assignment_id": "ASG-0028", "engagement_code": "ENG-26-006", "employee_id": "EMP1017", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-06-01", "assigned_to": "2026-12-18"}
+{"assignment_id": "ASG-0029", "engagement_code": "ENG-26-006", "employee_id": "EMP1043", "role": "Team Member", "allocation_pct": 0.6, "assigned_from": "2026-06-01", "assigned_to": "2026-12-18"}
+{"assignment_id": "ASG-0030", "engagement_code": "ENG-26-006", "employee_id": "EMP1030", "role": "In-charge", "allocation_pct": 0.5, "assigned_from": "2026-06-01", "assigned_to": "2026-12-18"}
+{"assignment_id": "ASG-0031", "engagement_code": "ENG-26-006", "employee_id": "EMP1048", "role": "Team Member", "allocation_pct": 0.8, "assigned_from": "2026-06-01", "assigned_to": "2026-12-18"}
+{"assignment_id": "ASG-0032", "engagement_code": "ENG-26-006", "employee_id": "EMP1057", "role": "Team Member", "allocation_pct": 0.8, "assigned_from": "2026-06-01", "assigned_to": "2026-12-18"}
+{"assignment_id": "ASG-0033", "engagement_code": "ENG-26-007", "employee_id": "EMP1006", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-09-01", "assigned_to": "2026-10-30"}
+{"assignment_id": "ASG-0034", "engagement_code": "ENG-26-007", "employee_id": "EMP1016", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-09-01", "assigned_to": "2026-10-30"}
+{"assignment_id": "ASG-0035", "engagement_code": "ENG-26-007", "employee_id": "EMP1056", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-09-01", "assigned_to": "2026-10-30"}
+{"assignment_id": "ASG-0036", "engagement_code": "ENG-26-007", "employee_id": "EMP1034", "role": "In-charge", "allocation_pct": 0.5, "assigned_from": "2026-09-01", "assigned_to": "2026-10-30"}
+{"assignment_id": "ASG-0037", "engagement_code": "ENG-26-007", "employee_id": "EMP1047", "role": "Team Member", "allocation_pct": 0.8, "assigned_from": "2026-09-01", "assigned_to": "2026-10-30"}
+{"assignment_id": "ASG-0038", "engagement_code": "ENG-26-008", "employee_id": "EMP1005", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-08-03", "assigned_to": "2026-09-30"}
+{"assignment_id": "ASG-0039", "engagement_code": "ENG-26-008", "employee_id": "EMP1015", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-08-03", "assigned_to": "2026-09-30"}
+{"assignment_id": "ASG-0040", "engagement_code": "ENG-26-008", "employee_id": "EMP1041", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-08-03", "assigned_to": "2026-09-30"}
+{"assignment_id": "ASG-0041", "engagement_code": "ENG-26-008", "employee_id": "EMP1060", "role": "Team Member", "allocation_pct": 0.8, "assigned_from": "2026-08-03", "assigned_to": "2026-09-30"}
+{"assignment_id": "ASG-0042", "engagement_code": "ENG-26-008", "employee_id": "EMP1051", "role": "Team Member", "allocation_pct": 1.0, "assigned_from": "2026-08-03", "assigned_to": "2026-09-30"}
+{"assignment_id": "ASG-0043", "engagement_code": "ENG-26-008", "employee_id": "EMP1046", "role": "Team Member", "allocation_pct": 0.8, "assigned_from": "2026-08-03", "assigned_to": "2026-09-30"}
+{"assignment_id": "ASG-0044", "engagement_code": "ENG-26-009", "employee_id": "EMP1008", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-09-07", "assigned_to": "2026-12-11"}
+{"assignment_id": "ASG-0045", "engagement_code": "ENG-26-009", "employee_id": "EMP1018", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-09-07", "assigned_to": "2026-12-11"}
+{"assignment_id": "ASG-0046", "engagement_code": "ENG-26-009", "employee_id": "EMP1044", "role": "Team Member", "allocation_pct": 0.6, "assigned_from": "2026-09-07", "assigned_to": "2026-12-11"}
+{"assignment_id": "ASG-0047", "engagement_code": "ENG-26-009", "employee_id": "EMP1031", "role": "In-charge", "allocation_pct": 0.6, "assigned_from": "2026-09-07", "assigned_to": "2026-12-11"}
+{"assignment_id": "ASG-0048", "engagement_code": "ENG-26-009", "employee_id": "EMP1049", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-09-07", "assigned_to": "2026-12-11"}
+{"assignment_id": "ASG-0049", "engagement_code": "ENG-26-010", "employee_id": "EMP1004", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-08-17", "assigned_to": "2026-10-09"}
+{"assignment_id": "ASG-0050", "engagement_code": "ENG-26-010", "employee_id": "EMP1027", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-08-17", "assigned_to": "2026-10-09"}
+{"assignment_id": "ASG-0051", "engagement_code": "ENG-26-010", "employee_id": "EMP1032", "role": "In-charge", "allocation_pct": 0.2, "assigned_from": "2026-08-17", "assigned_to": "2026-10-09"}
+{"assignment_id": "ASG-0052", "engagement_code": "ENG-26-010", "employee_id": "EMP1040", "role": "Team Member", "allocation_pct": 0.2, "assigned_from": "2026-08-17", "assigned_to": "2026-10-09"}
+{"assignment_id": "ASG-0053", "engagement_code": "ENG-26-010", "employee_id": "EMP1033", "role": "In-charge", "allocation_pct": 0.6, "assigned_from": "2026-08-17", "assigned_to": "2026-10-09"}
+{"assignment_id": "ASG-0054", "engagement_code": "ENG-26-010", "employee_id": "EMP1042", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-08-17", "assigned_to": "2026-10-09"}
+{"assignment_id": "ASG-0055", "engagement_code": "ENG-26-011", "employee_id": "EMP1002", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-09-14", "assigned_to": "2026-11-27"}
+{"assignment_id": "ASG-0056", "engagement_code": "ENG-26-011", "employee_id": "EMP1020", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-09-14", "assigned_to": "2026-11-27"}
+{"assignment_id": "ASG-0057", "engagement_code": "ENG-26-011", "employee_id": "EMP1030", "role": "In-charge", "allocation_pct": 0.5, "assigned_from": "2026-09-14", "assigned_to": "2026-11-27"}
+{"assignment_id": "ASG-0058", "engagement_code": "ENG-26-011", "employee_id": "EMP1053", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-09-14", "assigned_to": "2026-11-27"}
+{"assignment_id": "ASG-0059", "engagement_code": "ENG-26-011", "employee_id": "EMP1043", "role": "Team Member", "allocation_pct": 0.4, "assigned_from": "2026-09-14", "assigned_to": "2026-11-27"}
+{"assignment_id": "ASG-0060", "engagement_code": "ENG-26-012", "employee_id": "EMP1010", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-07-13", "assigned_to": "2026-10-23"}
+{"assignment_id": "ASG-0061", "engagement_code": "ENG-26-012", "employee_id": "EMP1023", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-07-13", "assigned_to": "2026-10-23"}
+{"assignment_id": "ASG-0062", "engagement_code": "ENG-26-012", "employee_id": "EMP1041", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-07-13", "assigned_to": "2026-10-23"}
+{"assignment_id": "ASG-0063", "engagement_code": "ENG-26-012", "employee_id": "EMP1033", "role": "In-charge", "allocation_pct": 0.4, "assigned_from": "2026-07-13", "assigned_to": "2026-10-23"}
+{"assignment_id": "ASG-0064", "engagement_code": "ENG-26-012", "employee_id": "EMP1060", "role": "Team Member", "allocation_pct": 0.2, "assigned_from": "2026-07-13", "assigned_to": "2026-10-23"}
+{"assignment_id": "ASG-0065", "engagement_code": "ENG-26-012", "employee_id": "EMP1046", "role": "Team Member", "allocation_pct": 0.2, "assigned_from": "2026-07-13", "assigned_to": "2026-10-23"}
+{"assignment_id": "ASG-0066", "engagement_code": "ENG-26-013", "employee_id": "EMP1001", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-08-24", "assigned_to": "2026-11-13"}
+{"assignment_id": "ASG-0067", "engagement_code": "ENG-26-013", "employee_id": "EMP1019", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-08-24", "assigned_to": "2026-11-13"}
+{"assignment_id": "ASG-0068", "engagement_code": "ENG-26-013", "employee_id": "EMP1037", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-08-24", "assigned_to": "2026-11-13"}
+{"assignment_id": "ASG-0069", "engagement_code": "ENG-26-013", "employee_id": "EMP1034", "role": "In-charge", "allocation_pct": 0.5, "assigned_from": "2026-08-24", "assigned_to": "2026-11-13"}
+{"assignment_id": "ASG-0070", "engagement_code": "ENG-26-013", "employee_id": "EMP1042", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-08-24", "assigned_to": "2026-11-13"}
+{"assignment_id": "ASG-0071", "engagement_code": "ENG-26-014", "employee_id": "EMP1003", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-08-03", "assigned_to": "2026-10-02"}
+{"assignment_id": "ASG-0072", "engagement_code": "ENG-26-014", "employee_id": "EMP1021", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-08-03", "assigned_to": "2026-10-02"}
+{"assignment_id": "ASG-0073", "engagement_code": "ENG-26-014", "employee_id": "EMP1058", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-08-03", "assigned_to": "2026-10-02"}
+{"assignment_id": "ASG-0074", "engagement_code": "ENG-26-014", "employee_id": "EMP1049", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-08-03", "assigned_to": "2026-10-02"}
+{"assignment_id": "ASG-0075", "engagement_code": "ENG-26-014", "employee_id": "EMP1054", "role": "Team Member", "allocation_pct": 0.4, "assigned_from": "2026-08-03", "assigned_to": "2026-10-02"}
+{"assignment_id": "ASG-0076", "engagement_code": "ENG-26-014", "employee_id": "EMP1031", "role": "In-charge", "allocation_pct": 0.4, "assigned_from": "2026-08-03", "assigned_to": "2026-10-02"}
+{"assignment_id": "ASG-0077", "engagement_code": "ENG-26-015", "employee_id": "EMP1005", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-09-21", "assigned_to": "2026-12-04"}
+{"assignment_id": "ASG-0078", "engagement_code": "ENG-26-015", "employee_id": "EMP1028", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-09-21", "assigned_to": "2026-12-04"}
+{"assignment_id": "ASG-0079", "engagement_code": "ENG-26-015", "employee_id": "EMP1058", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-09-21", "assigned_to": "2026-12-04"}
+{"assignment_id": "ASG-0080", "engagement_code": "ENG-26-015", "employee_id": "EMP1056", "role": "Team Member", "allocation_pct": 0.5, "assigned_from": "2026-09-21", "assigned_to": "2026-12-04"}
+{"assignment_id": "ASG-0081", "engagement_code": "ENG-26-015", "employee_id": "EMP1036", "role": "In-charge", "allocation_pct": 0.4, "assigned_from": "2026-09-21", "assigned_to": "2026-12-04"}
+{"assignment_id": "ASG-0082", "engagement_code": "ENG-26-015", "employee_id": "EMP1038", "role": "Team Member", "allocation_pct": 0.4, "assigned_from": "2026-09-21", "assigned_to": "2026-12-04"}
+{"assignment_id": "ASG-0083", "engagement_code": "ENG-26-016", "employee_id": "EMP1007", "role": "Engagement Partner", "allocation_pct": 0.1, "assigned_from": "2026-10-05", "assigned_to": "2027-02-26"}
+{"assignment_id": "ASG-0084", "engagement_code": "ENG-26-016", "employee_id": "EMP1025", "role": "Engagement Manager", "allocation_pct": 0.4, "assigned_from": "2026-10-05", "assigned_to": "2027-02-26"}
+{"assignment_id": "ASG-0085", "engagement_code": "ENG-26-016", "employee_id": "EMP1057", "role": "Team Member", "allocation_pct": 0.2, "assigned_from": "2026-10-05", "assigned_to": "2027-02-26"}
+{"assignment_id": "ASG-0086", "engagement_code": "ENG-26-016", "employee_id": "EMP1048", "role": "Team Member", "allocation_pct": 0.2, "assigned_from": "2026-10-05", "assigned_to": "2027-02-26"}
+{"assignment_id": "ASG-0087", "engagement_code": "ENG-26-016", "employee_id": "EMP1039", "role": "Team Member", "allocation_pct": 0.8, "assigned_from": "2026-10-05", "assigned_to": "2027-02-26"}
+{"assignment_id": "ASG-0088", "engagement_code": "ENG-26-016", "employee_id": "EMP1054", "role": "Team Member", "allocation_pct": 0.6, "assigned_from": "2026-10-05", "assigned_to": "2027-02-26"}
